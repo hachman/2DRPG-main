@@ -1,0 +1,1140 @@
+fileFormatVersion: 2
+guid: 6db0c16cdb1832945be7e9ff86edb45e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6511149483994430269
+    second: cloudcity_chars_1_0
+  - first:
+      213: 2643201062401555492
+    second: cloudcity_chars_1_1
+  - first:
+      213: -7000058058549273255
+    second: cloudcity_chars_1_2
+  - first:
+      213: 6560193734390095518
+    second: cloudcity_chars_1_3
+  - first:
+      213: -4885518405969251515
+    second: cloudcity_chars_1_4
+  - first:
+      213: 975966449871084131
+    second: cloudcity_chars_1_5
+  - first:
+      213: -4497176829512249123
+    second: cloudcity_chars_1_6
+  - first:
+      213: 1754304395967093819
+    second: cloudcity_chars_1_7
+  - first:
+      213: -918057341359040922
+    second: cloudcity_chars_1_8
+  - first:
+      213: -1860576823790826047
+    second: cloudcity_chars_1_9
+  - first:
+      213: 7088317795782987788
+    second: cloudcity_chars_1_10
+  - first:
+      213: -8148151370422934
+    second: cloudcity_chars_1_11
+  - first:
+      213: 194199789035674274
+    second: cloudcity_chars_1_12
+  - first:
+      213: -7590479280476923433
+    second: cloudcity_chars_1_13
+  - first:
+      213: -8223314524437405321
+    second: cloudcity_chars_1_14
+  - first:
+      213: -8368337119671895596
+    second: cloudcity_chars_1_15
+  - first:
+      213: -7391747004501951982
+    second: cloudcity_chars_1_16
+  - first:
+      213: -1983498235473818288
+    second: cloudcity_chars_1_17
+  - first:
+      213: 1426757398133742270
+    second: cloudcity_chars_1_18
+  - first:
+      213: -3972056125602836855
+    second: cloudcity_chars_1_19
+  - first:
+      213: 1401957340295441891
+    second: cloudcity_chars_1_20
+  - first:
+      213: -2530377139309434033
+    second: cloudcity_chars_1_21
+  - first:
+      213: -3360805467052268836
+    second: cloudcity_chars_1_22
+  - first:
+      213: -6877017988570122379
+    second: cloudcity_chars_1_23
+  - first:
+      213: 574541822041890567
+    second: cloudcity_chars_1_24
+  - first:
+      213: -1165548051523109408
+    second: cloudcity_chars_1_25
+  - first:
+      213: 8210069800291826342
+    second: cloudcity_chars_1_26
+  - first:
+      213: -5695840966531734918
+    second: cloudcity_chars_1_27
+  - first:
+      213: -8578688542097837827
+    second: cloudcity_chars_1_28
+  - first:
+      213: 5215026790601688271
+    second: cloudcity_chars_1_29
+  - first:
+      213: 5806522997550785681
+    second: cloudcity_chars_1_30
+  - first:
+      213: 8160584512392054792
+    second: cloudcity_chars_1_31
+  - first:
+      213: 669308088227493770
+    second: cloudcity_chars_1_32
+  - first:
+      213: 4769426018032029896
+    second: cloudcity_chars_1_33
+  - first:
+      213: -2781616356977297446
+    second: cloudcity_chars_1_34
+  - first:
+      213: 6312191684091397210
+    second: cloudcity_chars_1_35
+  - first:
+      213: -3736099519242400773
+    second: cloudcity_chars_1_36
+  - first:
+      213: -9129811530537400581
+    second: cloudcity_chars_1_37
+  - first:
+      213: -878887448003400716
+    second: cloudcity_chars_1_38
+  - first:
+      213: 1375770090785687551
+    second: cloudcity_chars_1_39
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloudcity_chars_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 192
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bb4f845ff3c5a50800000000000000
+      internalID: 6511149483994430269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c316aac598ea420800000000000000
+      internalID: 2643201062401555492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d5f0d984ccade90800000000000000
+      internalID: -7000058058549273255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e901ca17d7a0b50800000000000000
+      internalID: 6560193734390095518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f194f4e6233cb0800000000000000
+      internalID: -4885518405969251515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad345b0545b8d00800000000000000
+      internalID: 975966449871084131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01ec82081d691c0800000000000000
+      internalID: -4497176829512249123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c568dad8a885810800000000000000
+      internalID: 1754304395967093819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666dadc46b76243f0800000000000000
+      internalID: -918057341359040922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd8f9c8c37ed26e0800000000000000
+      internalID: -1860576823790826047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0099b0da73ce5260800000000000000
+      internalID: 7088317795782987788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a656dfbac4d03eff0800000000000000
+      internalID: -8148151370422934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_12
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 112
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5de0edafe1b200800000000000000
+      internalID: 194199789035674274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9d53c7f4339a690800000000000000
+      internalID: -7590479280476923433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771299e420be0ed80800000000000000
+      internalID: -8223314524437405321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9bd3d1ab1bddb80800000000000000
+      internalID: -8368337119671895596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a7a17334d3b6990800000000000000
+      internalID: -7391747004501951982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d08f52dd23974e0800000000000000
+      internalID: -1983498235473818288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba1c685b4cdcc310800000000000000
+      internalID: 1426757398133742270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 80
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e4785affb60e8c0800000000000000
+      internalID: -3972056125602836855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edaf8ae5c0c47310800000000000000
+      internalID: 1401957340295441891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 80
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b21b7f56b42ecd0800000000000000
+      internalID: -2530377139309434033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a829eb350c51d0800000000000000
+      internalID: -3360805467052268836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5777e4d439cef80a0800000000000000
+      internalID: -6877017988570122379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f996b3ebe29f700800000000000000
+      internalID: 574541822041890567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf054f83423dfe0800000000000000
+      internalID: -1165548051523109408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 48
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa7e8b0cf600f170800000000000000
+      internalID: 8210069800291826342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7222cc91de44f0b0800000000000000
+      internalID: -5695840966531734918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 48
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df07b89093062f880800000000000000
+      internalID: -8578688542097837827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc485f35c3f7f5840800000000000000
+      internalID: 5215026790601688271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 48
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194a629e6e9e49050800000000000000
+      internalID: 5806522997550785681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808ceac9068304170800000000000000
+      internalID: 8160584512392054792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87781cf82cd94900800000000000000
+      internalID: 669308088227493770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 6
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01e43a1b7603240800000000000000
+      internalID: 4769426018032029896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7b3f439a6b569d0800000000000000
+      internalID: -2781616356977297446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54417ca4e8699750800000000000000
+      internalID: 6312191684091397210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb8c0e2845b62cc0800000000000000
+      internalID: -3736099519242400773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 6
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf68d08e8c46c4180800000000000000
+      internalID: -9129811530537400581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb2538c5809dc3f0800000000000000
+      internalID: -878887448003400716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloudcity_chars_1_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 16
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff743e1cb97b71310800000000000000
+      internalID: 1375770090785687551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cloudcity_chars_1_0: 6511149483994430269
+      cloudcity_chars_1_1: 2643201062401555492
+      cloudcity_chars_1_10: 7088317795782987788
+      cloudcity_chars_1_11: -8148151370422934
+      cloudcity_chars_1_12: 194199789035674274
+      cloudcity_chars_1_13: -7590479280476923433
+      cloudcity_chars_1_14: -8223314524437405321
+      cloudcity_chars_1_15: -8368337119671895596
+      cloudcity_chars_1_16: -7391747004501951982
+      cloudcity_chars_1_17: -1983498235473818288
+      cloudcity_chars_1_18: 1426757398133742270
+      cloudcity_chars_1_19: -3972056125602836855
+      cloudcity_chars_1_2: -7000058058549273255
+      cloudcity_chars_1_20: 1401957340295441891
+      cloudcity_chars_1_21: -2530377139309434033
+      cloudcity_chars_1_22: -3360805467052268836
+      cloudcity_chars_1_23: -6877017988570122379
+      cloudcity_chars_1_24: 574541822041890567
+      cloudcity_chars_1_25: -1165548051523109408
+      cloudcity_chars_1_26: 8210069800291826342
+      cloudcity_chars_1_27: -5695840966531734918
+      cloudcity_chars_1_28: -8578688542097837827
+      cloudcity_chars_1_29: 5215026790601688271
+      cloudcity_chars_1_3: 6560193734390095518
+      cloudcity_chars_1_30: 5806522997550785681
+      cloudcity_chars_1_31: 8160584512392054792
+      cloudcity_chars_1_32: 669308088227493770
+      cloudcity_chars_1_33: 4769426018032029896
+      cloudcity_chars_1_34: -2781616356977297446
+      cloudcity_chars_1_35: 6312191684091397210
+      cloudcity_chars_1_36: -3736099519242400773
+      cloudcity_chars_1_37: -9129811530537400581
+      cloudcity_chars_1_38: -878887448003400716
+      cloudcity_chars_1_39: 1375770090785687551
+      cloudcity_chars_1_4: -4885518405969251515
+      cloudcity_chars_1_5: 975966449871084131
+      cloudcity_chars_1_6: -4497176829512249123
+      cloudcity_chars_1_7: 1754304395967093819
+      cloudcity_chars_1_8: -918057341359040922
+      cloudcity_chars_1_9: -1860576823790826047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

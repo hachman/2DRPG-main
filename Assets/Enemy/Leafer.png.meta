@@ -1,0 +1,2390 @@
+fileFormatVersion: 2
+guid: 4d0e461766ab02447acf3bc21b0dc4af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5947435356203922993
+    second: Leafer_0
+  - first:
+      213: -3340414446609865398
+    second: Leafer_1
+  - first:
+      213: -1189657662542992552
+    second: Leafer_2
+  - first:
+      213: 6686894173987151198
+    second: Leafer_3
+  - first:
+      213: 1520419021820155408
+    second: Leafer_4
+  - first:
+      213: 1316120006171955167
+    second: Leafer_5
+  - first:
+      213: -4702928345792362310
+    second: Leafer_6
+  - first:
+      213: -8832278496448016576
+    second: Leafer_7
+  - first:
+      213: -4894564754948117995
+    second: Leafer_8
+  - first:
+      213: -351644957317687118
+    second: Leafer_9
+  - first:
+      213: 1766192268032569604
+    second: Leafer_10
+  - first:
+      213: -8810797524883281098
+    second: Leafer_11
+  - first:
+      213: 3317112603135273599
+    second: Leafer_12
+  - first:
+      213: 1937848033231483804
+    second: Leafer_13
+  - first:
+      213: -1863041838988439056
+    second: Leafer_14
+  - first:
+      213: 5728113246118945461
+    second: Leafer_15
+  - first:
+      213: -6253879945505937398
+    second: Leafer_16
+  - first:
+      213: -748944124604524420
+    second: Leafer_17
+  - first:
+      213: 1106525813634517701
+    second: Leafer_18
+  - first:
+      213: -2610641541403879028
+    second: Leafer_19
+  - first:
+      213: 2037174529101543499
+    second: Leafer_20
+  - first:
+      213: 6605841574445974185
+    second: Leafer_21
+  - first:
+      213: -137189110109187741
+    second: Leafer_22
+  - first:
+      213: -6594253047413247358
+    second: Leafer_23
+  - first:
+      213: -5567322832243843427
+    second: Leafer_24
+  - first:
+      213: 7945485914370410534
+    second: Leafer_25
+  - first:
+      213: -8790922524056598762
+    second: Leafer_26
+  - first:
+      213: 3234044168340030616
+    second: Leafer_27
+  - first:
+      213: -5748857796130570981
+    second: Leafer_28
+  - first:
+      213: -1739820960030340169
+    second: Leafer_29
+  - first:
+      213: 7155945959862510406
+    second: Leafer_30
+  - first:
+      213: -1576612441482334283
+    second: Leafer_31
+  - first:
+      213: -8677211910570638328
+    second: Leafer_32
+  - first:
+      213: 2354449634942562752
+    second: Leafer_33
+  - first:
+      213: 299858350562472904
+    second: Leafer_34
+  - first:
+      213: -6587490986195805181
+    second: Leafer_35
+  - first:
+      213: -7024799908711411068
+    second: Leafer_36
+  - first:
+      213: 6663472138402242436
+    second: Leafer_37
+  - first:
+      213: 4935061760012074022
+    second: Leafer_38
+  - first:
+      213: -5437274411144845928
+    second: Leafer_39
+  - first:
+      213: 5885591113751044757
+    second: Leafer_40
+  - first:
+      213: 3642977244508678414
+    second: Leafer_41
+  - first:
+      213: 3500940407534964387
+    second: Leafer_42
+  - first:
+      213: 8392338334393195957
+    second: Leafer_43
+  - first:
+      213: -7941941122308191597
+    second: Leafer_44
+  - first:
+      213: 8228263260320060840
+    second: Leafer_45
+  - first:
+      213: 895255615010783360
+    second: Leafer_46
+  - first:
+      213: -6869314468229417141
+    second: Leafer_47
+  - first:
+      213: 1640452428576976996
+    second: Leafer_48
+  - first:
+      213: -3455750162310899042
+    second: Leafer_49
+  - first:
+      213: -6277738497820562642
+    second: Leafer_50
+  - first:
+      213: -2795138953636611562
+    second: Leafer_51
+  - first:
+      213: 2063167774585346155
+    second: Leafer_52
+  - first:
+      213: -6075213040330036404
+    second: Leafer_53
+  - first:
+      213: 4189510906258080074
+    second: Leafer_54
+  - first:
+      213: -8758570911179464861
+    second: Leafer_55
+  - first:
+      213: 6500621039317170824
+    second: Leafer_56
+  - first:
+      213: 5964585280621064863
+    second: Leafer_57
+  - first:
+      213: -559201457641396835
+    second: Leafer_58
+  - first:
+      213: 6804984863932566657
+    second: Leafer_59
+  - first:
+      213: 2426841144609762986
+    second: Leafer_60
+  - first:
+      213: -8370722644652333394
+    second: Leafer_61
+  - first:
+      213: -4275406459864541905
+    second: Leafer_62
+  - first:
+      213: -507606332675718441
+    second: Leafer_63
+  - first:
+      213: -199596245602836906
+    second: Leafer_64
+  - first:
+      213: -5241435733744716589
+    second: Leafer_65
+  - first:
+      213: 4842024176797254767
+    second: Leafer_66
+  - first:
+      213: -8532918943819142857
+    second: Leafer_67
+  - first:
+      213: 7736469514956928280
+    second: Leafer_68
+  - first:
+      213: -6308338747460466461
+    second: Leafer_69
+  - first:
+      213: 1652696042820320880
+    second: Leafer_70
+  - first:
+      213: -623375822996019656
+    second: Leafer_71
+  - first:
+      213: 853041586580447495
+    second: Leafer_72
+  - first:
+      213: -2810083256126803035
+    second: Leafer_73
+  - first:
+      213: 7237390238073253242
+    second: Leafer_74
+  - first:
+      213: 5903733424770987828
+    second: Leafer_75
+  - first:
+      213: -1350994130465230491
+    second: Leafer_76
+  - first:
+      213: -1581647141030986609
+    second: Leafer_77
+  - first:
+      213: 844667230439026245
+    second: Leafer_78
+  - first:
+      213: 8354064825433834550
+    second: Leafer_79
+  - first:
+      213: 1986113726688794454
+    second: Leafer_80
+  - first:
+      213: 9024577919424810693
+    second: Leafer_81
+  - first:
+      213: 9066597452278273531
+    second: Leafer_82
+  - first:
+      213: 4333386076616352422
+    second: Leafer_83
+  - first:
+      213: 3361505622820098141
+    second: Leafer_84
+  - first:
+      213: -7026193558138479852
+    second: Leafer_85
+  - first:
+      213: -1510771670858821186
+    second: Leafer_86
+  - first:
+      213: 4958165337887850361
+    second: Leafer_87
+  - first:
+      213: 4955150139921347860
+    second: Leafer_88
+  - first:
+      213: 5310048994131315617
+    second: Leafer_89
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leafer_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1316
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9cddced07767da0800000000000000
+      internalID: -5947435356203922993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1279
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a456c3352c674a1d0800000000000000
+      internalID: -3340414446609865398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1309
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85badc3b8ac7d7fe0800000000000000
+      internalID: -1189657662542992552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1316
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d122392de9ccc50800000000000000
+      internalID: 6686894173987151198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1279
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01656597b0d991510800000000000000
+      internalID: 1520419021820155408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1309
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf0aa92c2cc34210800000000000000
+      internalID: 1316120006171955167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1316
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab84ee03697dbbeb0800000000000000
+      internalID: -4702928345792362310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1279
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f05edb0817d6580800000000000000
+      internalID: -8832278496448016576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_8
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1308
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aab23b943031cb0800000000000000
+      internalID: -4894564754948117995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_9
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1282
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8950046c4be1bf0800000000000000
+      internalID: -351644957317687118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1279
+        width: 251
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4017f159286c28810800000000000000
+      internalID: 1766192268032569604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_11
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1280
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63be07d2552c9b580800000000000000
+      internalID: -8810797524883281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_12
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1279
+        width: 233
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a69d57650c80e20800000000000000
+      internalID: 3317112603135273599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_13
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1279
+        width: 233
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b371e48e94ea10800000000000000
+      internalID: 1937848033231483804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_14
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1279
+        width: 233
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1576971552526e0800000000000000
+      internalID: -1863041838988439056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1023
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2212406a85e7f40800000000000000
+      internalID: 5728113246118945461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1023
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08ed24f251c539a0800000000000000
+      internalID: -6253879945505937398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1023
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d45869473b95f0800000000000000
+      internalID: -748944124604524420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_18
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1026
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca4c786d5b2b5f00800000000000000
+      internalID: 1106525813634517701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_19
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1023
+        width: 251
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c895eb0995325cbd0800000000000000
+      internalID: -2610641541403879028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_20
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1024
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b483298d07f754c10800000000000000
+      internalID: 2037174529101543499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_21
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1060
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20c57a9e9acab50800000000000000
+      internalID: 6605841574445974185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_22
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1023
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361d3e03b3b981ef0800000000000000
+      internalID: -137189110109187741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_23
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1053
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28275ed8ac18c74a0800000000000000
+      internalID: -6594253047413247358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_24
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1060
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e1f2a8165ecb2b0800000000000000
+      internalID: -5567322832243843427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_25
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1023
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6280be59759044e60800000000000000
+      internalID: 7945485914370410534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_26
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1053
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61740a96a8e500680800000000000000
+      internalID: -8790922524056598762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_27
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1060
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894c4d15902a1ec20800000000000000
+      internalID: 3234044168340030616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_28
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1023
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1df66d0b44f730b0800000000000000
+      internalID: -5748857796130570981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_29
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1052
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbcc980e0aead7e0800000000000000
+      internalID: -1739820960030340169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 767
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6432f79cfe60f4360800000000000000
+      internalID: 7155945959862510406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 767
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfebf4765fbe1ae0800000000000000
+      internalID: -1576612441482334283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_32
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 767
+        width: 244
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80406adbdb9549780800000000000000
+      internalID: -8677211910570638328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_33
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 770
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1bc44f77faca020800000000000000
+      internalID: 2354449634942562752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_34
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 767
+        width: 251
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3f534c49f492400800000000000000
+      internalID: 299858350562472904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_35
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 768
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c16be99d78494a0800000000000000
+      internalID: -6587490986195805181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_36
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 802
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825f07b3b5e28e90800000000000000
+      internalID: -7024799908711411068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_37
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 767
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f9d24fa98697c50800000000000000
+      internalID: 6663472138402242436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_38
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 798
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c322e068cdc7440800000000000000
+      internalID: 4935061760012074022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_39
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 803
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895e3612bbbea84b0800000000000000
+      internalID: -5437274411144845928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_40
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 767
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592a35c4fe1dda150800000000000000
+      internalID: 5885591113751044757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_41
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 798
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0965c7a0847e8230800000000000000
+      internalID: 3642977244508678414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_42
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 803
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeceea70c6d59030800000000000000
+      internalID: 3500940407534964387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_43
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 767
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd56682043977470800000000000000
+      internalID: 8392338334393195957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_44
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 797
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ac0c1a0ae88c190800000000000000
+      internalID: -7941941122308191597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 511
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a556cd07d9a03270800000000000000
+      internalID: 8228263260320060840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 511
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08044e31d369c6c00800000000000000
+      internalID: 895255615010783360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_47
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 511
+        width: 120
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47fbb6e2ea4ba0a0800000000000000
+      internalID: -6869314468229417141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_48
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 511
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460f144dace04c610800000000000000
+      internalID: 1640452428576976996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_49
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 511
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ad5f66985ba00d0800000000000000
+      internalID: -3455750162310899042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_50
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 511
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6c9cd81ef0e8a0800000000000000
+      internalID: -6277738497820562642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_51
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 546
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61af1a25eeba539d0800000000000000
+      internalID: -2795138953636611562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_52
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 511
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68513ce828d1ac10800000000000000
+      internalID: 2063167774585346155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_53
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 542
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bae4c7de180bba0800000000000000
+      internalID: -6075213040330036404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_54
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 547
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a414326e8f1242a30800000000000000
+      internalID: 4189510906258080074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_55
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 511
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f1413492e437680800000000000000
+      internalID: -8758570911179464861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_56
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 542
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a3eebb468d63a50800000000000000
+      internalID: 6500621039317170824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_57
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 547
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9231f306b676c250800000000000000
+      internalID: 5964585280621064863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_58
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 511
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95676fac315d38f0800000000000000
+      internalID: -559201457641396835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_59
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 541
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c4c9ceda9207e50800000000000000
+      internalID: 6804984863932566657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 270
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae64ceb92fdda120800000000000000
+      internalID: 2426841144609762986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 255
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ed2cca1835db80800000000000000
+      internalID: -8370722644652333394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 273
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f251d511a74baa4c0800000000000000
+      internalID: -4275406459864541905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_63
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 270
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d20027dabe94f8f0800000000000000
+      internalID: -507606332675718441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 255
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e575aa544ea3df0800000000000000
+      internalID: -199596245602836906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_65
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 273
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d47b1178fda247b0800000000000000
+      internalID: -5241435733744716589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_66
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 270
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f648adba553523340800000000000000
+      internalID: 4842024176797254767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_67
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 255
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73965701e6bf49980800000000000000
+      internalID: -8532918943819142857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_68
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 273
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81575a6c8067d5b60800000000000000
+      internalID: 7736469514956928280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_69
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 255
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e849ca05574478a0800000000000000
+      internalID: -6308338747460466461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_70
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 255
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ebff96b4e8fe610800000000000000
+      internalID: 1652696042820320880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_71
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 255
+        width: 221
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83661c4edf25957f0800000000000000
+      internalID: -623375822996019656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_72
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 290
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70163caadcc96db00800000000000000
+      internalID: 853041586580447495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_73
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 255
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f941ca249009d0800000000000000
+      internalID: -2810083256126803035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_74
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 286
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d6c318310607460800000000000000
+      internalID: 7237390238073253242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_75
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 291
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437331045464ee150800000000000000
+      internalID: 5903733424770987828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_76
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 255
+        width: 85
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617bf70ffd404de0800000000000000
+      internalID: -1350994130465230491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_77
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 286
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf5de1e4cdc0ae0800000000000000
+      internalID: -1581647141030986609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_78
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 291
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e2bbfee5cd8bb00800000000000000
+      internalID: 844667230439026245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_79
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 255
+        width: 86
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634c19e62b99fe370800000000000000
+      internalID: 8354064825433834550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_80
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 285
+        width: 72
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65710da59e7109b10800000000000000
+      internalID: 1986113726688794454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_81
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 233
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce462fadcdbd3d70800000000000000
+      internalID: 9024577919424810693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_82
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 233
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf51280985603dd70800000000000000
+      internalID: 9066597452278273531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_83
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 0
+        width: 233
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2675b6da7432c30800000000000000
+      internalID: 4333386076616352422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_84
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2
+        width: 185
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d509baecd8776ae20800000000000000
+      internalID: 3361505622820098141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_85
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 251
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b940c6f22fd7e90800000000000000
+      internalID: -7026193558138479852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_86
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 0
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb19cb57b29a80be0800000000000000
+      internalID: -1510771670858821186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_87
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 0
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fb576fa11fec440800000000000000
+      internalID: 4958165337887850361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_88
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4153dba7cca34c440800000000000000
+      internalID: 4955150139921347860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leafer_89
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 0
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab0e132d6511b940800000000000000
+      internalID: 5310048994131315617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Leafer_0: -5947435356203922993
+      Leafer_1: -3340414446609865398
+      Leafer_10: 1766192268032569604
+      Leafer_11: -8810797524883281098
+      Leafer_12: 3317112603135273599
+      Leafer_13: 1937848033231483804
+      Leafer_14: -1863041838988439056
+      Leafer_15: 5728113246118945461
+      Leafer_16: -6253879945505937398
+      Leafer_17: -748944124604524420
+      Leafer_18: 1106525813634517701
+      Leafer_19: -2610641541403879028
+      Leafer_2: -1189657662542992552
+      Leafer_20: 2037174529101543499
+      Leafer_21: 6605841574445974185
+      Leafer_22: -137189110109187741
+      Leafer_23: -6594253047413247358
+      Leafer_24: -5567322832243843427
+      Leafer_25: 7945485914370410534
+      Leafer_26: -8790922524056598762
+      Leafer_27: 3234044168340030616
+      Leafer_28: -5748857796130570981
+      Leafer_29: -1739820960030340169
+      Leafer_3: 6686894173987151198
+      Leafer_30: 7155945959862510406
+      Leafer_31: -1576612441482334283
+      Leafer_32: -8677211910570638328
+      Leafer_33: 2354449634942562752
+      Leafer_34: 299858350562472904
+      Leafer_35: -6587490986195805181
+      Leafer_36: -7024799908711411068
+      Leafer_37: 6663472138402242436
+      Leafer_38: 4935061760012074022
+      Leafer_39: -5437274411144845928
+      Leafer_4: 1520419021820155408
+      Leafer_40: 5885591113751044757
+      Leafer_41: 3642977244508678414
+      Leafer_42: 3500940407534964387
+      Leafer_43: 8392338334393195957
+      Leafer_44: -7941941122308191597
+      Leafer_45: 8228263260320060840
+      Leafer_46: 895255615010783360
+      Leafer_47: -6869314468229417141
+      Leafer_48: 1640452428576976996
+      Leafer_49: -3455750162310899042
+      Leafer_5: 1316120006171955167
+      Leafer_50: -6277738497820562642
+      Leafer_51: -2795138953636611562
+      Leafer_52: 2063167774585346155
+      Leafer_53: -6075213040330036404
+      Leafer_54: 4189510906258080074
+      Leafer_55: -8758570911179464861
+      Leafer_56: 6500621039317170824
+      Leafer_57: 5964585280621064863
+      Leafer_58: -559201457641396835
+      Leafer_59: 6804984863932566657
+      Leafer_6: -4702928345792362310
+      Leafer_60: 2426841144609762986
+      Leafer_61: -8370722644652333394
+      Leafer_62: -4275406459864541905
+      Leafer_63: -507606332675718441
+      Leafer_64: -199596245602836906
+      Leafer_65: -5241435733744716589
+      Leafer_66: 4842024176797254767
+      Leafer_67: -8532918943819142857
+      Leafer_68: 7736469514956928280
+      Leafer_69: -6308338747460466461
+      Leafer_7: -8832278496448016576
+      Leafer_70: 1652696042820320880
+      Leafer_71: -623375822996019656
+      Leafer_72: 853041586580447495
+      Leafer_73: -2810083256126803035
+      Leafer_74: 7237390238073253242
+      Leafer_75: 5903733424770987828
+      Leafer_76: -1350994130465230491
+      Leafer_77: -1581647141030986609
+      Leafer_78: 844667230439026245
+      Leafer_79: 8354064825433834550
+      Leafer_8: -4894564754948117995
+      Leafer_80: 1986113726688794454
+      Leafer_81: 9024577919424810693
+      Leafer_82: 9066597452278273531
+      Leafer_83: 4333386076616352422
+      Leafer_84: 3361505622820098141
+      Leafer_85: -7026193558138479852
+      Leafer_86: -1510771670858821186
+      Leafer_87: 4958165337887850361
+      Leafer_88: 4955150139921347860
+      Leafer_89: 5310048994131315617
+      Leafer_9: -351644957317687118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3890 @@
+fileFormatVersion: 2
+guid: 01c76d12549f9b7468f1f2cba23ef2cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7060973830621483343
+    second: Flarius_0
+  - first:
+      213: -6141149480101400240
+    second: Flarius_1
+  - first:
+      213: 4584880122511709354
+    second: Flarius_2
+  - first:
+      213: -4539637366886552363
+    second: Flarius_3
+  - first:
+      213: 2888616700656497854
+    second: Flarius_4
+  - first:
+      213: -1918809635404289826
+    second: Flarius_5
+  - first:
+      213: 7629768805824338853
+    second: Flarius_6
+  - first:
+      213: 9127577355145677628
+    second: Flarius_7
+  - first:
+      213: 4775101368894806453
+    second: Flarius_8
+  - first:
+      213: -8929170258916238733
+    second: Flarius_9
+  - first:
+      213: -91366538978830041
+    second: Flarius_10
+  - first:
+      213: 4913153995823440060
+    second: Flarius_11
+  - first:
+      213: -5948764981103099170
+    second: Flarius_12
+  - first:
+      213: -5957452371844141852
+    second: Flarius_13
+  - first:
+      213: 2509674127222148716
+    second: Flarius_14
+  - first:
+      213: -5403130676187502322
+    second: Flarius_15
+  - first:
+      213: -7793936379831597010
+    second: Flarius_16
+  - first:
+      213: -5866739909684501725
+    second: Flarius_17
+  - first:
+      213: 2906968109513826745
+    second: Flarius_18
+  - first:
+      213: 4509402164299295796
+    second: Flarius_19
+  - first:
+      213: -2558657278185468361
+    second: Flarius_20
+  - first:
+      213: -6038096258705256032
+    second: Flarius_21
+  - first:
+      213: -7454218597900539232
+    second: Flarius_22
+  - first:
+      213: -534333714883707992
+    second: Flarius_23
+  - first:
+      213: -7184260708511608463
+    second: Flarius_24
+  - first:
+      213: 4410703628036845224
+    second: Flarius_25
+  - first:
+      213: -4326654156473157181
+    second: Flarius_26
+  - first:
+      213: -3705580566168288787
+    second: Flarius_27
+  - first:
+      213: 5797519380140452704
+    second: Flarius_28
+  - first:
+      213: -4087788715690696269
+    second: Flarius_29
+  - first:
+      213: -4622252180757552867
+    second: Flarius_30
+  - first:
+      213: 2229863261365436839
+    second: Flarius_31
+  - first:
+      213: 8766129705173546953
+    second: Flarius_32
+  - first:
+      213: -4945193484664841800
+    second: Flarius_33
+  - first:
+      213: -5852644432858425260
+    second: Flarius_34
+  - first:
+      213: 353494823148463156
+    second: Flarius_35
+  - first:
+      213: -1287589948296110154
+    second: Flarius_36
+  - first:
+      213: 7288674484587456578
+    second: Flarius_37
+  - first:
+      213: 7320737719201551999
+    second: Flarius_38
+  - first:
+      213: -2728836158927992136
+    second: Flarius_39
+  - first:
+      213: 3257384133178494657
+    second: Flarius_40
+  - first:
+      213: 8638987653949104956
+    second: Flarius_41
+  - first:
+      213: -3048758477273758146
+    second: Flarius_42
+  - first:
+      213: 2472236367789169599
+    second: Flarius_43
+  - first:
+      213: 8069403641394302896
+    second: Flarius_44
+  - first:
+      213: -7993228594805049179
+    second: Flarius_45
+  - first:
+      213: -3262248717052876228
+    second: Flarius_46
+  - first:
+      213: -1629906200153894018
+    second: Flarius_47
+  - first:
+      213: -841232349905360258
+    second: Flarius_48
+  - first:
+      213: 515740878949970709
+    second: Flarius_49
+  - first:
+      213: 8355434675878519810
+    second: Flarius_50
+  - first:
+      213: -5604146224538419854
+    second: Flarius_51
+  - first:
+      213: -3590191208048808225
+    second: Flarius_52
+  - first:
+      213: 1435534038354802566
+    second: Flarius_53
+  - first:
+      213: -5650438153497239013
+    second: Flarius_54
+  - first:
+      213: 3230932138640468281
+    second: Flarius_55
+  - first:
+      213: -3336987101633325528
+    second: Flarius_56
+  - first:
+      213: 7566943727908703216
+    second: Flarius_57
+  - first:
+      213: -635521648854335135
+    second: Flarius_58
+  - first:
+      213: -9128740833695609946
+    second: Flarius_59
+  - first:
+      213: 2994995469832462637
+    second: Flarius_60
+  - first:
+      213: -5819573116980189114
+    second: Flarius_61
+  - first:
+      213: 483141097867339524
+    second: Flarius_62
+  - first:
+      213: -2883287313055071804
+    second: Flarius_63
+  - first:
+      213: 2130297821531442203
+    second: Flarius_64
+  - first:
+      213: -3002905695519883506
+    second: Flarius_65
+  - first:
+      213: -1116729343709307609
+    second: Flarius_66
+  - first:
+      213: -4953081535623964382
+    second: Flarius_67
+  - first:
+      213: -10552950241333096
+    second: Flarius_68
+  - first:
+      213: 458608999667900248
+    second: Flarius_69
+  - first:
+      213: 6754685719714794471
+    second: Flarius_70
+  - first:
+      213: -8734631277503702476
+    second: Flarius_71
+  - first:
+      213: 8665439659775583397
+    second: Flarius_72
+  - first:
+      213: 8984200229143779642
+    second: Flarius_73
+  - first:
+      213: -4300308038183740195
+    second: Flarius_74
+  - first:
+      213: 5907748462738125277
+    second: Flarius_75
+  - first:
+      213: 7209009495463550075
+    second: Flarius_76
+  - first:
+      213: -2371969666361664159
+    second: Flarius_77
+  - first:
+      213: -7456819008210356099
+    second: Flarius_78
+  - first:
+      213: -9185901424467534515
+    second: Flarius_79
+  - first:
+      213: 8838444707637212366
+    second: Flarius_80
+  - first:
+      213: 8462213098754854759
+    second: Flarius_81
+  - first:
+      213: 898020985140168202
+    second: Flarius_82
+  - first:
+      213: -5844901729932298733
+    second: Flarius_83
+  - first:
+      213: 5946634049050220420
+    second: Flarius_84
+  - first:
+      213: -558795432573663363
+    second: Flarius_85
+  - first:
+      213: 781131760945641169
+    second: Flarius_86
+  - first:
+      213: 2256645210090284905
+    second: Flarius_87
+  - first:
+      213: 6264175469326686855
+    second: Flarius_88
+  - first:
+      213: -5439697156085678334
+    second: Flarius_89
+  - first:
+      213: 900194457651444281
+    second: Flarius_90
+  - first:
+      213: 4579320771081005518
+    second: Flarius_91
+  - first:
+      213: 6385948985412725917
+    second: Flarius_92
+  - first:
+      213: -1068080847968960693
+    second: Flarius_93
+  - first:
+      213: 8119595081606999473
+    second: Flarius_94
+  - first:
+      213: -2441175563277736678
+    second: Flarius_95
+  - first:
+      213: 2782378191116655780
+    second: Flarius_96
+  - first:
+      213: 7747244927830903829
+    second: Flarius_97
+  - first:
+      213: 199487333620152147
+    second: Flarius_98
+  - first:
+      213: 3839955083289071801
+    second: Flarius_99
+  - first:
+      213: 5823360702588590044
+    second: Flarius_100
+  - first:
+      213: 582662477867631309
+    second: Flarius_101
+  - first:
+      213: -270184797481307941
+    second: Flarius_102
+  - first:
+      213: -5170996458008001906
+    second: Flarius_103
+  - first:
+      213: 7956376591556254170
+    second: Flarius_104
+  - first:
+      213: -1326815125588846028
+    second: Flarius_105
+  - first:
+      213: 7040350642730767634
+    second: Flarius_106
+  - first:
+      213: 5768376377468231064
+    second: Flarius_107
+  - first:
+      213: -6597178200135343506
+    second: Flarius_108
+  - first:
+      213: 2901235664404178783
+    second: Flarius_109
+  - first:
+      213: 2672255630022747341
+    second: Flarius_110
+  - first:
+      213: 5314955815215444398
+    second: Flarius_111
+  - first:
+      213: -6660865680472456961
+    second: Flarius_112
+  - first:
+      213: 1689685315401885745
+    second: Flarius_113
+  - first:
+      213: -4056896813904941556
+    second: Flarius_114
+  - first:
+      213: 4409744196754439454
+    second: Flarius_115
+  - first:
+      213: -5656133841361666439
+    second: Flarius_116
+  - first:
+      213: 5795022836034204360
+    second: Flarius_117
+  - first:
+      213: 3557019080901088132
+    second: Flarius_118
+  - first:
+      213: -6910605455033910572
+    second: Flarius_119
+  - first:
+      213: -7429056287380380020
+    second: Flarius_120
+  - first:
+      213: 5529602987663701650
+    second: Flarius_121
+  - first:
+      213: -629889146451011966
+    second: Flarius_122
+  - first:
+      213: -2044467502941027674
+    second: Flarius_123
+  - first:
+      213: 592684521787002288
+    second: Flarius_124
+  - first:
+      213: 1356868274468484837
+    second: Flarius_125
+  - first:
+      213: 2241476459943527244
+    second: Flarius_126
+  - first:
+      213: 5750316210603133548
+    second: Flarius_127
+  - first:
+      213: -8973337044056272182
+    second: Flarius_128
+  - first:
+      213: 1772373647652516432
+    second: Flarius_129
+  - first:
+      213: -5941039912138400089
+    second: Flarius_130
+  - first:
+      213: 7686152946940747869
+    second: Flarius_131
+  - first:
+      213: 3918029873965285882
+    second: Flarius_132
+  - first:
+      213: 1160152980475516528
+    second: Flarius_133
+  - first:
+      213: -3397754539280304886
+    second: Flarius_134
+  - first:
+      213: 8740130332499813328
+    second: Flarius_135
+  - first:
+      213: -278160811899108198
+    second: Flarius_136
+  - first:
+      213: -439628993120714581
+    second: Flarius_137
+  - first:
+      213: 106566470060690498
+    second: Flarius_138
+  - first:
+      213: 162345162821294460
+    second: Flarius_139
+  - first:
+      213: -7280196416074229484
+    second: Flarius_140
+  - first:
+      213: 1712796424956176548
+    second: Flarius_141
+  - first:
+      213: -4765830703718685616
+    second: Flarius_142
+  - first:
+      213: 8982981127498238429
+    second: Flarius_143
+  - first:
+      213: 3991030035983541667
+    second: Flarius_144
+  - first:
+      213: 2519315980424257272
+    second: Flarius_145
+  - first:
+      213: -5335896692271706936
+    second: Flarius_146
+  - first:
+      213: 3273996102821282030
+    second: Flarius_147
+  - first:
+      213: -7695337472689148655
+    second: Flarius_148
+  - first:
+      213: -4027724759325219514
+    second: Flarius_149
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flarius_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1919
+        width: 378
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41d58ec94e9df160800000000000000
+      internalID: 7060973830621483343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2119
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0513bf5c51146caa0800000000000000
+      internalID: -6141149480101400240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2079
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa45f000e24c0af30800000000000000
+      internalID: 4584880122511709354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1919
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc23a9edd7fff0c0800000000000000
+      internalID: -4539637366886552363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2119
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb434eea59d661820800000000000000
+      internalID: 2888616700656497854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_5
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2079
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8612a8dc40f55e0800000000000000
+      internalID: -1918809635404289826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1920
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab148dfd4262e960800000000000000
+      internalID: 7629768805824338853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_7
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2120
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b8b599e3babae70800000000000000
+      internalID: 9127577355145677628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_8
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2080
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9d47b3561944240800000000000000
+      internalID: 4775101368894806453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1919
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a905255f6351480800000000000000
+      internalID: -8929170258916238733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_10
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 2119
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7295fcbed966bbef0800000000000000
+      internalID: -91366538978830041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_11
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2079
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0e8d737870f2440800000000000000
+      internalID: 4913153995823440060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_12
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1919
+        width: 386
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2011184cdb17da0800000000000000
+      internalID: -5948764981103099170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_13
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1919
+        width: 389
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecebe9b1a0e25da0800000000000000
+      internalID: -5957452371844141852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_14
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1919
+        width: 386
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e8017625724d220800000000000000
+      internalID: 2509674127222148716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_15
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 2121
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e3dae6493405b0800000000000000
+      internalID: -5403130676187502322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_16
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2088
+        width: 189
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28c426182066d390800000000000000
+      internalID: -7793936379831597010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_17
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 1919
+        width: 386
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e5ada227259ea0800000000000000
+      internalID: -5866739909684501725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_18
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 2121
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1e5f40810a75820800000000000000
+      internalID: 2906968109513826745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_19
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2088
+        width: 189
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cef68606d949e30800000000000000
+      internalID: 4509402164299295796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_20
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1919
+        width: 385
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e89c703c2dd7cd0800000000000000
+      internalID: -2558657278185468361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_21
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 2121
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a11244a17f543ca0800000000000000
+      internalID: -6038096258705256032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_22
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 2088
+        width: 189
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa270aedab4d8890800000000000000
+      internalID: -7454218597900539232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 378
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab77dc315aa598f0800000000000000
+      internalID: -534333714883707992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1735
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1719e5f03f06c4c90800000000000000
+      internalID: -7184260708511608463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1695
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aea9aea497f53d30800000000000000
+      internalID: 4410703628036845224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1535
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c93371e7f2a4f3c0800000000000000
+      internalID: -4326654156473157181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_27
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1735
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c2faab12239cc0800000000000000
+      internalID: -3705580566168288787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_28
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1695
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06be6bfd82de47050800000000000000
+      internalID: 5797519380140452704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1536
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1e76432d14547c0800000000000000
+      internalID: -4087788715690696269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_30
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1736
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11ebaf91267adfb0800000000000000
+      internalID: -4622252180757552867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1696
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1816762d012fe10800000000000000
+      internalID: 2229863261365436839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_32
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1535
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c77edb958c87a970800000000000000
+      internalID: 8766129705173546953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_33
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1735
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9d9f8f9b42f5bb0800000000000000
+      internalID: -4945193484664841800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_34
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1695
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4585ece95ea37cea0800000000000000
+      internalID: -5852644432858425260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_35
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1535
+        width: 386
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43424b33badd7e400800000000000000
+      internalID: 353494823148463156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_36
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1535
+        width: 387
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf527393cf812ee0800000000000000
+      internalID: -1287589948296110154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_37
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1535
+        width: 381
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248e941a3d2962560800000000000000
+      internalID: 7288674484587456578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_38
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 1735
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76dfce2b2c789560800000000000000
+      internalID: 7320737719201551999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_39
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1695
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba0bd0b8f9312ad0800000000000000
+      internalID: -2728836158927992136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_40
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1535
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce091b5c9d843d20800000000000000
+      internalID: 3257384133178494657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_41
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 1735
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c332f9cff79d3e770800000000000000
+      internalID: 8638987653949104956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_42
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1695
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3603246152a0b5d0800000000000000
+      internalID: -3048758477273758146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_43
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1536
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb10e6c0e52f4220800000000000000
+      internalID: 2472236367789169599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_44
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1736
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf0d8abbd74cff60800000000000000
+      internalID: 8069403641394302896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_45
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 1696
+        width: 191
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8762661f8521190800000000000000
+      internalID: -7993228594805049179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1151
+        width: 378
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ae613731a2ab2d0800000000000000
+      internalID: -3262248717052876228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_47
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1351
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73de9252f86169e0800000000000000
+      internalID: -1629906200153894018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1311
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae25282a75354f0800000000000000
+      internalID: -841232349905360258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_49
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1151
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513f5fdc897482700800000000000000
+      internalID: 515740878949970709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_50
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1351
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20468b7919774f370800000000000000
+      internalID: 8355434675878519810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_51
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1311
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d7a0963b21a32b0800000000000000
+      internalID: -5604146224538419854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_52
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1152
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde25803e141d2ec0800000000000000
+      internalID: -3590191208048808225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_53
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1352
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687be132a9a0ce310800000000000000
+      internalID: 1435534038354802566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_54
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1312
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12ab7bcf6c9591b0800000000000000
+      internalID: -5650438153497239013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_55
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1151
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ee0179a396dc20800000000000000
+      internalID: 3230932138640468281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_56
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1351
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d51349e3a0b1d0800000000000000
+      internalID: -3336987101633325528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_57
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1311
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb4e59aa3f230960800000000000000
+      internalID: 7566943727908703216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_58
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1151
+        width: 386
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16187f07d6c2e27f0800000000000000
+      internalID: -635521648854335135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_59
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1151
+        width: 387
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab48f0f392305180800000000000000
+      internalID: -9128740833695609946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_60
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1151
+        width: 387
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21a44bf28c509920800000000000000
+      internalID: 2994995469832462637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_61
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1352
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648abf16519bc3fa0800000000000000
+      internalID: -5819573116980189114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_62
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1316
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40766cac44674b600800000000000000
+      internalID: 483141097867339524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_63
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 1151
+        width: 387
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c146ff07718cf7d0800000000000000
+      internalID: -2883287313055071804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_64
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1352
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8b26f496509d10800000000000000
+      internalID: 2130297821531442203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_65
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 1317
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f3a841e298356d0800000000000000
+      internalID: -3002905695519883506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_66
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1151
+        width: 385
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d93fd14949080f0800000000000000
+      internalID: -1116729343709307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_67
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 1353
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229569df59e134bb0800000000000000
+      internalID: -4953081535623964382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_68
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1317
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890788dc5228adff0800000000000000
+      internalID: -10552950241333096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 378
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9004947e4d5600800000000000000
+      internalID: 458608999667900248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 967
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb010dcfd67dbd50800000000000000
+      internalID: 6754685719714794471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_71
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 927
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a1064912b58c680800000000000000
+      internalID: -8734631277503702476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 767
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a461878573d14870800000000000000
+      internalID: 8665439659775583397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_73
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 967
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a391911128a4eac70800000000000000
+      internalID: 8984200229143779642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_74
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 927
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc1d4f8f9c3254c0800000000000000
+      internalID: -4300308038183740195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_75
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 768
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1bddf1de98cf150800000000000000
+      internalID: 5907748462738125277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_76
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 968
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd58fe0fb8b0460800000000000000
+      internalID: 7209009495463550075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_77
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 928
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd28ad722151fd0800000000000000
+      internalID: -2371969666361664159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_78
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 767
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78bd35be9e048890800000000000000
+      internalID: -7456819008210356099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_79
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 967
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d9bdcc25f158080800000000000000
+      internalID: -9185901424467534515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_80
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 927
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4b5ad22a678aa70800000000000000
+      internalID: 8838444707637212366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_81
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 767
+        width: 381
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fc0f48af1df6570800000000000000
+      internalID: 8462213098754854759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_82
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 967
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06402cf359667c00800000000000000
+      internalID: 898020985140168202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_83
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 927
+        width: 192
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b15028dcb2eea0800000000000000
+      internalID: -5844901729932298733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_84
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 767
+        width: 381
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48791e63920b68250800000000000000
+      internalID: 5946634049050220420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_85
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 967
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d770653c382ce38f0800000000000000
+      internalID: -558795432573663363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_86
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 927
+        width: 192
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6b0fda23327da00800000000000000
+      internalID: 781131760945641169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_87
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 767
+        width: 387
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a483ccd6315f10800000000000000
+      internalID: 2256645210090284905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_88
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 968
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78adeeb7662dee650800000000000000
+      internalID: 6264175469326686855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_89
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 932
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f7fcdd1405284b0800000000000000
+      internalID: -5439697156085678334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_90
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 767
+        width: 387
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93af61df6122e7c00800000000000000
+      internalID: 900194457651444281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_91
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 968
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9e9d0aaf30d8f30800000000000000
+      internalID: 4579320771081005518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_92
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 933
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9caa4d94c27f9850800000000000000
+      internalID: 6385948985412725917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_93
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 767
+        width: 385
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f7961b02a6d21f0800000000000000
+      internalID: -1068080847968960693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_94
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 969
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bda13f05b89ea070800000000000000
+      internalID: 8119595081606999473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_95
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 933
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15677452c33f1ed0800000000000000
+      internalID: -2441175563277736678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 372
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac5d40293efc9620800000000000000
+      internalID: 2782378191116655780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_97
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 597
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cce47173eb38b60800000000000000
+      internalID: 7747244927830903829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_98
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 551
+        width: 187
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3577e994ca8b4c200800000000000000
+      internalID: 199487333620152147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_99
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 383
+        width: 373
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b096e4adc24a4530800000000000000
+      internalID: 3839955083289071801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_100
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 597
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd713cc94bbb0d050800000000000000
+      internalID: 5823360702588590044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_101
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 551
+        width: 187
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2cf31cf68061800800000000000000
+      internalID: 582662477867631309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_102
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 383
+        width: 373
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd07a62bb5c104cf0800000000000000
+      internalID: -270184797481307941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_103
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 597
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8241a95e1eec38b0800000000000000
+      internalID: -5170996458008001906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_104
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 551
+        width: 187
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad991f6fa5aba6e60800000000000000
+      internalID: 7956376591556254170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_105
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 383
+        width: 379
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a59ac4ca4369de0800000000000000
+      internalID: -1326815125588846028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_106
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 583
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151922bb9954b160800000000000000
+      internalID: 7040350642730767634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_107
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 543
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d9fbdc0c36d0050800000000000000
+      internalID: 5768376377468231064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_108
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 383
+        width: 381
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e626bfc516d1274a0800000000000000
+      internalID: -6597178200135343506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_109
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 583
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5761822772434820800000000000000
+      internalID: 2901235664404178783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_110
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 543
+        width: 192
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc42b885652c51520800000000000000
+      internalID: 2672255630022747341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_111
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 383
+        width: 381
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea130d2772482c940800000000000000
+      internalID: 5314955815215444398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_112
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 583
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff049d254f9df83a0800000000000000
+      internalID: -6660865680472456961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_113
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 543
+        width: 192
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13829be87d7f27710800000000000000
+      internalID: 1689685315401885745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_114
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 584
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e28c497d103b7c0800000000000000
+      internalID: -4056896813904941556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_115
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 548
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d73edabfe823d30800000000000000
+      internalID: 4409744196754439454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_116
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 584
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e729f1d306181b0800000000000000
+      internalID: -5656133841361666439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_117
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 549
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c27817e09e0c6050800000000000000
+      internalID: 5795022836034204360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_118
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 585
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483556812021d5130800000000000000
+      internalID: 3557019080901088132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_119
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 549
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dab3ddd3f89810a0800000000000000
+      internalID: -6910605455033910572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_120
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 383
+        width: 387
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c866f4edaa0b6e890800000000000000
+      internalID: -7429056287380380020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_121
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 383
+        width: 387
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29632a4ce981dbc40800000000000000
+      internalID: 5529602987663701650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_122
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 383
+        width: 385
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286d9e9982f2247f0800000000000000
+      internalID: -629889146451011966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2ce5c53a790a3e0800000000000000
+      internalID: -2044467502941027674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_124
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 201
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8cf0be63a93800800000000000000
+      internalID: 592684521787002288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_125
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 168
+        width: 189
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6f0b2b18094d210800000000000000
+      internalID: 1356868274468484837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_126
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 386
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c438557e6f25b1f10800000000000000
+      internalID: 2241476459943527244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_127
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 201
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a8b27802a3dcf40800000000000000
+      internalID: 5750316210603133548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_128
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 168
+        width: 189
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac21c2f408d487380800000000000000
+      internalID: -8973337044056272182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_129
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 386
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052779d217cb89810800000000000000
+      internalID: 1772373647652516432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_130
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 201
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae92984daf2d8da0800000000000000
+      internalID: -5941039912138400089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_131
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 168
+        width: 189
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50a9bbd163baaa60800000000000000
+      internalID: 7686152946940747869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_132
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 0
+        width: 379
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1c1196963af5630800000000000000
+      internalID: 3918029873965285882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_133
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 199
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0769a5e2df0b91010800000000000000
+      internalID: 1160152980475516528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_134
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 159
+        width: 194
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05f934af30c8d0d0800000000000000
+      internalID: -3397754539280304886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_135
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 386
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3a44fea3e2b4970800000000000000
+      internalID: 8740130332499813328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_136
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 199
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94c1502736c32cf0800000000000000
+      internalID: -278160811899108198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_137
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 159
+        width: 186
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0c31092cf16e9f0800000000000000
+      internalID: -439628993120714581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_138
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 0
+        width: 386
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c4fe0d3a99a7100800000000000000
+      internalID: 106566470060690498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_139
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 199
+        width: 117
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7957f0c014c04200800000000000000
+      internalID: 162345162821294460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_140
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 159
+        width: 186
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419d2d48eeb87fa90800000000000000
+      internalID: -7280196416074229484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_141
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 0
+        width: 387
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a86212164315c710800000000000000
+      internalID: 1712796424956176548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_142
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 200
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054a235b93e5cddb0800000000000000
+      internalID: -4765830703718685616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_143
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 164
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd90298ddb5f9ac70800000000000000
+      internalID: 8982981127498238429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_144
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 0
+        width: 387
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a6be1cacf26730800000000000000
+      internalID: 3991030035983541667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_145
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 200
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe172a498866f220800000000000000
+      internalID: 2519315980424257272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_146
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 165
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc86faaa3613f5b0800000000000000
+      internalID: -5335896692271706936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_147
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 0
+        width: 385
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee00da0fb129f6d20800000000000000
+      internalID: 3273996102821282030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_148
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 201
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d6c99175ba43590800000000000000
+      internalID: -7695337472689148655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flarius_149
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 165
+        width: 191
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645ef53dba5aa18c0800000000000000
+      internalID: -4027724759325219514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flarius_0: 7060973830621483343
+      Flarius_1: -6141149480101400240
+      Flarius_10: -91366538978830041
+      Flarius_100: 5823360702588590044
+      Flarius_101: 582662477867631309
+      Flarius_102: -270184797481307941
+      Flarius_103: -5170996458008001906
+      Flarius_104: 7956376591556254170
+      Flarius_105: -1326815125588846028
+      Flarius_106: 7040350642730767634
+      Flarius_107: 5768376377468231064
+      Flarius_108: -6597178200135343506
+      Flarius_109: 2901235664404178783
+      Flarius_11: 4913153995823440060
+      Flarius_110: 2672255630022747341
+      Flarius_111: 5314955815215444398
+      Flarius_112: -6660865680472456961
+      Flarius_113: 1689685315401885745
+      Flarius_114: -4056896813904941556
+      Flarius_115: 4409744196754439454
+      Flarius_116: -5656133841361666439
+      Flarius_117: 5795022836034204360
+      Flarius_118: 3557019080901088132
+      Flarius_119: -6910605455033910572
+      Flarius_12: -5948764981103099170
+      Flarius_120: -7429056287380380020
+      Flarius_121: 5529602987663701650
+      Flarius_122: -629889146451011966
+      Flarius_123: -2044467502941027674
+      Flarius_124: 592684521787002288
+      Flarius_125: 1356868274468484837
+      Flarius_126: 2241476459943527244
+      Flarius_127: 5750316210603133548
+      Flarius_128: -8973337044056272182
+      Flarius_129: 1772373647652516432
+      Flarius_13: -5957452371844141852
+      Flarius_130: -5941039912138400089
+      Flarius_131: 7686152946940747869
+      Flarius_132: 3918029873965285882
+      Flarius_133: 1160152980475516528
+      Flarius_134: -3397754539280304886
+      Flarius_135: 8740130332499813328
+      Flarius_136: -278160811899108198
+      Flarius_137: -439628993120714581
+      Flarius_138: 106566470060690498
+      Flarius_139: 162345162821294460
+      Flarius_14: 2509674127222148716
+      Flarius_140: -7280196416074229484
+      Flarius_141: 1712796424956176548
+      Flarius_142: -4765830703718685616
+      Flarius_143: 8982981127498238429
+      Flarius_144: 3991030035983541667
+      Flarius_145: 2519315980424257272
+      Flarius_146: -5335896692271706936
+      Flarius_147: 3273996102821282030
+      Flarius_148: -7695337472689148655
+      Flarius_149: -4027724759325219514
+      Flarius_15: -5403130676187502322
+      Flarius_16: -7793936379831597010
+      Flarius_17: -5866739909684501725
+      Flarius_18: 2906968109513826745
+      Flarius_19: 4509402164299295796
+      Flarius_2: 4584880122511709354
+      Flarius_20: -2558657278185468361
+      Flarius_21: -6038096258705256032
+      Flarius_22: -7454218597900539232
+      Flarius_23: -534333714883707992
+      Flarius_24: -7184260708511608463
+      Flarius_25: 4410703628036845224
+      Flarius_26: -4326654156473157181
+      Flarius_27: -3705580566168288787
+      Flarius_28: 5797519380140452704
+      Flarius_29: -4087788715690696269
+      Flarius_3: -4539637366886552363
+      Flarius_30: -4622252180757552867
+      Flarius_31: 2229863261365436839
+      Flarius_32: 8766129705173546953
+      Flarius_33: -4945193484664841800
+      Flarius_34: -5852644432858425260
+      Flarius_35: 353494823148463156
+      Flarius_36: -1287589948296110154
+      Flarius_37: 7288674484587456578
+      Flarius_38: 7320737719201551999
+      Flarius_39: -2728836158927992136
+      Flarius_4: 2888616700656497854
+      Flarius_40: 3257384133178494657
+      Flarius_41: 8638987653949104956
+      Flarius_42: -3048758477273758146
+      Flarius_43: 2472236367789169599
+      Flarius_44: 8069403641394302896
+      Flarius_45: -7993228594805049179
+      Flarius_46: -3262248717052876228
+      Flarius_47: -1629906200153894018
+      Flarius_48: -841232349905360258
+      Flarius_49: 515740878949970709
+      Flarius_5: -1918809635404289826
+      Flarius_50: 8355434675878519810
+      Flarius_51: -5604146224538419854
+      Flarius_52: -3590191208048808225
+      Flarius_53: 1435534038354802566
+      Flarius_54: -5650438153497239013
+      Flarius_55: 3230932138640468281
+      Flarius_56: -3336987101633325528
+      Flarius_57: 7566943727908703216
+      Flarius_58: -635521648854335135
+      Flarius_59: -9128740833695609946
+      Flarius_6: 7629768805824338853
+      Flarius_60: 2994995469832462637
+      Flarius_61: -5819573116980189114
+      Flarius_62: 483141097867339524
+      Flarius_63: -2883287313055071804
+      Flarius_64: 2130297821531442203
+      Flarius_65: -3002905695519883506
+      Flarius_66: -1116729343709307609
+      Flarius_67: -4953081535623964382
+      Flarius_68: -10552950241333096
+      Flarius_69: 458608999667900248
+      Flarius_7: 9127577355145677628
+      Flarius_70: 6754685719714794471
+      Flarius_71: -8734631277503702476
+      Flarius_72: 8665439659775583397
+      Flarius_73: 8984200229143779642
+      Flarius_74: -4300308038183740195
+      Flarius_75: 5907748462738125277
+      Flarius_76: 7209009495463550075
+      Flarius_77: -2371969666361664159
+      Flarius_78: -7456819008210356099
+      Flarius_79: -9185901424467534515
+      Flarius_8: 4775101368894806453
+      Flarius_80: 8838444707637212366
+      Flarius_81: 8462213098754854759
+      Flarius_82: 898020985140168202
+      Flarius_83: -5844901729932298733
+      Flarius_84: 5946634049050220420
+      Flarius_85: -558795432573663363
+      Flarius_86: 781131760945641169
+      Flarius_87: 2256645210090284905
+      Flarius_88: 6264175469326686855
+      Flarius_89: -5439697156085678334
+      Flarius_9: -8929170258916238733
+      Flarius_90: 900194457651444281
+      Flarius_91: 4579320771081005518
+      Flarius_92: 6385948985412725917
+      Flarius_93: -1068080847968960693
+      Flarius_94: 8119595081606999473
+      Flarius_95: -2441175563277736678
+      Flarius_96: 2782378191116655780
+      Flarius_97: 7747244927830903829
+      Flarius_98: 199487333620152147
+      Flarius_99: 3839955083289071801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

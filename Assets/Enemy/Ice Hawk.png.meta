@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: 9c41ab19e80a0a2488e06089079efc9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7782771398752656231
+    second: Ice Hawk_0
+  - first:
+      213: -8741774473222630282
+    second: Ice Hawk_1
+  - first:
+      213: -7324614624255418545
+    second: Ice Hawk_2
+  - first:
+      213: -7556870860350545625
+    second: Ice Hawk_3
+  - first:
+      213: -4661392505749727958
+    second: Ice Hawk_4
+  - first:
+      213: 560155473243914222
+    second: Ice Hawk_5
+  - first:
+      213: -7093487274724329784
+    second: Ice Hawk_6
+  - first:
+      213: -7455507718979834135
+    second: Ice Hawk_7
+  - first:
+      213: 2792912504466616022
+    second: Ice Hawk_8
+  - first:
+      213: -1008095368364920169
+    second: Ice Hawk_9
+  - first:
+      213: 8933342740740950989
+    second: Ice Hawk_10
+  - first:
+      213: 8477779018161909756
+    second: Ice Hawk_11
+  - first:
+      213: -7782382012913084208
+    second: Ice Hawk_12
+  - first:
+      213: 8249730701130205970
+    second: Ice Hawk_13
+  - first:
+      213: -8771026998372889531
+    second: Ice Hawk_14
+  - first:
+      213: 8539331366173148534
+    second: Ice Hawk_15
+  - first:
+      213: 8329041350133829970
+    second: Ice Hawk_16
+  - first:
+      213: -1093233214194682626
+    second: Ice Hawk_17
+  - first:
+      213: -7946123398064670708
+    second: Ice Hawk_18
+  - first:
+      213: 3713262984051703599
+    second: Ice Hawk_19
+  - first:
+      213: -6257027121899332835
+    second: Ice Hawk_20
+  - first:
+      213: -4374573344514060822
+    second: Ice Hawk_21
+  - first:
+      213: -3261247468646578871
+    second: Ice Hawk_22
+  - first:
+      213: 5227332717585137191
+    second: Ice Hawk_23
+  - first:
+      213: -5281291295522729997
+    second: Ice Hawk_24
+  - first:
+      213: -4966138723640894548
+    second: Ice Hawk_25
+  - first:
+      213: -5853245971316871316
+    second: Ice Hawk_26
+  - first:
+      213: -2363185800073292105
+    second: Ice Hawk_27
+  - first:
+      213: -5070484172045948638
+    second: Ice Hawk_28
+  - first:
+      213: 5794944418347959403
+    second: Ice Hawk_29
+  - first:
+      213: -6218459617039379712
+    second: Ice Hawk_30
+  - first:
+      213: -664060728226042675
+    second: Ice Hawk_31
+  - first:
+      213: -99279939774378722
+    second: Ice Hawk_32
+  - first:
+      213: -7538261049202317753
+    second: Ice Hawk_33
+  - first:
+      213: 8515497698650552950
+    second: Ice Hawk_34
+  - first:
+      213: -671280534955654487
+    second: Ice Hawk_35
+  - first:
+      213: 6364405699818796891
+    second: Ice Hawk_36
+  - first:
+      213: -1261519916183696435
+    second: Ice Hawk_37
+  - first:
+      213: -3362842452180150627
+    second: Ice Hawk_38
+  - first:
+      213: -7507540774389940273
+    second: Ice Hawk_39
+  - first:
+      213: -1604205867490722213
+    second: Ice Hawk_40
+  - first:
+      213: 504286523456510251
+    second: Ice Hawk_41
+  - first:
+      213: -3004997647844677519
+    second: Ice Hawk_42
+  - first:
+      213: 3627009190341968848
+    second: Ice Hawk_43
+  - first:
+      213: -9013881556211546274
+    second: Ice Hawk_44
+  - first:
+      213: -8124265433739660400
+    second: Ice Hawk_45
+  - first:
+      213: 4692506330535141120
+    second: Ice Hawk_46
+  - first:
+      213: -4045418291318631425
+    second: Ice Hawk_47
+  - first:
+      213: -2603258387001372599
+    second: Ice Hawk_48
+  - first:
+      213: -945627449722887095
+    second: Ice Hawk_49
+  - first:
+      213: 466786683016027951
+    second: Ice Hawk_50
+  - first:
+      213: -702720531852495735
+    second: Ice Hawk_51
+  - first:
+      213: 4333386716016002739
+    second: Ice Hawk_52
+  - first:
+      213: -1618449677612083352
+    second: Ice Hawk_53
+  - first:
+      213: -5981195281759750182
+    second: Ice Hawk_54
+  - first:
+      213: 3926408476732571503
+    second: Ice Hawk_55
+  - first:
+      213: -6590471686902952378
+    second: Ice Hawk_56
+  - first:
+      213: -2195156880505170988
+    second: Ice Hawk_57
+  - first:
+      213: -812917024305710795
+    second: Ice Hawk_58
+  - first:
+      213: 7014181303783472820
+    second: Ice Hawk_59
+  - first:
+      213: -9120658436515938058
+    second: Ice Hawk_60
+  - first:
+      213: 4212211265789197914
+    second: Ice Hawk_61
+  - first:
+      213: -287274141563126674
+    second: Ice Hawk_62
+  - first:
+      213: 1751728463682911511
+    second: Ice Hawk_63
+  - first:
+      213: 6277218185123828701
+    second: Ice Hawk_64
+  - first:
+      213: -2947793167537620019
+    second: Ice Hawk_65
+  - first:
+      213: -1621805143078557483
+    second: Ice Hawk_66
+  - first:
+      213: 7261557683904435919
+    second: Ice Hawk_67
+  - first:
+      213: -5685433959676647570
+    second: Ice Hawk_68
+  - first:
+      213: -4074320498885571508
+    second: Ice Hawk_69
+  - first:
+      213: 2512509372075345949
+    second: Ice Hawk_70
+  - first:
+      213: 7011227662295298172
+    second: Ice Hawk_71
+  - first:
+      213: -398046154889950631
+    second: Ice Hawk_72
+  - first:
+      213: 6757176667671839411
+    second: Ice Hawk_73
+  - first:
+      213: -7796621255706855799
+    second: Ice Hawk_74
+  - first:
+      213: -1448438584232474911
+    second: Ice Hawk_75
+  - first:
+      213: 6299795754813030522
+    second: Ice Hawk_76
+  - first:
+      213: -4776221817228932307
+    second: Ice Hawk_77
+  - first:
+      213: -3776257807572212885
+    second: Ice Hawk_78
+  - first:
+      213: 7743411153281199771
+    second: Ice Hawk_79
+  - first:
+      213: 9160514527109618024
+    second: Ice Hawk_80
+  - first:
+      213: 6665965219315868765
+    second: Ice Hawk_81
+  - first:
+      213: -9113084958655651619
+    second: Ice Hawk_82
+  - first:
+      213: 9102149393919835123
+    second: Ice Hawk_83
+  - first:
+      213: -2942326977955388732
+    second: Ice Hawk_84
+  - first:
+      213: 5842839038300042440
+    second: Ice Hawk_85
+  - first:
+      213: -427276020257017889
+    second: Ice Hawk_86
+  - first:
+      213: -6200643096493068355
+    second: Ice Hawk_87
+  - first:
+      213: 3539974876619094449
+    second: Ice Hawk_88
+  - first:
+      213: 5689867569466183863
+    second: Ice Hawk_89
+  - first:
+      213: 8687569401578019472
+    second: Ice Hawk_90
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice Hawk_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2559
+        width: 439
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd8be2a55f10c60800000000000000
+      internalID: 7782771398752656231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2559
+        width: 444
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674dcf8be6afea680800000000000000
+      internalID: -8741774473222630282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_2
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2559
+        width: 447
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fdf948ecdb95a90800000000000000
+      internalID: -7324614624255418545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_3
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2559
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7212e439df9902790800000000000000
+      internalID: -7556870860350545625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_4
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 2574
+        width: 373
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a259e1096386f4fb0800000000000000
+      internalID: -4661392505749727958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_5
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 2801
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefb1b16f6216c700800000000000000
+      internalID: 560155473243914222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_6
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 2574
+        width: 418
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c67d4318eede8d90800000000000000
+      internalID: -7093487274724329784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_7
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 2733
+        width: 260
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee26060b37b88890800000000000000
+      internalID: -7455507718979834135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_8
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 2559
+        width: 519
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deaa75102b62c620800000000000000
+      internalID: 2792912504466616022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_9
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2559
+        width: 455
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79274e48a968202f0800000000000000
+      internalID: -1008095368364920169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_10
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 2559
+        width: 329
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbcdae44eb99fb70800000000000000
+      internalID: 8933342740740950989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_11
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 2679
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffeccd891f17a570800000000000000
+      internalID: 8477779018161909756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_12
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 2667
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d81de5cacc6ff390800000000000000
+      internalID: -7782382012913084208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_13
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2679
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b008d1d5eec7270800000000000000
+      internalID: 8249730701130205970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_14
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 2670
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c8f967a6d074680800000000000000
+      internalID: -8771026998372889531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_15
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 2670
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6750a1c52acc18670800000000000000
+      internalID: 8539331366173148534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2047
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25154429af2b69370800000000000000
+      internalID: 8329041350133829970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_17
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2047
+        width: 412
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef474431f2e04d0f0800000000000000
+      internalID: -1093233214194682626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_18
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2047
+        width: 417
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c087fecaed2b9b190800000000000000
+      internalID: -7946123398064670708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_19
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 2047
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f3202a209288330800000000000000
+      internalID: 3713262984051703599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_20
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 2048
+        width: 266
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b9439dbf29a29a0800000000000000
+      internalID: -6257027121899332835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_21
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 2284
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedc85c78b46a43c0800000000000000
+      internalID: -4374573344514060822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_22
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 2049
+        width: 351
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945cda2c4b8bdb2d0800000000000000
+      internalID: -3261247468646578871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_23
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 2284
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e707a39673b8840800000000000000
+      internalID: 5227332717585137191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_24
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2047
+        width: 540
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff41075c8515b6b0800000000000000
+      internalID: -5281291295522729997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_25
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 2047
+        width: 444
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab9210842bb41bb0800000000000000
+      internalID: -4966138723640894548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_26
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 2047
+        width: 447
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6feba80dc715cea0800000000000000
+      internalID: -5853245971316871316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_27
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2224
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b652681907443fd0800000000000000
+      internalID: -2363185800073292105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_28
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 2224
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229e5f5928502a9b0800000000000000
+      internalID: -5070484172045948638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_29
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6443ccde37cb6050800000000000000
+      internalID: 5794944418347959403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_30
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 2126
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0039144dce793b9a0800000000000000
+      internalID: -6218459617039379712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_31
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccacc83948c8c6f0800000000000000
+      internalID: -664060728226042675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_32
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2126
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0d68bb694f9ef0800000000000000
+      internalID: -99279939774378722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1535
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746e122e387b26790800000000000000
+      internalID: -7538261049202317753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_34
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1535
+        width: 412
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af8b53a002d2670800000000000000
+      internalID: 8515497698650552950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_35
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1535
+        width: 417
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a28559f8e12fa6f0800000000000000
+      internalID: -671280534955654487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_36
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1535
+        width: 412
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57bb209349e25850800000000000000
+      internalID: 6364405699818796891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_37
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1550
+        width: 266
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb4acee15e2e7ee0800000000000000
+      internalID: -1261519916183696435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_38
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1777
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96d23a5b98c451d0800000000000000
+      internalID: -3362842452180150627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_39
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1550
+        width: 351
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff9bd317bdfc790800000000000000
+      internalID: -7507540774389940273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_40
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1777
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e3e915347bcb9e0800000000000000
+      internalID: -1604205867490722213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_41
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1535
+        width: 541
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2954a7dbe59ff600800000000000000
+      internalID: 504286523456510251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_42
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 1535
+        width: 444
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17865597f8a1c46d0800000000000000
+      internalID: -3004997647844677519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_43
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1535
+        width: 447
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3096354a9b55230800000000000000
+      internalID: 3627009190341968848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_44
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1717
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57c0927b7248e280800000000000000
+      internalID: -9013881556211546274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_45
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1717
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09376f8d1afc04f80800000000000000
+      internalID: -8124265433739660400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_46
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1646
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f91d945a12f1140800000000000000
+      internalID: 4692506330535141120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_47
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 1619
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3d5126f79cbd7c0800000000000000
+      internalID: -4045418291318631425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_48
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1646
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9401a382a4e5fdbd0800000000000000
+      internalID: -2603258387001372599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_49
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 1619
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a86938d470e2f0800000000000000
+      internalID: -945627449722887095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1023
+        width: 325
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9d0bd30c5a7600800000000000000
+      internalID: 466786683016027951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1209
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984fe82466f6f36f0800000000000000
+      internalID: -702720531852495735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_52
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1023
+        width: 403
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6c78a4248432c30800000000000000
+      internalID: 4333386716016002739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_53
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1209
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8671617d79c1a89e0800000000000000
+      internalID: -1618449677612083352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_54
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1023
+        width: 403
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7b77ab4968efca0800000000000000
+      internalID: -5981195281759750182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_55
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1209
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3ab2e4b76d7630800000000000000
+      internalID: 3926408476732571503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_56
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1023
+        width: 510
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e41e72be0f984a0800000000000000
+      internalID: -6590471686902952378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_57
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1023
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d31c37927c3981e0800000000000000
+      internalID: -2195156880505170988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_58
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1023
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539f36ef540f7b4f0800000000000000
+      internalID: -812917024305710795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_59
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 1023
+        width: 439
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be333aabb0675160800000000000000
+      internalID: 7014181303783472820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_60
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 1023
+        width: 444
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f04ccda979ec6180800000000000000
+      internalID: -9120658436515938058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_61
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1023
+        width: 447
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e734834d7c47a30800000000000000
+      internalID: 4212211265789197914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1156
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c79f6b0b5630cf0800000000000000
+      internalID: -287274141563126674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_63
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1156
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db2c4b1c36f4810800000000000000
+      internalID: 1751728463682911511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_64
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1156
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd39de56ea82d1750800000000000000
+      internalID: 6277218185123828701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 511
+        width: 428
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb8917bb55717d0800000000000000
+      internalID: -2947793167537620019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_66
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 511
+        width: 428
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8a6e7a0d03e79e0800000000000000
+      internalID: -1621805143078557483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_67
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 511
+        width: 428
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6d1297d3c36c460800000000000000
+      internalID: 7261557683904435919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_68
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 511
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e787bfe74911b0800000000000000
+      internalID: -5685433959676647570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_69
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 511
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c45dac71b1577c0800000000000000
+      internalID: -4074320498885571508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_70
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 511
+        width: 425
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18046946f93ed220800000000000000
+      internalID: 2512509372075345949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_71
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 511
+        width: 439
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f08a6962ec4160800000000000000
+      internalID: 7011227662295298172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_72
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 511
+        width: 444
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a039d812bd97af0800000000000000
+      internalID: -398046154889950631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_73
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 511
+        width: 447
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b24321d06056cd50800000000000000
+      internalID: 6757176667671839411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 541
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863555b646dcc390800000000000000
+      internalID: -7796621255706855799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_75
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 0
+        width: 455
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68ad328cc16ebe0800000000000000
+      internalID: -1448438584232474911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_76
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 329
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70052b7cde5d6750800000000000000
+      internalID: 6299795754813030522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_77
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 412
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b499f009377bdb0800000000000000
+      internalID: -4776221817228932307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_78
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 0
+        width: 266
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63ec5f0889089bc0800000000000000
+      internalID: -3776257807572212885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_79
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 236
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eaf15ea6f167b60800000000000000
+      internalID: 7743411153281199771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_80
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 1
+        width: 351
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8699c2c8d6fa02f70800000000000000
+      internalID: 9160514527109618024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_81
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 236
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546e669c04428c50800000000000000
+      internalID: 6665965219315868765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_82
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 0
+        width: 540
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0ef576381d78180800000000000000
+      internalID: -9113084958655651619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_83
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 0
+        width: 444
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbf02506a4515e70800000000000000
+      internalID: 9102149393919835123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_84
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 0
+        width: 447
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2abe1e331ca27d0800000000000000
+      internalID: -2942326977955388732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_85
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 176
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4b8ad062fe51150800000000000000
+      internalID: 5842839038300042440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_86
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 176
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfa98f29b2021af0800000000000000
+      internalID: -427276020257017889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_87
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 105
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf6d86c4f3e2f9a0800000000000000
+      internalID: -6200643096493068355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_88
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 78
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b930ba0564802130800000000000000
+      internalID: 3539974876619094449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_89
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 105
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01c01886876fe40800000000000000
+      internalID: 5689867569466183863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice Hawk_90
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 78
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a5c9e8752709870800000000000000
+      internalID: 8687569401578019472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ice Hawk_0: 7782771398752656231
+      Ice Hawk_1: -8741774473222630282
+      Ice Hawk_10: 8933342740740950989
+      Ice Hawk_11: 8477779018161909756
+      Ice Hawk_12: -7782382012913084208
+      Ice Hawk_13: 8249730701130205970
+      Ice Hawk_14: -8771026998372889531
+      Ice Hawk_15: 8539331366173148534
+      Ice Hawk_16: 8329041350133829970
+      Ice Hawk_17: -1093233214194682626
+      Ice Hawk_18: -7946123398064670708
+      Ice Hawk_19: 3713262984051703599
+      Ice Hawk_2: -7324614624255418545
+      Ice Hawk_20: -6257027121899332835
+      Ice Hawk_21: -4374573344514060822
+      Ice Hawk_22: -3261247468646578871
+      Ice Hawk_23: 5227332717585137191
+      Ice Hawk_24: -5281291295522729997
+      Ice Hawk_25: -4966138723640894548
+      Ice Hawk_26: -5853245971316871316
+      Ice Hawk_27: -2363185800073292105
+      Ice Hawk_28: -5070484172045948638
+      Ice Hawk_29: 5794944418347959403
+      Ice Hawk_3: -7556870860350545625
+      Ice Hawk_30: -6218459617039379712
+      Ice Hawk_31: -664060728226042675
+      Ice Hawk_32: -99279939774378722
+      Ice Hawk_33: -7538261049202317753
+      Ice Hawk_34: 8515497698650552950
+      Ice Hawk_35: -671280534955654487
+      Ice Hawk_36: 6364405699818796891
+      Ice Hawk_37: -1261519916183696435
+      Ice Hawk_38: -3362842452180150627
+      Ice Hawk_39: -7507540774389940273
+      Ice Hawk_4: -4661392505749727958
+      Ice Hawk_40: -1604205867490722213
+      Ice Hawk_41: 504286523456510251
+      Ice Hawk_42: -3004997647844677519
+      Ice Hawk_43: 3627009190341968848
+      Ice Hawk_44: -9013881556211546274
+      Ice Hawk_45: -8124265433739660400
+      Ice Hawk_46: 4692506330535141120
+      Ice Hawk_47: -4045418291318631425
+      Ice Hawk_48: -2603258387001372599
+      Ice Hawk_49: -945627449722887095
+      Ice Hawk_5: 560155473243914222
+      Ice Hawk_50: 466786683016027951
+      Ice Hawk_51: -702720531852495735
+      Ice Hawk_52: 4333386716016002739
+      Ice Hawk_53: -1618449677612083352
+      Ice Hawk_54: -5981195281759750182
+      Ice Hawk_55: 3926408476732571503
+      Ice Hawk_56: -6590471686902952378
+      Ice Hawk_57: -2195156880505170988
+      Ice Hawk_58: -812917024305710795
+      Ice Hawk_59: 7014181303783472820
+      Ice Hawk_6: -7093487274724329784
+      Ice Hawk_60: -9120658436515938058
+      Ice Hawk_61: 4212211265789197914
+      Ice Hawk_62: -287274141563126674
+      Ice Hawk_63: 1751728463682911511
+      Ice Hawk_64: 6277218185123828701
+      Ice Hawk_65: -2947793167537620019
+      Ice Hawk_66: -1621805143078557483
+      Ice Hawk_67: 7261557683904435919
+      Ice Hawk_68: -5685433959676647570
+      Ice Hawk_69: -4074320498885571508
+      Ice Hawk_7: -7455507718979834135
+      Ice Hawk_70: 2512509372075345949
+      Ice Hawk_71: 7011227662295298172
+      Ice Hawk_72: -398046154889950631
+      Ice Hawk_73: 6757176667671839411
+      Ice Hawk_74: -7796621255706855799
+      Ice Hawk_75: -1448438584232474911
+      Ice Hawk_76: 6299795754813030522
+      Ice Hawk_77: -4776221817228932307
+      Ice Hawk_78: -3776257807572212885
+      Ice Hawk_79: 7743411153281199771
+      Ice Hawk_8: 2792912504466616022
+      Ice Hawk_80: 9160514527109618024
+      Ice Hawk_81: 6665965219315868765
+      Ice Hawk_82: -9113084958655651619
+      Ice Hawk_83: 9102149393919835123
+      Ice Hawk_84: -2942326977955388732
+      Ice Hawk_85: 5842839038300042440
+      Ice Hawk_86: -427276020257017889
+      Ice Hawk_87: -6200643096493068355
+      Ice Hawk_88: 3539974876619094449
+      Ice Hawk_89: 5689867569466183863
+      Ice Hawk_9: -1008095368364920169
+      Ice Hawk_90: 8687569401578019472
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

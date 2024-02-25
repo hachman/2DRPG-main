@@ -1,0 +1,1090 @@
+fileFormatVersion: 2
+guid: f1a927faa0ec1eb469d7ed3a5bc4eaed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6644489007705344429
+    second: cloud_tileB_3_0
+  - first:
+      213: 7785883317599598041
+    second: cloud_tileB_3_1
+  - first:
+      213: -4166553711336941052
+    second: cloud_tileB_3_2
+  - first:
+      213: -5318153182689448616
+    second: cloud_tileB_3_3
+  - first:
+      213: 8410704676248530720
+    second: cloud_tileB_3_4
+  - first:
+      213: 9144248880062407193
+    second: cloud_tileB_3_5
+  - first:
+      213: -2329337047199682979
+    second: cloud_tileB_3_6
+  - first:
+      213: -7900126728673009419
+    second: cloud_tileB_3_7
+  - first:
+      213: -4092014965165395453
+    second: cloud_tileB_3_8
+  - first:
+      213: -8402969101511450894
+    second: cloud_tileB_3_9
+  - first:
+      213: -714446539896725418
+    second: cloud_tileB_3_10
+  - first:
+      213: 2709718044640062424
+    second: cloud_tileB_3_11
+  - first:
+      213: -5474463150280632834
+    second: cloud_tileB_3_12
+  - first:
+      213: -7107765960735506430
+    second: cloud_tileB_3_13
+  - first:
+      213: -8131062572683952236
+    second: cloud_tileB_3_14
+  - first:
+      213: 2431752331175787892
+    second: cloud_tileB_3_15
+  - first:
+      213: -2468055490753181904
+    second: cloud_tileB_3_16
+  - first:
+      213: -8807597210163301582
+    second: cloud_tileB_3_17
+  - first:
+      213: 3812338655600592124
+    second: cloud_tileB_3_18
+  - first:
+      213: 3165373199041532293
+    second: cloud_tileB_3_19
+  - first:
+      213: -2727277516815894182
+    second: cloud_tileB_3_20
+  - first:
+      213: 8114985749630462083
+    second: cloud_tileB_3_21
+  - first:
+      213: -2617019864339690114
+    second: cloud_tileB_3_22
+  - first:
+      213: -2019703750670153954
+    second: cloud_tileB_3_23
+  - first:
+      213: 920721092615300321
+    second: cloud_tileB_3_24
+  - first:
+      213: 7081413851851799671
+    second: cloud_tileB_3_25
+  - first:
+      213: -4473541323280383923
+    second: cloud_tileB_3_26
+  - first:
+      213: -6450664274386926678
+    second: cloud_tileB_3_27
+  - first:
+      213: 3055280950202203308
+    second: cloud_tileB_3_28
+  - first:
+      213: 2179216450462907112
+    second: cloud_tileB_3_29
+  - first:
+      213: 6289867880626646156
+    second: cloud_tileB_3_30
+  - first:
+      213: -4639043448491950921
+    second: cloud_tileB_3_31
+  - first:
+      213: 1434288532345953859
+    second: cloud_tileB_3_32
+  - first:
+      213: -6979278515994498510
+    second: cloud_tileB_3_33
+  - first:
+      213: -4592822938274250399
+    second: cloud_tileB_3_34
+  - first:
+      213: 3805378267749642396
+    second: cloud_tileB_3_35
+  - first:
+      213: -1752205032023250412
+    second: cloud_tileB_3_36
+  - first:
+      213: -784563040877876807
+    second: cloud_tileB_3_37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloud_tileB_3_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 194
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c34a6c87f53c50800000000000000
+      internalID: 6644489007705344429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 722
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f92040a30d0c60800000000000000
+      internalID: 7785883317599598041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 385
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a1d22997d6d26c0800000000000000
+      internalID: -4166553711336941052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 671
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85daeac6bdf1236b0800000000000000
+      internalID: -5318153182689448616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 590
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fa28a5753d8b470800000000000000
+      internalID: 8410704676248530720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 590
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91222e978e5e6ee70800000000000000
+      internalID: 9144248880062407193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 671
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e61830c488cafd0800000000000000
+      internalID: -2329337047199682979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 671
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f060e0d89c1d5290800000000000000
+      internalID: -7900126728673009419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_8
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 671
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302fbb1d11e3637c0800000000000000
+      internalID: -4092014965165395453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 542
+        width: 29
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe93dd7f18a26b80800000000000000
+      internalID: -8402969101511450894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 539
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e27248a6c516f0800000000000000
+      internalID: -714446539896725418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 557
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbac34743ada9520800000000000000
+      internalID: 2709718044640062424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 533
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef59e8f05ccc604b0800000000000000
+      internalID: -5474463150280632834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 533
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004fbb64842c5d90800000000000000
+      internalID: -7107765960735506430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 542
+        width: 89
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ff2bc9ba9a82f80800000000000000
+      internalID: -8131062572683952236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 539
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47df5797cd15fb120800000000000000
+      internalID: 2431752331175787892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 482
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03744b38b94bfbdd0800000000000000
+      internalID: -2468055490753181904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 479
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233be73800125c580800000000000000
+      internalID: -8807597210163301582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf440920fc528e430800000000000000
+      internalID: 3812338655600592124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 464
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5819966572aadeb20800000000000000
+      internalID: 3165373199041532293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5977465c83c62ad0800000000000000
+      internalID: -2727277516815894182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 392
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a4145b883e9070800000000000000
+      internalID: 8114985749630462083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 368
+        width: 80
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d44e78c4a7eabd0800000000000000
+      internalID: -2617019864339690114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 353
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1708cdb32298f3e0800000000000000
+      internalID: -2019703750670153954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 299
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e46b8e94fe07cc00800000000000000
+      internalID: 920721092615300321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 251
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c382b116c364260800000000000000
+      internalID: 7081413851851799671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 308
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4087d94ed9cae1c0800000000000000
+      internalID: -4473541323280383923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 269
+        width: 23
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa34ddff403aa76a0800000000000000
+      internalID: -6450664274386926678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 254
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacf1dd26d9866a20800000000000000
+      internalID: 3055280950202203308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea7782d0d12e3e10800000000000000
+      internalID: 2179216450462907112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 257
+        width: 86
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ce3e423891a4750800000000000000
+      internalID: 6289867880626646156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 245
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcb803ff8ece9fb0800000000000000
+      internalID: -4639043448491950921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 289
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e95eb22dd97e310800000000000000
+      internalID: 1434288532345953859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_33
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 191
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ae1a1ea2f942f90800000000000000
+      internalID: -6979278515994498510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_34
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 191
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161c5e71fd30340c0800000000000000
+      internalID: -4592822938274250399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 427
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90753d6f5b6fc430800000000000000
+      internalID: 3805378267749642396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_36
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a2a949ecaeea7e0800000000000000
+      internalID: -1752205032023250412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_tileB_3_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 50
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9e294321cac15f0800000000000000
+      internalID: -784563040877876807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cloud_tileB_3_0: 6644489007705344429
+      cloud_tileB_3_1: 7785883317599598041
+      cloud_tileB_3_10: -714446539896725418
+      cloud_tileB_3_11: 2709718044640062424
+      cloud_tileB_3_12: -5474463150280632834
+      cloud_tileB_3_13: -7107765960735506430
+      cloud_tileB_3_14: -8131062572683952236
+      cloud_tileB_3_15: 2431752331175787892
+      cloud_tileB_3_16: -2468055490753181904
+      cloud_tileB_3_17: -8807597210163301582
+      cloud_tileB_3_18: 3812338655600592124
+      cloud_tileB_3_19: 3165373199041532293
+      cloud_tileB_3_2: -4166553711336941052
+      cloud_tileB_3_20: -2727277516815894182
+      cloud_tileB_3_21: 8114985749630462083
+      cloud_tileB_3_22: -2617019864339690114
+      cloud_tileB_3_23: -2019703750670153954
+      cloud_tileB_3_24: 920721092615300321
+      cloud_tileB_3_25: 7081413851851799671
+      cloud_tileB_3_26: -4473541323280383923
+      cloud_tileB_3_27: -6450664274386926678
+      cloud_tileB_3_28: 3055280950202203308
+      cloud_tileB_3_29: 2179216450462907112
+      cloud_tileB_3_3: -5318153182689448616
+      cloud_tileB_3_30: 6289867880626646156
+      cloud_tileB_3_31: -4639043448491950921
+      cloud_tileB_3_32: 1434288532345953859
+      cloud_tileB_3_33: -6979278515994498510
+      cloud_tileB_3_34: -4592822938274250399
+      cloud_tileB_3_35: 3805378267749642396
+      cloud_tileB_3_36: -1752205032023250412
+      cloud_tileB_3_37: -784563040877876807
+      cloud_tileB_3_4: 8410704676248530720
+      cloud_tileB_3_5: 9144248880062407193
+      cloud_tileB_3_6: -2329337047199682979
+      cloud_tileB_3_7: -7900126728673009419
+      cloud_tileB_3_8: -4092014965165395453
+      cloud_tileB_3_9: -8402969101511450894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

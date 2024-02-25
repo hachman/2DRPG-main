@@ -1,0 +1,2840 @@
+fileFormatVersion: 2
+guid: b84470f4528123f4ba611fb9089c69e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7641316135991544545
+    second: Stormos_0
+  - first:
+      213: -2155825972559032023
+    second: Stormos_1
+  - first:
+      213: 3765283223391541829
+    second: Stormos_2
+  - first:
+      213: -3517172533893802691
+    second: Stormos_3
+  - first:
+      213: -1146495531119199587
+    second: Stormos_4
+  - first:
+      213: -234740365393436164
+    second: Stormos_5
+  - first:
+      213: 1137428894373068288
+    second: Stormos_6
+  - first:
+      213: 7545450300520612961
+    second: Stormos_7
+  - first:
+      213: -3425424258440875941
+    second: Stormos_8
+  - first:
+      213: -8702661248539979776
+    second: Stormos_9
+  - first:
+      213: -4516166183013260340
+    second: Stormos_10
+  - first:
+      213: -5864863989619112275
+    second: Stormos_11
+  - first:
+      213: 3766418407523840919
+    second: Stormos_12
+  - first:
+      213: -1629865104780813218
+    second: Stormos_13
+  - first:
+      213: -7442809339499977542
+    second: Stormos_14
+  - first:
+      213: 6298999147919509136
+    second: Stormos_15
+  - first:
+      213: 4634051717396282575
+    second: Stormos_16
+  - first:
+      213: -9028467703889678070
+    second: Stormos_17
+  - first:
+      213: -9190057938935434650
+    second: Stormos_18
+  - first:
+      213: -1867493222296031753
+    second: Stormos_19
+  - first:
+      213: -491873365732102064
+    second: Stormos_20
+  - first:
+      213: -8079396383607805306
+    second: Stormos_21
+  - first:
+      213: 4055476773481878430
+    second: Stormos_22
+  - first:
+      213: 3962217880306718851
+    second: Stormos_23
+  - first:
+      213: 6935825463354646684
+    second: Stormos_24
+  - first:
+      213: -7900880565102767978
+    second: Stormos_25
+  - first:
+      213: 1965858995267182830
+    second: Stormos_26
+  - first:
+      213: -6154872170552920988
+    second: Stormos_27
+  - first:
+      213: 3117804796044033307
+    second: Stormos_28
+  - first:
+      213: 8047370236542701815
+    second: Stormos_29
+  - first:
+      213: 5972658204163224427
+    second: Stormos_30
+  - first:
+      213: 5597552114487687085
+    second: Stormos_31
+  - first:
+      213: 2827308369032258943
+    second: Stormos_32
+  - first:
+      213: -2822267748496439253
+    second: Stormos_33
+  - first:
+      213: 3823312734253200937
+    second: Stormos_34
+  - first:
+      213: -7782315859381006505
+    second: Stormos_35
+  - first:
+      213: -5833619121133441882
+    second: Stormos_36
+  - first:
+      213: 3758350907518034295
+    second: Stormos_37
+  - first:
+      213: -4842194433124799484
+    second: Stormos_38
+  - first:
+      213: -6393852319624789013
+    second: Stormos_39
+  - first:
+      213: 2483463281565027054
+    second: Stormos_40
+  - first:
+      213: 2224621648728923509
+    second: Stormos_41
+  - first:
+      213: 1880678643988571993
+    second: Stormos_42
+  - first:
+      213: 562386209287387903
+    second: Stormos_43
+  - first:
+      213: 9028236570523193878
+    second: Stormos_44
+  - first:
+      213: 690734383929005009
+    second: Stormos_45
+  - first:
+      213: 1009550490594009536
+    second: Stormos_46
+  - first:
+      213: 6342243725218194262
+    second: Stormos_47
+  - first:
+      213: 7468741581052220684
+    second: Stormos_48
+  - first:
+      213: 286076246271815329
+    second: Stormos_49
+  - first:
+      213: 7883107663243069194
+    second: Stormos_50
+  - first:
+      213: -3094793613962728845
+    second: Stormos_51
+  - first:
+      213: -6541299526204168909
+    second: Stormos_52
+  - first:
+      213: -8124182727987218337
+    second: Stormos_53
+  - first:
+      213: -2030695587396979489
+    second: Stormos_54
+  - first:
+      213: -8705351141123289209
+    second: Stormos_55
+  - first:
+      213: -5699528268806717837
+    second: Stormos_56
+  - first:
+      213: -2050838871065157767
+    second: Stormos_57
+  - first:
+      213: -6151043927558203770
+    second: Stormos_58
+  - first:
+      213: 4767737620027078514
+    second: Stormos_59
+  - first:
+      213: 8393727546488013144
+    second: Stormos_60
+  - first:
+      213: -9085034220126084534
+    second: Stormos_61
+  - first:
+      213: 732216210971475970
+    second: Stormos_62
+  - first:
+      213: -3023975576955961956
+    second: Stormos_63
+  - first:
+      213: -137931282957068285
+    second: Stormos_64
+  - first:
+      213: -5381322200708171337
+    second: Stormos_65
+  - first:
+      213: 9161901030878186214
+    second: Stormos_66
+  - first:
+      213: 526208602312630627
+    second: Stormos_67
+  - first:
+      213: 7045173617868575620
+    second: Stormos_68
+  - first:
+      213: -4387532083157002728
+    second: Stormos_69
+  - first:
+      213: 2059464017834159053
+    second: Stormos_70
+  - first:
+      213: -6560650965443878506
+    second: Stormos_71
+  - first:
+      213: 1054615173361046089
+    second: Stormos_72
+  - first:
+      213: -3613891836382209495
+    second: Stormos_73
+  - first:
+      213: 2015627617711223765
+    second: Stormos_74
+  - first:
+      213: 7564347573512906785
+    second: Stormos_75
+  - first:
+      213: 6249920154628817690
+    second: Stormos_76
+  - first:
+      213: 5890151129872245472
+    second: Stormos_77
+  - first:
+      213: 7328133848010968709
+    second: Stormos_78
+  - first:
+      213: 5464875837110684511
+    second: Stormos_79
+  - first:
+      213: 7095293756165742684
+    second: Stormos_80
+  - first:
+      213: 1988683686357317621
+    second: Stormos_81
+  - first:
+      213: -2428659530672704747
+    second: Stormos_82
+  - first:
+      213: 5871921826466483140
+    second: Stormos_83
+  - first:
+      213: -4558704678345067932
+    second: Stormos_84
+  - first:
+      213: 1123658005594771546
+    second: Stormos_85
+  - first:
+      213: -7175572106638057914
+    second: Stormos_86
+  - first:
+      213: 8002761889999458950
+    second: Stormos_87
+  - first:
+      213: 4384702888110031917
+    second: Stormos_88
+  - first:
+      213: -6815355828233786898
+    second: Stormos_89
+  - first:
+      213: -5359437453202630449
+    second: Stormos_90
+  - first:
+      213: -3899213559717672193
+    second: Stormos_91
+  - first:
+      213: -4200834866835127257
+    second: Stormos_92
+  - first:
+      213: 2835233797333105
+    second: Stormos_93
+  - first:
+      213: 3286361175652509011
+    second: Stormos_94
+  - first:
+      213: -5243970033190810372
+    second: Stormos_95
+  - first:
+      213: -8703492747829634815
+    second: Stormos_96
+  - first:
+      213: 6125145539619729202
+    second: Stormos_97
+  - first:
+      213: -5370409007081121029
+    second: Stormos_98
+  - first:
+      213: 4680019577836423935
+    second: Stormos_99
+  - first:
+      213: -927042719301632136
+    second: Stormos_100
+  - first:
+      213: -8684635308932034632
+    second: Stormos_101
+  - first:
+      213: -6535691654793145899
+    second: Stormos_102
+  - first:
+      213: -8752534268876637893
+    second: Stormos_103
+  - first:
+      213: 8108649313827857229
+    second: Stormos_104
+  - first:
+      213: 6257204949123927524
+    second: Stormos_105
+  - first:
+      213: 9394792812216504
+    second: Stormos_106
+  - first:
+      213: -1022286098392794446
+    second: Stormos_107
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stormos_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1978
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea8c3e4a886b0a60800000000000000
+      internalID: 7641316135991544545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1980
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921de0433b7f412e0800000000000000
+      internalID: -2155825972559032023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1982
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a9df07429f04430800000000000000
+      internalID: 3765283223391541829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_3
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1982
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35df77173e703fc0800000000000000
+      internalID: -3517172533893802691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_4
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1978
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a311b8364d610f0800000000000000
+      internalID: -1146495531119199587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_5
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1978
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf16742a1e80ebcf0800000000000000
+      internalID: -234740365393436164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_6
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1980
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3f569d85f8cf00800000000000000
+      internalID: 1137428894373068288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_7
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 1980
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16445e02213d6b860800000000000000
+      internalID: 7545450300520612961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_8
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 1980
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5030ae19c27670d0800000000000000
+      internalID: -3425424258440875941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000973004bfe93780800000000000000
+      internalID: -8702661248539979776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3ecd2c8ca5351c0800000000000000
+      internalID: -4516166183013260340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_11
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6c5ca5641db9ea0800000000000000
+      internalID: -5864863989619112275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79373f71691054430800000000000000
+      internalID: 3766418407523840919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_13
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c1cb5925e8169e0800000000000000
+      internalID: -1629865104780813218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_14
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4e424e654d5b890800000000000000
+      internalID: -7442809339499977542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_15
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0960b3cf95a8a6750800000000000000
+      internalID: 6298999147919509136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_16
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb1361c757f4040800000000000000
+      internalID: 4634051717396282575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_17
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1919
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b19b457074b280800000000000000
+      internalID: -9028467703889678070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1594
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662be7cdefa567080800000000000000
+      internalID: -9190057938935434650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1596
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd68980fc45516e0800000000000000
+      internalID: -1867493222296031753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_20
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1598
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050ff09a7c38c29f0800000000000000
+      internalID: -491873365732102064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_21
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1598
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a2b7babc730ef80800000000000000
+      internalID: -8079396383607805306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_22
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1594
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e931c3e73a2f74830800000000000000
+      internalID: 4055476773481878430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_23
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1594
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388126e5b20acf630800000000000000
+      internalID: 3962217880306718851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_24
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1594
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90ec57e280014060800000000000000
+      internalID: 6935825463354646684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_25
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 1596
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69013489cfe6a5290800000000000000
+      internalID: -7900880565102767978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_26
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1598
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee028633752284b10800000000000000
+      internalID: 1965858995267182830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464714cee50859aa0800000000000000
+      internalID: -6154872170552920988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1db63371faa44b20800000000000000
+      internalID: 3117804796044033307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_29
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0dd25e7900eaf60800000000000000
+      internalID: 8047370236542701815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_30
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b8fffdf423e250800000000000000
+      internalID: 5972658204163224427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_31
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da776c3bdff7ead40800000000000000
+      internalID: 5597552114487687085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_32
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7528ae5bfd9c3720800000000000000
+      internalID: 2827308369032258943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_33
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2804dd8f6a45d8d0800000000000000
+      internalID: -2822267748496439253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_34
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926b36ecca22f0530800000000000000
+      internalID: 3823312734253200937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_35
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1535
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fc4b755f8aff390800000000000000
+      internalID: -7782315859381006505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1210
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac2ae13152da0fa0800000000000000
+      internalID: -5833619121133441882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1212
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77121efdc38582430800000000000000
+      internalID: 3758350907518034295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1214
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ce83071d11dccb0800000000000000
+      internalID: -4842194433124799484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_39
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1214
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3057ef0397447a0800000000000000
+      internalID: -6393852319624789013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_40
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1210
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeac86652b8077220800000000000000
+      internalID: 2483463281565027054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_41
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1210
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d912c5a917fde10800000000000000
+      internalID: 2224621648728923509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_42
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 1210
+        width: 281
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9572a9f2343891a10800000000000000
+      internalID: 1880678643988571993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_43
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1211
+        width: 278
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa3727174ffdc700800000000000000
+      internalID: 562386209287387903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_44
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 1212
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612d936c35dba4d70800000000000000
+      internalID: 9028236570523193878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d39c34334bf59900800000000000000
+      internalID: 690734383929005009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_46
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c16da682d4a20e00800000000000000
+      internalID: 1009550490594009536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_47
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653a490c01d240850800000000000000
+      internalID: 6342243725218194262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_48
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c059ec995ec46a760800000000000000
+      internalID: 7468741581052220684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_49
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae65bd84d858f300800000000000000
+      internalID: 286076246271815329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_50
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0743c937ac666d60800000000000000
+      internalID: 7883107663243069194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_51
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aaa92ea951d05d0800000000000000
+      internalID: -3094793613962728845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_52
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3356b2bfcb2a835a0800000000000000
+      internalID: -6541299526204168909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_53
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1151
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5835f74ada114f80800000000000000
+      internalID: -8124182727987218337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 826
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4ff325f1581d3e0800000000000000
+      internalID: -2030695587396979489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 828
+        width: 286
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f0e449241603780800000000000000
+      internalID: -8705351141123289209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_56
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 830
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e7a76ac3537e0b0800000000000000
+      internalID: -5699528268806717837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_57
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 830
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f199e99e4f983e0800000000000000
+      internalID: -2050838871065157767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_58
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 826
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d114332a13aaa0800000000000000
+      internalID: -6151043927558203770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_59
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 826
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277faf7da186a2240800000000000000
+      internalID: 4767737620027078514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_60
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 826
+        width: 281
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85144dd4bb28c7470800000000000000
+      internalID: 8393727546488013144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_61
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 827
+        width: 278
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ed19e2897be180800000000000000
+      internalID: -9085034220126084534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_62
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 828
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200ccb1b3ca592a00800000000000000
+      internalID: 732216210971475970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_63
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d35160c3ea806d0800000000000000
+      internalID: -3023975576955961956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_64
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081eeb9a38f51ef0800000000000000
+      internalID: -137931282957068285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_65
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9bddc48f3b155b0800000000000000
+      internalID: -5381322200708171337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_66
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea87cc127c952f70800000000000000
+      internalID: 9161901030878186214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_67
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36169929fe77d4700800000000000000
+      internalID: 526208602312630627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_68
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483920a141c75c160800000000000000
+      internalID: 7045173617868575620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_69
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8161cc601da5c13c0800000000000000
+      internalID: -4387532083157002728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_70
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb24badc9fa49c10800000000000000
+      internalID: 2059464017834159053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_71
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 767
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691e46de4b2e3f4a0800000000000000
+      internalID: -6560650965443878506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_72
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 441
+        width: 302
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9421cee99eeb2ae00800000000000000
+      internalID: 1054615173361046089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_73
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 441
+        width: 302
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a11c3a580e8ddc0800000000000000
+      internalID: -3613891836382209495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_74
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 441
+        width: 302
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f42993a2f8fb10800000000000000
+      internalID: 2015627617711223765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_75
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 446
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12823dc5a06f9f860800000000000000
+      internalID: 7564347573512906785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_76
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 442
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a138433644d2cb650800000000000000
+      internalID: 6249920154628817690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_77
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 442
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2a669ce350eb150800000000000000
+      internalID: 5890151129872245472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_78
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 442
+        width: 281
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ec53d98e2c2b560800000000000000
+      internalID: 7328133848010968709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_79
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 443
+        width: 278
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b0994ae9327db40800000000000000
+      internalID: 5464875837110684511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_80
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 444
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c506e49241c877260800000000000000
+      internalID: 7095293756165742684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f731f7b649399b10800000000000000
+      internalID: 1988683686357317621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_82
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513f2e1460bab4ed0800000000000000
+      internalID: -2428659530672704747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_83
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc5675ac14d7150800000000000000
+      internalID: 5871921826466483140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_84
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 90
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462b4538f3a3cb0c0800000000000000
+      internalID: -4558704678345067932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_85
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a501080b009089f00800000000000000
+      internalID: 1123658005594771546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_86
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e13a3df2f3b6c90800000000000000
+      internalID: -7175572106638057914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_87
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682937bd9858f0f60800000000000000
+      internalID: 8002761889999458950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_88
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248d6bab0899dc30800000000000000
+      internalID: 4384702888110031917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_89
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9ac38cbfdfa61a0800000000000000
+      internalID: -6815355828233786898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_90
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 383
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8dee528047f95b0800000000000000
+      internalID: -5359437453202630449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_91
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 60
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa44a52de533e9c0800000000000000
+      internalID: -3899213559717672193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_92
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 60
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724873212f2a3b5c0800000000000000
+      internalID: -4200834866835127257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_93
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 60
+        width: 293
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170685f41a21a0000800000000000000
+      internalID: 2835233797333105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_94
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 86
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355276ec3108b9d20800000000000000
+      internalID: 3286361175652509011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_95
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 86
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc4eded90da937b0800000000000000
+      internalID: -5243970033190810372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_96
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 60
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1091d6c757bf63780800000000000000
+      internalID: -8703492747829634815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_97
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 60
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f2a967a63e00550800000000000000
+      internalID: 6125145539619729202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_98
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 60
+        width: 275
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa1f5236797875b0800000000000000
+      internalID: -5370409007081121029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_99
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 27
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa40de9205c2f040800000000000000
+      internalID: 4680019577836423935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_100
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 27
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff968fe8b7223f0800000000000000
+      internalID: -927042719301632136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_101
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 27
+        width: 86
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf8a4f133af97780800000000000000
+      internalID: -8684635308932034632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_102
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1d19a411f8c45a0800000000000000
+      internalID: -6535691654793145899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_103
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39bc239470c88680800000000000000
+      internalID: -8752534268876637893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_104
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ace6e695b78070800000000000000
+      internalID: 8108649313827857229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_105
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed0957cfbe06d650800000000000000
+      internalID: 6257204949123927524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_106
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b08f48a380612000800000000000000
+      internalID: 9394792812216504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stormos_107
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 0
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba3a76b53c10d1f0800000000000000
+      internalID: -1022286098392794446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stormos_0: 7641316135991544545
+      Stormos_1: -2155825972559032023
+      Stormos_10: -4516166183013260340
+      Stormos_100: -927042719301632136
+      Stormos_101: -8684635308932034632
+      Stormos_102: -6535691654793145899
+      Stormos_103: -8752534268876637893
+      Stormos_104: 8108649313827857229
+      Stormos_105: 6257204949123927524
+      Stormos_106: 9394792812216504
+      Stormos_107: -1022286098392794446
+      Stormos_11: -5864863989619112275
+      Stormos_12: 3766418407523840919
+      Stormos_13: -1629865104780813218
+      Stormos_14: -7442809339499977542
+      Stormos_15: 6298999147919509136
+      Stormos_16: 4634051717396282575
+      Stormos_17: -9028467703889678070
+      Stormos_18: -9190057938935434650
+      Stormos_19: -1867493222296031753
+      Stormos_2: 3765283223391541829
+      Stormos_20: -491873365732102064
+      Stormos_21: -8079396383607805306
+      Stormos_22: 4055476773481878430
+      Stormos_23: 3962217880306718851
+      Stormos_24: 6935825463354646684
+      Stormos_25: -7900880565102767978
+      Stormos_26: 1965858995267182830
+      Stormos_27: -6154872170552920988
+      Stormos_28: 3117804796044033307
+      Stormos_29: 8047370236542701815
+      Stormos_3: -3517172533893802691
+      Stormos_30: 5972658204163224427
+      Stormos_31: 5597552114487687085
+      Stormos_32: 2827308369032258943
+      Stormos_33: -2822267748496439253
+      Stormos_34: 3823312734253200937
+      Stormos_35: -7782315859381006505
+      Stormos_36: -5833619121133441882
+      Stormos_37: 3758350907518034295
+      Stormos_38: -4842194433124799484
+      Stormos_39: -6393852319624789013
+      Stormos_4: -1146495531119199587
+      Stormos_40: 2483463281565027054
+      Stormos_41: 2224621648728923509
+      Stormos_42: 1880678643988571993
+      Stormos_43: 562386209287387903
+      Stormos_44: 9028236570523193878
+      Stormos_45: 690734383929005009
+      Stormos_46: 1009550490594009536
+      Stormos_47: 6342243725218194262
+      Stormos_48: 7468741581052220684
+      Stormos_49: 286076246271815329
+      Stormos_5: -234740365393436164
+      Stormos_50: 7883107663243069194
+      Stormos_51: -3094793613962728845
+      Stormos_52: -6541299526204168909
+      Stormos_53: -8124182727987218337
+      Stormos_54: -2030695587396979489
+      Stormos_55: -8705351141123289209
+      Stormos_56: -5699528268806717837
+      Stormos_57: -2050838871065157767
+      Stormos_58: -6151043927558203770
+      Stormos_59: 4767737620027078514
+      Stormos_6: 1137428894373068288
+      Stormos_60: 8393727546488013144
+      Stormos_61: -9085034220126084534
+      Stormos_62: 732216210971475970
+      Stormos_63: -3023975576955961956
+      Stormos_64: -137931282957068285
+      Stormos_65: -5381322200708171337
+      Stormos_66: 9161901030878186214
+      Stormos_67: 526208602312630627
+      Stormos_68: 7045173617868575620
+      Stormos_69: -4387532083157002728
+      Stormos_7: 7545450300520612961
+      Stormos_70: 2059464017834159053
+      Stormos_71: -6560650965443878506
+      Stormos_72: 1054615173361046089
+      Stormos_73: -3613891836382209495
+      Stormos_74: 2015627617711223765
+      Stormos_75: 7564347573512906785
+      Stormos_76: 6249920154628817690
+      Stormos_77: 5890151129872245472
+      Stormos_78: 7328133848010968709
+      Stormos_79: 5464875837110684511
+      Stormos_8: -3425424258440875941
+      Stormos_80: 7095293756165742684
+      Stormos_81: 1988683686357317621
+      Stormos_82: -2428659530672704747
+      Stormos_83: 5871921826466483140
+      Stormos_84: -4558704678345067932
+      Stormos_85: 1123658005594771546
+      Stormos_86: -7175572106638057914
+      Stormos_87: 8002761889999458950
+      Stormos_88: 4384702888110031917
+      Stormos_89: -6815355828233786898
+      Stormos_9: -8702661248539979776
+      Stormos_90: -5359437453202630449
+      Stormos_91: -3899213559717672193
+      Stormos_92: -4200834866835127257
+      Stormos_93: 2835233797333105
+      Stormos_94: 3286361175652509011
+      Stormos_95: -5243970033190810372
+      Stormos_96: -8703492747829634815
+      Stormos_97: 6125145539619729202
+      Stormos_98: -5370409007081121029
+      Stormos_99: 4680019577836423935
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
