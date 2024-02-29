@@ -12,11 +12,20 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
   - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: 39f9091902b3e5944b494c6fb074075f
+  - enabled: 1
+    path: Assets/Scenes/House Outside.unity
+    guid: 39a0ec2c4b6f2184c9973ca5641d5f50
+  - enabled: 1
+    path: Assets/Scenes/Forest.unity
+    guid: 251b696a386cc8a409685d5c95de34a3
+  - enabled: 1
     path: Assets/Scenes/Cave.unity
     guid: 85d5a72c87c1f294c9e515b6ac22abb6
   - enabled: 1
-    path: Assets/Scenes/Forest.unity
-    guid: b9d43584ba526d7468d3fb6148240f63
+    path: Assets/Scenes/Cloud Village.unity
+    guid: fb5c1a8e998bbc146a5cd169abb3ebcc
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: d81ad7c09dadcb647bb732e93a97af57, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d7a5f4055a5793a4bb4066e616402675, type: 2}
