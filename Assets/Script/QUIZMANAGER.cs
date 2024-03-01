@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class QUIZMANAGER : MonoBehaviour
 {
-    public List<QUESTIONANDANSWER> QnA;
+    //public List<QUESTIONANDANSWER> QnA;
     public GameObject[] options;
     public int currentQuestion;
 
@@ -21,7 +21,7 @@ public class QUIZMANAGER : MonoBehaviour
 
     private void Start()
     {
-        totalQuestion = QnA.Count;
+       // totalQuestion = QnA.Count;
         GoPanel.SetActive(false);
         generateQuestion();
     }
@@ -39,45 +39,45 @@ public class QUIZMANAGER : MonoBehaviour
     public void correct()
     {
         score += 1;
-        QnA.RemoveAt(currentQuestion);
+       // QnA.RemoveAt(currentQuestion);
         generateQuestion();
     }
 
     public void wrong()
     {
 
-        QnA.RemoveAt(currentQuestion);
+       // QnA.RemoveAt(currentQuestion);
         generateQuestion();
     }
 
     void SetAnswer()
     {
-        for(int i = 0; i < options.Length; i++)
+        /* for(int i = 0; i < options.Length; i++)
         {
             options[i].GetComponent<AnswerScript>().isCorrect = false;
-            string v = QnA[currentQuestion].Answer[i];
+           // string v = QnA[currentQuestion].Answer[i];
             options[i].transform.GetChild(0).GetComponent<Text>().text = v;
             
-            if(QnA[currentQuestion].CorrectAnswer == i+1)
+           // if(QnA[currentQuestion].CorrectAnswer == i+1)
             {
                 options[i].GetComponent<AnswerScript>().isCorrect = true;
             }
-        }
+        }*/
     }
     void generateQuestion()
     {
-        if (QnA.Count > 0)
-        {
-            currentQuestion = Random.Range(0, QnA.Count);
+        /* if (QnA.Count > 0)
+         {
+            // currentQuestion = Random.Range(0, QnA.Count);
 
-            QuestionTxt.text = QnA[currentQuestion].Question;
+           //  QuestionTxt.text = QnA[currentQuestion].Question;
 
-            SetAnswer();
+          //   SetAnswer();
 
         }
-        else
-        {
-            Debug.Log("out of question");
-        }
+         else
+         {
+             Debug.Log("out of question");
+         }*/
     }
 }
