@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -32,5 +33,10 @@ public class InputManager : MonoBehaviour
         {
             GameEventsManager.instance.inputEvents.QuestLogTogglePressed();
         }
+    }
+
+    internal static object GetInstance()
+    {
+        throw new NotImplementedException();
     }
 }
