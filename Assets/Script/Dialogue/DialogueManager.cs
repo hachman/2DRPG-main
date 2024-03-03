@@ -24,10 +24,10 @@ public class DialogueManager : MonoBehaviour
         instance = this; 
     }
 
-   /* public static DialogManager GetInstance()
+  /*  public static DialogManager GetInstance()
     {
            return instance;
-    }
-   */
+    }*/
+   
     
 }
