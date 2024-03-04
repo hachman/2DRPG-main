@@ -34,7 +34,7 @@ public class GameController : MonoBehaviour
 
         }else if(state== GameState.Battle)
         {
-
+            
         }
     }
 }
