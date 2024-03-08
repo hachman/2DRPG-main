@@ -60175,6 +60175,7 @@ GameObject:
   - component: {fileID: 1493567634}
   - component: {fileID: 1493567633}
   - component: {fileID: 1493567632}
+  - component: {fileID: 1493567635}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -60225,6 +60226,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1493567635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1493567631}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6b8fe639d299764f8a83d60d0890dec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  QnA:
+  - Question: "Solve the quadratic inequality. x^2 \u22121  < 0 "
+    Answer:
+    - "\u22122 < x < 2 "
+    - "\u22121 < x^2 < 1 "
+    - "\u22121 < x < 1 "
+    - '1 < x < 1 '
+    CorrectAnswer: 2
+  options:
+  - {fileID: 782165775}
+  - {fileID: 441897351}
+  - {fileID: 1321025580}
+  - {fileID: 1684211129}
+  currentQuestion: 0
+  Quizpanel: {fileID: 2068184923}
+  GoPanel: {fileID: 1062300805}
+  QuestionTxt: {fileID: 1868791865}
+  score: 0
 --- !u!1 &1548023455
 GameObject:
   m_ObjectHideFlags: 0
