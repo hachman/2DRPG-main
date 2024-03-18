@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public enum GameState { FreeRoam, Dialog, Battle}
+public enum GameState { FreeRoam, Dialog, Battle }
 public class GameController : MonoBehaviour
 {
     [SerializeField] PlayerMovement playerController;
@@ -24,17 +24,19 @@ public class GameController : MonoBehaviour
 
     private void Update()
     {
-        if (state == GameState.FreeRoam)
-        {
-            playerController.HandleUpdate();
+        // if (state == GameState.FreeRoam)
+        // {
+        //     playerController.HandleUpdate();
 
-        } else if(state == GameState.Dialog)
-        {
-            DialogManager.Instance.HandleUpdate();
+        // }
+        // else if (state == GameState.Dialog)
+        // {
+        //     DialogManager.Instance.HandleUpdate();
 
-        }else if(state== GameState.Battle)
-        {
-            
-        }
+        // }
+        // else if (state == GameState.Battle)
+        // {
+
+        // }
     }
 }

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66b719a99e4e6646b16c9f535eefa17, type: 3}
+  m_Name: cave Intro 1
+  m_EditorClassIdentifier: 
+  quesToGive: {fileID: 11400000, guid: e2c02635fe4fd6a45a7868dd73349e16, type: 2}
+  Lines:
+  - This is the Cave.
+  - There will be a lot to take care of here
+  - but I know that you can defeat all the monsters inside.
+  - The Dragon reside somewhere at Cloud Village
+  - Look for the Gate of Cloud Village
+  - Goodluck Hero!

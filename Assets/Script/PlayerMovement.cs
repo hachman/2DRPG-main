@@ -1,69 +1,97 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed;
-
+    [SerializeField] float interactableRange = 3f;
     private bool isMoving;
-
     private Vector2 input;
-
     private Animator animator;
-
     public LayerMask solidObjectsLayer;
     public LayerMask interactableLayer;
-    public LayerMask BattleLayer;
+    [SerializeField] FloatingJoystick floatingJoystick;
+    [SerializeField] GameObject interactOutline;
+    private Collider2D solidObjects;
+    private Collider2D interactableCollider;
     private void Awake()
     {
-        animator = GetComponent < Animator >();
+        animator = GetComponent<Animator>();
     }
 
-    public void HandleUpdate()
+    public void Update()
+    {
+        HandleMovementInput();
+        // HandleInteractionInput();
+    }
+
+    private void HandleMovementInput()
     {
         if (!isMoving)
         {
-            input.x = Input.GetAxisRaw("Horizontal");
-            input.y = Input.GetAxisRaw("Vertical");
+            input.x = floatingJoystick.Horizontal;
+            input.y = floatingJoystick.Vertical;
 
-            if (input.x != 0) input.y = 0; 
-
-            if(input != Vector2.zero)
+            if (input.magnitude >= 0.1f)
             {
+                // input.y = Mathf.Abs(input.x) > 0 ? 0 : input.y;
+
                 animator.SetFloat("moveX", input.x);
                 animator.SetFloat("moveY", input.y);
 
-                var targetPos = transform.position;
-                targetPos.x += input.x;
-                targetPos.y += input.y;
+                var targetPos = transform.position + (Vector3)input.normalized;
 
                 if (IsWalkable(targetPos))
-                StartCoroutine(Move(targetPos));
-            } 
+                    StartCoroutine(Move(targetPos));
+            }
         }
         animator.SetBool("isMoving", isMoving);
-
-        if (Input.GetKeyDown(KeyCode.Z))
-        {
-            Interact();
-        }
     }
 
-    void Interact()
+    // private void HandleInteractionInput()
+    // {
+    //     if (Input.GetKeyDown(KeyCode.Z))
+    //         Interact();
+    // }
+    float detecTimer = 0;
+    public float detectDelay = 0.5f;
+
+    private void InteractableDetect()
     {
-        var facingDir = new Vector3(animator.GetFloat("moveX"), (animator.GetFloat("moveY")));
+        detecTimer -= Time.deltaTime;
+
+
+        if (detecTimer <= 0)
+        {
+            interactableCollider = Physics2D.OverlapCircle(transform.position, interactableRange, interactableLayer);
+            if (interactableCollider != null)
+            {
+                interactOutline.SetActive(true);
+            }
+            else
+            {
+                interactOutline.SetActive(false);
+            }
+        }
+
+    }
+    private void FixedUpdate()
+    {
+        InteractableDetect();
+    }
+    public void Interact()
+    {
+        var facingDir = new Vector3(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
         var interactPos = transform.position + facingDir;
 
-        var collider = Physics2D.OverlapCircle(interactPos, 0.2f, interactableLayer);
-        if (collider != null)
+        if (interactableCollider != null)
         {
-            collider.GetComponent<Interactable>()?.Interact();
+            interactableCollider.GetComponent<Interactable>()?.Interact();
         }
     }
 
-    IEnumerator Move(Vector3 targetPos)
+    private IEnumerator Move(Vector3 targetPos)
     {
         isMoving = true;
 
@@ -72,23 +100,24 @@ public class PlayerMovement : MonoBehaviour
             transform.position = Vector3.MoveTowards(transform.position, targetPos, moveSpeed * Time.deltaTime);
             yield return null;
         }
+
         isMoving = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player"))
-        {
-            Debug.Log("open and close");
             SceneManager.LoadScene("Forest");
-        }
     }
+
     private bool IsWalkable(Vector3 targetPos)
     {
-        if(Physics2D.OverlapCircle(targetPos, 0.2f, solidObjectsLayer | interactableLayer) != null)
-        {
-            return false;
-        }
-        return true;
+        solidObjects = Physics2D.OverlapCircle(targetPos, 0.2f, solidObjectsLayer);
+        return solidObjects == null;
+    }
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position,interactableRange);
     }
 }

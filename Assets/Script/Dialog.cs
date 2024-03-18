@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [System.Serializable]
-public class Dialog 
+[CreateAssetMenu(fileName = "Dialogue", menuName = "New Dialogue")]
+public class Dialog : ScriptableObject
 {
-    [SerializeField] List<string> lines;
+    public Quest_Data quesToGive;
+    public List<string> Lines;
 
-    public List<string> Lines
-    {
-        get { return lines; }
-    }
+
 }

@@ -2,26 +2,30 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class ChangeScene : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] string sceneToGo;
+    [SerializeField] Button button;
 
-    // Update is called once per frame
-    void Update()
+
+    private void Start()
     {
-        
-    }
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.gameObject.tag == "Player")
+        if (button != null)
         {
-            Debug.Log("bomb is here");
-            SceneManager.LoadScene("Forest");
+            button.onClick.AddListener(GoToScene);
         }
+    }
+    private void OnDisable()
+    {
+        if (button != null)
+        {
+            button.onClick.RemoveListener(GoToScene);
+        }
+    }
+    private void GoToScene()
+    {
+        SceneManager.LoadScene(sceneToGo);
     }
 }

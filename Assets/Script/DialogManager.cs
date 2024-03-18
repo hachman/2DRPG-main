@@ -5,64 +5,73 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
+
+
 public class DialogManager : MonoBehaviour
 {
     [SerializeField] GameObject dialogBox;
     [SerializeField] TextMeshProUGUI dialogText;
-
     [SerializeField] int lettersPerSecond;
-    
+
     public event Action OnShowDialog;
     public event Action OnHideDialog;
-    public static DialogManager Instance { get; private set; }
-    
+
+    private Dialog currentDialog;
+    private int currentLine = 0;
+    private bool isTyping;
+
     private void Awake()
     {
-        Instance = this;
+        if (Instance == null) Instance = this;
+    }
+    private void Start()
+    {
+        dialogBox.SetActive(false);
     }
 
-    Dialog dialog;
-    int currentLine = 0;
-    bool isTyping;
-    
-    public IEnumerator ShowDialog(Dialog dialog)
+    public static DialogManager Instance { get; private set; }
+    Action DialogDone;
+    public void ShowDialog(Dialog dialog, Action onDialogDone)
     {
-        yield return new WaitForEndOfFrame();
-        OnShowDialog?.Invoke();
 
-        this.dialog = dialog;
+        if (dialog.Lines.Count <= 0) return;
+        if (isTyping) // Avoid showing new dialog while typing
+            return;
+        DialogDone = onDialogDone;
+        currentDialog = dialog;
         dialogBox.SetActive(true);
+        OnShowDialog?.Invoke();
         StartCoroutine(TypeDialog(dialog.Lines[0]));
     }
-    public void HandleUpdate()
+
+    public void NextLine()
     {
-        if (Input.GetKeyDown(KeyCode.Z) && !isTyping)
+        if (isTyping) return;
+        currentLine++;
+        if (currentLine < currentDialog.Lines.Count)
         {
-            ++currentLine;
-            if (currentLine < dialog.Lines.Count)
-            {
-                StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
-            }
-            else
-            {
-                dialogBox.SetActive(false);
-                currentLine = 0;
-                OnHideDialog?.Invoke();
-            }
+            StartCoroutine(TypeDialog(currentDialog.Lines[currentLine]));
         }
-        
+        else
+        {
+            dialogBox.SetActive(false);
+            currentLine = 0;
+            OnHideDialog?.Invoke();
+            DialogDone?.Invoke();
+        }
+
     }
 
     public IEnumerator TypeDialog(string line)
     {
         isTyping = true;
         dialogText.text = "";
-        foreach(var letter in line.ToCharArray())
+        foreach (char letter in line)
         {
             dialogText.text += letter;
+            AudioManager.instance.PlaySoundEffect("talk");
             yield return new WaitForSeconds(1f / lettersPerSecond);
         }
         isTyping = false;
-        
     }
 }

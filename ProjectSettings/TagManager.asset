@@ -3,19 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Door
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - Door
   - SolidObjects
+  - 
   - Interactable
-  - BattleQ/A
+  - 
   - 
   - 
   - 
@@ -41,16 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Background
-    uniqueID: 2353728837
-    locked: 0
-  - name: Foreground
-    uniqueID: 1266107189
-    locked: 0
-  - name: Player
-    uniqueID: 3444255549
-    locked: 0
-  - name: Door
-    uniqueID: 788761945
     locked: 0
