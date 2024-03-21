@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: simple quiz
   m_EditorClassIdentifier: 
   questions:
-  - question: {fileID: 0}
+  - question: {fileID: 485914408, guid: db65321ce8a0bc9409d284b849502269, type: 3}
     choices:
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: -34119973, guid: bec5035360205a340af23b741a989aec, type: 3}
+    - {fileID: 1483277122, guid: ba7e444541a78b041949c72dc0c358ab, type: 3}
+    - {fileID: 1483277122, guid: ba7e444541a78b041949c72dc0c358ab, type: 3}
+    - {fileID: -202496160, guid: 1e04849da722c1647be0da6dc784dd99, type: 3}
     correctChoice: 2
   timer: 15
