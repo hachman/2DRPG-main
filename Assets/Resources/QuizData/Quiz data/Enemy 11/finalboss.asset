@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: finalboss
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: 319499423, guid: fa35c232ab386534bb16ee33f95fd2f9, type: 3}
+    choices:
+    - {fileID: -742407943, guid: 51f15b374216077449d2be007ecc2859, type: 3}
+    - {fileID: 220528057, guid: 312f1f14ee4ea614381075032d7d7c59, type: 3}
+    - {fileID: -791835439, guid: a6217364d30d89349ab24a4bb3407e90, type: 3}
+    - {fileID: 1565480154, guid: 5d0844c1b732c0840af5bbc706171e7e, type: 3}
+    correctChoice: 1
+  - question: {fileID: -1581337608, guid: cfeba2224e076af45a72220e412d0c71, type: 3}
+    choices:
+    - {fileID: 2095105919, guid: c06b25103366f2a4d8f525ff994bfeb6, type: 3}
+    - {fileID: 21373527, guid: 813ab2bc82f62784e9351b0193f77b62, type: 3}
+    - {fileID: 1994901641, guid: 26544b1d1a2691b43a127fa1748f8bd2, type: 3}
+    - {fileID: 401892914, guid: 6e5edd6a83d75b84c9df33ef9147bb41, type: 3}
+    correctChoice: 3
+  - question: {fileID: -591811005, guid: 69d6b5bb73c95a540b51dca90a40dafc, type: 3}
+    choices:
+    - {fileID: -195606653, guid: 30caaf72e4f607942ba9f33732ad05f0, type: 3}
+    - {fileID: -868340080, guid: 0d5489138dcba69408d27fb2885234e5, type: 3}
+    - {fileID: 495630142, guid: 640448044734eed429770f636bde2ffd, type: 3}
+    - {fileID: -900012564, guid: f9e478c1dd63855488aa9984fa637347, type: 3}
+    correctChoice: 1
+  - question: {fileID: -1751471287, guid: c14e0f757b77278478537034a7e6c3f8, type: 3}
+    choices:
+    - {fileID: -1719723686, guid: 38b9ce807558ab144addb4a5a31ded2b, type: 3}
+    - {fileID: -1180642817, guid: 5379a0c70a6f883429bf549e10bbd8b7, type: 3}
+    - {fileID: 486755922, guid: bde33da57c2098b49ad40cdfc6ad8614, type: 3}
+    - {fileID: 1488289604, guid: d3a2ec243cebe68428014c87fbd22ef0, type: 3}
+    correctChoice: 0
+  - question: {fileID: 463528445, guid: 45829da505ce5494bb792ce1695d8514, type: 3}
+    choices:
+    - {fileID: 513133597, guid: ef8d0a3b64a7b6e48ae3584365d62e68, type: 3}
+    - {fileID: -665718356, guid: c4c54b392984a0645ba50ac0ee80be1e, type: 3}
+    - {fileID: 977721462, guid: a820ebb2733716e40a8539db4789d266, type: 3}
+    - {fileID: -212554407, guid: d4a5ecee32ad8c34aa387bcde600f346, type: 3}
+    correctChoice: 2
+  - question: {fileID: 1941949577, guid: 03bdae0ad067c0d43afa57fa8ad322d4, type: 3}
+    choices:
+    - {fileID: 8668711, guid: 82c87f4aa0e121349885a7a014f922c4, type: 3}
+    - {fileID: 1490729507, guid: d7c4ba2ec840a8941a7b9d1b2de4f83f, type: 3}
+    - {fileID: 2018737997, guid: 969857ced88ce2a44ad20f4e96b4ffa0, type: 3}
+    - {fileID: 318745774, guid: b4fa8340dc446d041b5794e79a2a5f80, type: 3}
+    correctChoice: 0
+  - question: {fileID: 1179348875, guid: 92d6673e8fd73e847941a50418252b22, type: 3}
+    choices:
+    - {fileID: -619644840, guid: 9e9c7aea19c5c6348ab42c8f29c0dafa, type: 3}
+    - {fileID: 637736224, guid: 45ed5624b5409ce4f8c19bd0bca8100d, type: 3}
+    - {fileID: -1627580364, guid: e9c27b788a89cdd44af831639ad07f6b, type: 3}
+    - {fileID: 1290265198, guid: 8c2986451bc16f044819477dbf9f0870, type: 3}
+    correctChoice: 1
+  - question: {fileID: -1205350762, guid: bbdf1d79cb39c5f46bf53bf5f624b290, type: 3}
+    choices:
+    - {fileID: 186338379, guid: c3dba32576b3ab641af83942ed596329, type: 3}
+    - {fileID: 1622904597, guid: 837aece116833c54fbc0fd353cb67be4, type: 3}
+    - {fileID: 1197016678, guid: af8574145aca2c94daed323f6cb638a7, type: 3}
+    - {fileID: -2124771152, guid: dd88f1b80a48f134aa2d7aa5c7b738f2, type: 3}
+    correctChoice: 3
+  - question: {fileID: -2139524551, guid: a10e1a086c1844648ab138bc51f146a2, type: 3}
+    choices:
+    - {fileID: -753054426, guid: 7343e0f235200624eb55a972598c8071, type: 3}
+    - {fileID: -624784458, guid: 5c9d60ead349e0743ab13966d7066ebd, type: 3}
+    - {fileID: 1868677600, guid: 5c7daf7adf5f4eb4bbcdb41f103ee2c9, type: 3}
+    - {fileID: 237253233, guid: 1aeca2254629c2646b6936eaa54fbe8e, type: 3}
+    correctChoice: 0
+  - question: {fileID: 152076252, guid: 5b6cdf2d36176da458ff120db6bed9e0, type: 3}
+    choices:
+    - {fileID: -1440901102, guid: 54af5913bbce9c64a8dcb92ab8eff09e, type: 3}
+    - {fileID: 915613823, guid: 5e7de7d26be0f2b4ca1d3a46358b6fcb, type: 3}
+    - {fileID: 1264915778, guid: 63c7d20f20e473342afddda7166fd0eb, type: 3}
+    - {fileID: -357494579, guid: d7e7d277d76e4fc47b3b81e8bfbdc80f, type: 3}
+    correctChoice: 1
+  - question: {fileID: -1643748837, guid: b70037128522a3241ada850d7459a3e0, type: 3}
+    choices:
+    - {fileID: -265308390, guid: d96e2c08e4426744191b00ca3d38f95b, type: 3}
+    - {fileID: -62062703, guid: 865bee7f7b096424c87628b84edd95f6, type: 3}
+    - {fileID: -525603925, guid: 1d1dec50631ce814f81bfe92cf5193ee, type: 3}
+    - {fileID: 806043285, guid: 19a24ddefd182a442b6a957706622af3, type: 3}
+    correctChoice: 3
+  - question: {fileID: -1374870912, guid: 0db8b8f4834242d4fae5c3c1e7082551, type: 3}
+    choices:
+    - {fileID: -1938182016, guid: 4b670e12461999f46909734741b2738d, type: 3}
+    - {fileID: -1173532283, guid: 772dd75f27e002a4f93f8ac8799cefc8, type: 3}
+    - {fileID: 374243173, guid: 972a86bbd58431842b779f55b8d375b6, type: 3}
+    - {fileID: 922961242, guid: 27fba01aa30b3454eb29c0039109779f, type: 3}
+    correctChoice: 3
+  - question: {fileID: -1334545043, guid: d2eeb2c6ffa5dba478c86a3240ec4d06, type: 3}
+    choices:
+    - {fileID: -386901133, guid: b099b76e9719aaf458dc4dfe5cd625d0, type: 3}
+    - {fileID: -1288015786, guid: fc384f42ca5629a468e128c300a9470c, type: 3}
+    - {fileID: 519669967, guid: dc92c2ed2b21d54478f889d5c8ba9bba, type: 3}
+    - {fileID: -1931196399, guid: 27e0bfb6882131f43b4a503aa6a2a514, type: 3}
+    correctChoice: 0
+  - question: {fileID: 1326715495, guid: 099e5ae45bff0a54799fef79b12fba11, type: 3}
+    choices:
+    - {fileID: -748044669, guid: 443d6955cf9f00d4694ce033d2af51da, type: 3}
+    - {fileID: -281809918, guid: 8c0afede157690d4b982fc3b75206dd5, type: 3}
+    - {fileID: -1079546131, guid: 23678bbf954b7a34a8d1f5cb2943082c, type: 3}
+    - {fileID: -2007265073, guid: 66d6a273dd10b9546ac16affdb02a2cb, type: 3}
+    correctChoice: 0
+  - question: {fileID: -392193749, guid: 88dad18cda4b01040ac0bf549799bbec, type: 3}
+    choices:
+    - {fileID: 1219780029, guid: 2d1443d6770fa2d49adf4a953595e3c6, type: 3}
+    - {fileID: 513631480, guid: 2011f0a74ec6b0a42b4c956e1c765d24, type: 3}
+    - {fileID: -620715855, guid: 6a40bd0942e448648b18a4efd4bb289c, type: 3}
+    - {fileID: 1974202986, guid: 3a915a5d4dad38846881f8c49b5583e7, type: 3}
+    correctChoice: 0
+  - question: {fileID: -461759869, guid: 802382d81bd6a5a479e088a8b0d2bb66, type: 3}
+    choices:
+    - {fileID: -972783448, guid: 1bf0ee622d9e50645b2f824a00583e89, type: 3}
+    - {fileID: -74596196, guid: ad5f276fab1d5c04cae720154e86cc6b, type: 3}
+    - {fileID: -1141243948, guid: e784ddc2d2b70394bbab5174f8fc2469, type: 3}
+    - {fileID: -635857059, guid: ca95e55cb71db544a9b5e0428f2046b1, type: 3}
+    correctChoice: 0
+  - question: {fileID: 705038809, guid: 24918ba239c394e4eb45fc71426bf0d4, type: 3}
+    choices:
+    - {fileID: 391653632, guid: 9207f713b688ecd4a907266c161de1ac, type: 3}
+    - {fileID: -1093958234, guid: 83de7b00669e3014ebba2c575f9dea62, type: 3}
+    - {fileID: 1774193108, guid: 40e080aac71339b4290e2288bfc03c91, type: 3}
+    - {fileID: -762509067, guid: 5e2d4c0a957ad2d4190d06e325922f21, type: 3}
+    correctChoice: 0
+  - question: {fileID: 1512627050, guid: 7e7f7aa448e2e164b896639bbafd962f, type: 3}
+    choices:
+    - {fileID: -510196614, guid: 3256edb1972ea934ebc7e0b4f8d6cf36, type: 3}
+    - {fileID: -988189837, guid: 9a36bc1b2e0f86f499389a689de9d3aa, type: 3}
+    - {fileID: -262587057, guid: 5a45d2fa2dc48324baa6497804155c91, type: 3}
+    - {fileID: 1911232443, guid: 196845f084d8172459d8353879916628, type: 3}
+    correctChoice: 0
+  - question: {fileID: 1492715969, guid: c3c2f5bbce7a87b46990653d52bb688c, type: 3}
+    choices:
+    - {fileID: 991320244, guid: a8fff6c0130e09144a612dc71b053942, type: 3}
+    - {fileID: -695689355, guid: 759314e16df9c1f41934c1ff1efb6640, type: 3}
+    - {fileID: -2120433108, guid: 80b17aff08a46324d80ba5c78d50667c, type: 3}
+    - {fileID: -838388001, guid: affe082b9aaa89e41b1323d90ec2e952, type: 3}
+    correctChoice: 0
+  - question: {fileID: 493612366, guid: 74b48ec5f67df244caf2d5040dc77eca, type: 3}
+    choices:
+    - {fileID: 1919377994, guid: d298d5b4437f15e4bba8c36ed393071c, type: 3}
+    - {fileID: 1047251976, guid: 0f808cc7c15545a438b9d01815783636, type: 3}
+    - {fileID: 2098767874, guid: 654934d6681782f4eb289fb7ff652a0d, type: 3}
+    - {fileID: -369727910, guid: 9bdfe1f9189ccbc4c840bdda45da7b2e, type: 3}
+    correctChoice: 0
+  timer: 15

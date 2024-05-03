@@ -61706,61 +61706,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1684211129}
   m_CullTransparentMesh: 1
---- !u!1 &1703208383
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1703208385}
-  - component: {fileID: 1703208384}
-  m_Layer: 0
-  m_Name: QuizManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1703208384
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1703208383}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6b8fe639d299764f8a83d60d0890dec, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  questionImage: {fileID: 0}
-  choices: []
-  scoreText: {fileID: 0}
-  livesText: {fileID: 0}
-  timerText: {fileID: 0}
-  correctFeedback: {fileID: 0}
-  wrongFeedback: {fileID: 0}
-  canvasGameObject: {fileID: 0}
-  introPanel: {fileID: 0}
-  enemyImage: {fileID: 0}
-  timePerQuestion: 10
---- !u!4 &1703208385
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1703208383}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 200.90982, y: 66.86666, z: 2.2045898}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1708228432
 GameObject:
   m_ObjectHideFlags: 0
@@ -66973,7 +66918,7 @@ GameObject:
   - component: {fileID: 2074861691}
   - component: {fileID: 2074861690}
   - component: {fileID: 2074861689}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SolidObjects
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89966,6 +89911,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2795123467261747808, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3977280477635751146, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 100.47
@@ -90022,9 +89971,25 @@ PrefabInstance:
       propertyPath: questDialog.Array.data[0]
       value: 
       objectReference: {fileID: 11400000, guid: 8dfd19941d0b5164084fa945752dfe78, type: 2}
+    - target: {fileID: 5763546238164701846, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5897379003973924621, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
+      propertyPath: m_FlipX
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5897379003973924621, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -662375381, guid: fc19bf07f33c0cf499ccb19fef77a0bf, type: 3}
     - target: {fileID: 5897379003973924621, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
       propertyPath: m_SortingLayer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5897379003973924621, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
+      propertyPath: m_SortingOrder
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5897379003973924621, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
       propertyPath: m_SortingLayerID
@@ -90049,7 +90014,6 @@ SceneRoots:
   - {fileID: 128491501}
   - {fileID: 1040866073}
   - {fileID: 206061869}
-  - {fileID: 1703208385}
   - {fileID: 4828175871502151199}
   - {fileID: 782232153}
   - {fileID: 175823524}
