@@ -70,7 +70,7 @@ public class PlayerMovementController : MonoBehaviour
     private void UpdateAnimations() 
     {
         // updat the animator parameters
-        bool walking = (velocity.magnitude > 0.01f);
+        bool walking = (velocity.magnitude > 0.05f);
         animator.SetBool("walking", walking);
         animator.SetFloat("velocity_x", velocity.x);
         animator.SetFloat("velocity_y", velocity.y);

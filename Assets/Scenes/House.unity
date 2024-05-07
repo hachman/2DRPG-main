@@ -2058,6 +2058,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -211.4
       objectReference: {fileID: 0}
+    - target: {fileID: 4460535965909979812, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
+      propertyPath: m_Color.b
+      value: 0.5377358
+      objectReference: {fileID: 0}
+    - target: {fileID: 4460535965909979812, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5377358
+      objectReference: {fileID: 0}
+    - target: {fileID: 4460535965909979812, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
+      propertyPath: m_Color.r
+      value: 0.5377358
+      objectReference: {fileID: 0}
     - target: {fileID: 4684181083576815293, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -68701,7 +68713,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1518508437
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -89973,7 +89985,7 @@ PrefabInstance:
       objectReference: {fileID: 11400000, guid: 8dfd19941d0b5164084fa945752dfe78, type: 2}
     - target: {fileID: 5763546238164701846, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 5897379003973924621, guid: 717a68fa6bef7fd4485f96755592daa0, type: 3}
       propertyPath: m_FlipX
