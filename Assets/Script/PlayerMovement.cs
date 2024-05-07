@@ -35,7 +35,7 @@ public class PlayerMovement : MonoBehaviour
 
             if (input.magnitude >= 0.1f)
             {
-                // input.y = Mathf.Abs(input.x) > 0 ? 0 : input.y;
+                 //input.y = Mathf.Abs(input.x) > 0 ? 0 : input.y;
 
                 animator.SetFloat("moveX", input.x);
                 animator.SetFloat("moveY", input.y);
@@ -112,8 +112,13 @@ public class PlayerMovement : MonoBehaviour
 
     private bool IsWalkable(Vector3 targetPos)
     {
-        solidObjects = Physics2D.OverlapCircle(targetPos, 0.2f, solidObjectsLayer);
-        return solidObjects == null;
+        /*solidObjects = Physics2D.OverlapCircle(targetPos, 0.2f, solidObjectsLayer | interactableLayer);
+        return solidObjects == null;*/
+        if (Physics2D.OverlapCircle(targetPos, 0.2f, solidObjectsLayer | interactableLayer) != null)
+        {
+            return false;
+        }
+        return true;
     }
     private void OnDrawGizmos()
     {

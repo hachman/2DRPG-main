@@ -4476,12 +4476,13 @@ MonoBehaviour:
       m_Calls: []
   m_text: "Math-Angat Compressed By Hachman. Version 1.0\nThanks For Playing, and
     Please, If you Like how it goes this Rpg 2d Game, In future reference this game
-    is on my github repositories. \nThanks to this Thesis for expanding my knowledge
-    in the world of gameDev, This project will continue.\n\nThanks to JMQ Who corrected
-    the Grammer and Spelling of all the Chapter up to version 1.0.\n\nCo-Writer of
-    version 1.0, JC.\n\nQuestion and Answer Found:\n\nMade With Unity version 2022.3.10f1.\n\n\nThis
-    Program Contains Free Software.\n\nA complete list of SoftWare, including links
-    to full source code, can be found in my Github Account Hachman.\n\n"
+    is on my GitHub repositories. \nThanks to this Thesis for expanding my knowledge
+    in the world of game dev, This project will continue.\n\nThanks to JMQ Who corrected
+    the grammar and Spelling of all the Chapters up to version 1.0.\n\nCo-writer
+    of version 1.0, JC.\n\nGraphics and design of the Q/A, RD.\n\nMade With Unity
+    version 2022.3.10f1.\n\n\nThis Program Contains Free Software.\n\nA complete
+    list of software, including links to full source code, can be found in my Github
+    Account Hachman.\n\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 18c80fce274dd0d4482faf68b9ebaa47, type: 2}
   m_sharedMaterial: {fileID: -7334721443078846878, guid: 18c80fce274dd0d4482faf68b9ebaa47, type: 2}
@@ -4756,6 +4757,10 @@ PrefabInstance:
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
+      propertyPath: backgroundMusicList.Array.data[2].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 288a86427f627a4438139349e2fd56eb, type: 3}
+    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
       propertyPath: backgroundMusicList.Array.data[6].clip
       value: 
       objectReference: {fileID: 8300000, guid: 43601f2376c75494bbb58212b17aa2ea, type: 3}
@@ -4764,11 +4769,31 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
+      propertyPath: backgroundMusicList.Array.data[7].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 43601f2376c75494bbb58212b17aa2ea, type: 3}
+    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
+      propertyPath: backgroundMusicList.Array.data[7].loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
       propertyPath: backgroundMusicList.Array.data[6].volume
-      value: 0.504
+      value: 0.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
+      propertyPath: backgroundMusicList.Array.data[7].volume
+      value: 0.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
+      propertyPath: backgroundMusicList.Array.data[2].soundName
+      value: forrest
       objectReference: {fileID: 0}
     - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
       propertyPath: backgroundMusicList.Array.data[6].soundName
+      value: cloud village
+      objectReference: {fileID: 0}
+    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
+      propertyPath: backgroundMusicList.Array.data[7].soundName
       value: cloud village
       objectReference: {fileID: 0}
     - target: {fileID: 8701420129705132419, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
