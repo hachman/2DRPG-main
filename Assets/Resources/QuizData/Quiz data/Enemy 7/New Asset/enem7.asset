@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: enem7
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: 971882141, guid: 8a1a06d3f64039d4c89c0c23ea993bcd, type: 3}
+    choices:
+    - {fileID: 1918853258, guid: 873e670d8add0284086dd109db45ce89, type: 3}
+    - {fileID: 903018600, guid: adc9eb45f1ae68345a8eb150596ec452, type: 3}
+    - {fileID: -1850455366, guid: 9524590dab5d53049b94a4561e12e820, type: 3}
+    - {fileID: -906204795, guid: 75e3a053b8fb35e4a804567d6d60dc39, type: 3}
+    correctChoice: 0
+    solution: {fileID: 21300000, guid: 871bd085a7d0eed4cac0b05eb0199c9c, type: 3}
+  - question: {fileID: -227725775, guid: 4e9da7bbd43b91b4a9378d637136aa50, type: 3}
+    choices:
+    - {fileID: 137853026, guid: 56f91b25a34d2a84fafba4ac2dc2eb80, type: 3}
+    - {fileID: 239771857, guid: 2b2e299b2ec6eae41aa95d30c9b903d4, type: 3}
+    - {fileID: -477295689, guid: 00d472bc7b7bdde4bb88046729c2c45f, type: 3}
+    - {fileID: -509612107, guid: 8aa2405d8440dc04296c60d63ab3678d, type: 3}
+    correctChoice: 1
+    solution: {fileID: 1542663795, guid: 894ee925d1f5a3f469b6353861dbb513, type: 3}
+  - question: {fileID: -2145719660, guid: 815afcbe6d2bfc0429682fc4388b10be, type: 3}
+    choices:
+    - {fileID: -267472484, guid: 67a366d7d0ec02b419ed1f6db7ea4207, type: 3}
+    - {fileID: 975023099, guid: 032df08eed5af044caf641a887736768, type: 3}
+    - {fileID: 1088649706, guid: 7db5cdce87ccf7742be8cdb16fb3abda, type: 3}
+    - {fileID: 130807861, guid: d357c2d793d5d0e4d921af6faf6d616d, type: 3}
+    correctChoice: 2
+    solution: {fileID: 21300000, guid: a6b6fcd056b343242b9621c002fe678b, type: 3}
+  timer: 30

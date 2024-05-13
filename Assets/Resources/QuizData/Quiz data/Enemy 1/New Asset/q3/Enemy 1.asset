@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: Enemy 1
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: 155077777, guid: 9f223bf287f338d4ea28734c72a215d0, type: 3}
+    choices:
+    - {fileID: 1595735075, guid: 0a8421335e368f7439c47dbc63ecf381, type: 3}
+    - {fileID: 1169429067, guid: 50320b66c3195364dbdd06f81e0f7502, type: 3}
+    - {fileID: 2036496343, guid: 06c6e846a8d907643a6b3ee98d99b438, type: 3}
+    - {fileID: 946355716, guid: fb1305e55e859b9408ad570c65af334d, type: 3}
+    correctChoice: 2
+    solution: {fileID: 21066871, guid: 5dc8cf42bb0139849ae29a0dc2b2d91a, type: 3}
+  - question: {fileID: -1818476930, guid: b23ee8388f4da354ba50eaa670157755, type: 3}
+    choices:
+    - {fileID: -459519689, guid: 00a980bd361bcae4980d9d43f5ea3776, type: 3}
+    - {fileID: -1381831406, guid: 966bfaf137b100e4285da0f9516f8a18, type: 3}
+    - {fileID: -2143904672, guid: 0a0da6d76c1185c4b8f92cad261f29e7, type: 3}
+    - {fileID: 126228966, guid: 64227e31c6efc8648b57597776ea04d6, type: 3}
+    correctChoice: 2
+    solution: {fileID: 943156539, guid: 416ea80e9c6e38247b102b0ce240092d, type: 3}
+  - question: {fileID: -145308826, guid: ac9388f74650d7449985c97de4a7c142, type: 3}
+    choices:
+    - {fileID: 1286510693, guid: 799e85ef12da53b4c83c3abf51ef43aa, type: 3}
+    - {fileID: 1532758377, guid: fcfe0d6f23e54f54789ea5ef7af72695, type: 3}
+    - {fileID: 362868000, guid: 5f5e219c539c98a469193f563f437e76, type: 3}
+    - {fileID: -1839019908, guid: aea8626b71f52f441917e7bb65f240cd, type: 3}
+    correctChoice: 2
+    solution: {fileID: 1261528303, guid: f19e2f3fff8e89c46be7f174a21d6663, type: 3}
+  timer: 30
+  IsBoss: 0
+  IsBossLives: 8
