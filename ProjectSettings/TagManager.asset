@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - SolidObjects
-  - 
+  - Minimap
   - Interactable
   - 
   - 
@@ -47,8 +47,14 @@ TagManager:
   - name: Player
     uniqueID: 1841213547
     locked: 0
+  - name: Ground
+    uniqueID: 895149287
+    locked: 0
   - name: Foreground
     uniqueID: 1518508437
+    locked: 0
+  - name: SolidGround
+    uniqueID: 430130979
     locked: 0
   - name: Door
     uniqueID: 1655742965

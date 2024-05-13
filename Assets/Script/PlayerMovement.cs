@@ -19,7 +19,17 @@ public class PlayerMovement : MonoBehaviour
     {
         animator = GetComponent<Animator>();
     }
-
+    private void Start()
+    {
+        OnLoadGameSetup();
+    }
+    private void OnLoadGameSetup()
+    {
+        Debug.Log("ILoadGame: " + FlyHigh.IsLoadGame);
+        if (!FlyHigh.IsLoadGame) return;
+        transform.position = FlyHigh.playerLoadPos;
+        FlyHigh.IsLoadGame = false;
+    }
     public void Update()
     {
         HandleMovementInput();
@@ -30,12 +40,19 @@ public class PlayerMovement : MonoBehaviour
     {
         if (!isMoving)
         {
+
             input.x = floatingJoystick.Horizontal;
             input.y = floatingJoystick.Vertical;
+            if (input.magnitude <= 0.1)
+            {
+                input.x = Input.GetAxisRaw("Horizontal");
+                input.y = Input.GetAxisRaw("Vertical");
+                input.Normalize();
+            }
 
             if (input.magnitude >= 0.1f)
             {
-                 //input.y = Mathf.Abs(input.x) > 0 ? 0 : input.y;
+                //input.y = Mathf.Abs(input.x) > 0 ? 0 : input.y;
 
                 animator.SetFloat("moveX", input.x);
                 animator.SetFloat("moveY", input.y);
@@ -104,11 +121,11 @@ public class PlayerMovement : MonoBehaviour
         isMoving = false;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.CompareTag("Player"))
-            SceneManager.LoadScene("Forest");
-    }
+    // private void OnTriggerEnter2D(Collider2D collision)
+    // {
+    //     if (collision.CompareTag("Player"))
+    //         SceneManager.LoadScene("Forest");
+    // }
 
     private bool IsWalkable(Vector3 targetPos)
     {
@@ -123,6 +140,6 @@ public class PlayerMovement : MonoBehaviour
     private void OnDrawGizmos()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position,interactableRange);
+        Gizmos.DrawWireSphere(transform.position, interactableRange);
     }
 }

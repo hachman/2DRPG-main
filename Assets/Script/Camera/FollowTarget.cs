@@ -13,6 +13,14 @@ public class FollowTarget : MonoBehaviour
     [SerializeField] private bool followY = true;
     [SerializeField] private Vector2 offset = Vector2.zero;
 
+    /*
+    [Header("Limitation")]
+    [SerializeField] private float minX = 0;
+    [SerializeField] private float minY = 0;
+    [SerializeField] private float maxX = 0;
+    [SerializeField] private float maxY = 0;
+    */
+
     private Transform originalTargetTransform;
 
     private void Start() 

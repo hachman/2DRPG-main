@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using System;
+using UnityEngine.Events;
 
 public interface IQuizData
 {
@@ -13,6 +14,14 @@ public interface IQuizData
 public class QuizGameManager : MonoBehaviour, IQuizData
 {
     public static QuizGameManager instance { get; set; }
+
+
+    [Header("-- BOSS REF --")]
+    [SerializeField] GameObject bossKilledPanel;
+    [SerializeField] Image bossDiplayImage;
+    [SerializeField] TextMeshProUGUI bossLivesTMP;
+    [Header("QUIZ REF")]
+
     public Image questionImage;
     public List<Button> choices;
     public TextMeshProUGUI scoreText;
@@ -20,10 +29,15 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     public TextMeshProUGUI timerText;
     public GameObject correctFeedback;
     public GameObject wrongFeedback;
+    [SerializeField] Image solutionImage;
     public GameObject canvasGameObject;
     public GameObject introPanel;
     // [SerializeField] Image playerImage;
     [SerializeField] Image enemyImage;
+    [SerializeField] UnityEvent _OnBossKilled;
+    [Header(" --- Correct UI PARAMETERS ---")]
+    [SerializeField] TextMeshProUGUI phraseDisplay;
+    [SerializeField] string[] randomPhrases;
     public float timePerQuestion = 10f;
 
     private int currentQuestionIndex = 0;
@@ -32,6 +46,11 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     private float timer;
     private bool quizRunning = false;
 
+    public Action OnBossKilled;
+    public Action OnGameStarted;
+    public Action OnGameFinished;
+    EnemyQuizData currentData;
+    int bossLives = 0;
     private List<Question> quizQuestions = new();
     private void Awake()
     {
@@ -68,6 +87,18 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     void UpdateQuestionUI()
     {
         if (quizQuestions == null) return;
+
+
+        if (currentData.IsBoss)
+        {
+            bossLivesTMP.gameObject.SetActive(true);
+            bossLivesTMP.text = string.Format($"BOSS LIVES: {bossLives}");
+        }
+        else
+        {
+            bossLivesTMP.gameObject.SetActive(false);
+
+        }
         Question currentQuestion = quizQuestions[currentQuestionIndex];
         questionImage.sprite = currentQuestion.question;
 
@@ -93,8 +124,10 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         }
     }
 
-    public void StartQuiz(Sprite enemySprite, Action<bool> OnBattleSuccess)
+    public void StartQuiz(Sprite enemySprite, Action<bool> OnBattleSuccess, EnemyQuizData data)
     {
+        currentData = data;
+        bossLives = data.IsBossLives;
         BattleSuccess = OnBattleSuccess;
         canvasGameObject.SetActive(true);
         AudioManager.instance.PlayBackgroundMusic("battle");
@@ -109,6 +142,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     }
     IEnumerator StartQuizWithIntroPanel()
     {
+        OnGameStarted?.Invoke();
+
         introPanel.SetActive(true);
         yield return new WaitForSeconds(2f);
         introPanel.SetActive(false);
@@ -128,6 +163,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
     public void StopQuiz()
     {
+        OnGameFinished?.Invoke();
         AudioManager.instance.PlayPreviousBackgroundMusic();
         quizRunning = false;
         StopAllCoroutines();
@@ -138,6 +174,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         wrongFeedback.SetActive(false);
         canvasGameObject.SetActive(false);
         introPanel.SetActive(false);
+        bossKilledPanel.SetActive(false);
+
     }
     bool answered = false;
     public void CheckAnswer(int choiceIndex)
@@ -151,27 +189,66 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             StopCoroutine(countdown);
             // timer = 0;
 
-            if (choiceIndex == quizQuestions[currentQuestionIndex].correctChoice)
+            if (choiceIndex == quizQuestions[currentQuestionIndex].correctChoice) // correct
             {
+
                 score++;
                 scoreText.text = "Score: " + score;
+                phraseDisplay.text = randomPhrases[UnityEngine.Random.Range(0, randomPhrases.Length)];
                 correctFeedback.SetActive(true);
+                if (currentData.IsBoss)
+                {
+                    bossLives--;
+                    if (bossLives <= 0)
+                    {
+                        // display congrats
+                        StartCoroutine(BossKilled());
+
+                    }
+
+
+                }
+
+                StartCoroutine(NextQuestion()); // delayed next question
             }
-            else
+            else // wrong
             {
+
                 lives--;
                 livesText.text = "Lives: " + lives;
+                if (quizQuestions[currentQuestionIndex].solution != null) solutionImage.sprite = quizQuestions[currentQuestionIndex].solution;
                 wrongFeedback.SetActive(true);
             }
 
-            StartCoroutine(NextQuestion());
+
         }
+    }
+    public void ContinueGame() => SetupNextItem(); // no delay, next immediately
+
+    IEnumerator BossKilled()
+    {
+        AudioManager.instance.PlayBackgroundMusic("victory");
+        bossKilledPanel?.SetActive(true);
+        bossDiplayImage.sprite = enemyImage.sprite;
+        yield return new WaitForSeconds(3f);
+        OnBossKilled?.Invoke(); // action tobe accessed through script
+        _OnBossKilled?.Invoke();// unity event to be accessed via inspector
+        bossKilledPanel?.SetActive(false);
+        EndGame();
+        AudioManager.instance.PlayPreviousBackgroundMusic();
+
     }
 
     IEnumerator NextQuestion()
     {
-        yield return new WaitForSeconds(1.5f);
 
+        yield return new WaitForSeconds(1f);
+        SetupNextItem();
+
+
+    }
+    private void SetupNextItem()
+    {
         correctFeedback.SetActive(false);
         wrongFeedback.SetActive(false);
 
@@ -190,7 +267,6 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             }
             answered = false;
         }
-
     }
     public void Surrender()
     {
@@ -237,13 +313,5 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     }
 
 
-}
-
-[System.Serializable]
-public class Question
-{
-    public Sprite question;
-    public List<Sprite> choices;
-    public int correctChoice;
 }
 

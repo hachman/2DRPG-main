@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 3706785524352238091}
   - component: {fileID: 1788915095041443609}
   - component: {fileID: 4549380023630314482}
-  - component: {fileID: 2661348931101337099}
   m_Layer: 7
   m_Name: Dynamic Wall tilema
   m_TagString: Untagged
@@ -1336,16 +1335,3 @@ CompositeCollider2D:
   m_OffsetDistance: 0.00005
   m_UseDelaunayMesh: 0
   m_CompositeGameObject: {fileID: 8278242614005680450}
---- !u!114 &2661348931101337099
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8278242614005680450}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc514ea8c5b82084d98e814a8621f1d3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  completedQuestToOpen: {fileID: 11400000, guid: d5f38a9da4d787e498ebae1d16c5dc24, type: 2}

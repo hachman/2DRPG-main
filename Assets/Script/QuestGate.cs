@@ -8,7 +8,7 @@ public class QuestGate : MonoBehaviour
 
     private void Awake()
     {
-        QuestSystemManager.instance.OnQuestDone += OnQuestDoneCheck;
+        if (QuestSystemManager.instance != null) QuestSystemManager.instance.OnQuestDone += OnQuestDoneCheck;
 
     }
     private void OnQuestDoneCheck(Quest_Data questData)

@@ -1,8 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
+using NaughtyAttributes;
 
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
@@ -11,12 +13,18 @@ public class EnemyNPC : MonoBehaviour, Interactable
     [Header("Visual")]
     [SerializeField] private GameObject visualcue;
     [SerializeField] SpriteRenderer characterVisual;
+    [SerializeField] float detectRange = 2.5f;
+    [SerializeField] LayerMask layerMaskDetect;
 
     [Header("Enemy Quiz Data")]
     public EnemyQuizData questionFight;
     [Header("Enemy Death Quest")]
     [SerializeField] Quest_Data questDataToProgress;
     private bool playerInRange;
+    [SerializeField] UnityEvent OnEnemyWins;
+    [SerializeField] UnityEvent OnEnemyDeath;
+    [SerializeField] Animation dieAnim;
+    [SerializeField] float destroyDelay = .5f;
     private void Awake()
     {
         playerInRange = false;
@@ -24,36 +32,20 @@ public class EnemyNPC : MonoBehaviour, Interactable
     }
     private void Update()
     {
-        if (playerInRange)
-        {
-            visualcue.SetActive(true);
-            /* if (InputManager.GetInstance().GetInteractPressed())
-             {
-                 Debug.Log(inkJSON.text);
-             }*/
 
+    }
+
+
+    private void FixedUpdate()
+    {
+        if (Physics2D.OverlapCircle(transform.position, detectRange, layerMaskDetect))
+        {
+            visualcue?.SetActive(true);
         }
         else
         {
-            visualcue.SetActive(false);
+            visualcue?.SetActive(false);
         }
-    }
-
-    private void OnTriggerEnter2D(Collider2D collider)
-    {
-        if (collider.gameObject.tag == "Player")
-        {
-            playerInRange = true;
-        }
-    }
-    private void OnTriggerExit2D(Collider2D collider)
-    {
-
-        if (collider.gameObject.tag == "Player")
-        {
-            playerInRange = false;
-        }
-
     }
     bool isInteractable = true;
 
@@ -63,33 +55,30 @@ public class EnemyNPC : MonoBehaviour, Interactable
         isInteractable = false;
         Debug.Log("Fight Enemy " + transform.name);
         QuizGameManager.instance.SetupQuizData(questionFight.questions, questionFight.timer);
-        QuizGameManager.instance.StartQuiz(characterVisual.sprite, OnBattleDone);
+        QuizGameManager.instance.StartQuiz(characterVisual.sprite, OnBattleDone, questionFight);
 
     }
-
+    [Button]
+    public void DieUnit() => OnBattleDone(true);
     public void OnBattleDone(bool isSuccess)
     {
         if (isSuccess)
         {
-
+            OnEnemyDeath?.Invoke();
+            dieAnim.Play();
             StartCoroutine(DieEnemy());
         }
         else
         {
-            LoadGame();
+            OnEnemyWins?.Invoke();// where load game is attached
             isInteractable = true;
         }
 
     }
-    private void LoadGame()
-    {
 
-
-        QuestSystemManager.instance.RepositionPlayer = true;
-        SceneManager.LoadScene(QuestSystemManager.instance.questDatabaseJSON.savedScene);
-    }
     IEnumerator DieEnemy()
     {
+
         if (QuestSystemManager.instance.activeQuest != null)
         {
             if (questDataToProgress != null && questDataToProgress == QuestSystemManager.instance.activeQuest)
@@ -99,7 +88,7 @@ public class EnemyNPC : MonoBehaviour, Interactable
         }
 
 
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(destroyDelay);
         // Die
 
         StopAllCoroutines();

@@ -53,6 +53,11 @@ public class Quest_Data : ScriptableObject
     {
         questState = questDataJSON.questState;
     }
+    public virtual void SetState(Quest_State setState)
+    {
+        questState = setState;
+    }
+    public Quest_State GetState() => questState;
 
 }
 [Serializable]

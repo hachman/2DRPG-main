@@ -15,6 +15,7 @@ public class SpawnOnQuestActivated : MonoBehaviour
             item.SetActive(false);
         }
         QuestSystemManager.instance.OnQuestActivated += OnQuestActivated;
+        if (questActivatedRef.GetState() == Quest_State.Active) OnQuestActivated(questActivatedRef);
 
     }
 

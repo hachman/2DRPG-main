@@ -1,31 +1,66 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class ChangeScene : MonoBehaviour
 {
-    [SerializeField] string sceneToGo;
-    [SerializeField] Button button;
-
-
-    private void Start()
+    public static ChangeScene instance = null;
+    [SerializeField] GameObject loadingObject; // Reference to the loading object to activate
+    [SerializeField] TMP_Text loadingText; // Reference to the TextMeshProUGUI for displaying loading percentage
+    [SerializeField] float delayAfterLoading = .5f; // Delay after loading is done
+    private void Awake()
     {
-        if (button != null)
+        if (instance == null)
         {
-            button.onClick.AddListener(GoToScene);
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
         }
     }
-    private void OnDisable()
+
+    // Load a scene with optional action upon completion
+    public void LoadScene(string sceneName, Action onLoadingDone = null)
     {
-        if (button != null)
+        if (loadingObject != null)
+            loadingObject.SetActive(true);
+
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(sceneName);
+        StartCoroutine(UpdateLoadingPercentage(asyncLoad));
+
+        asyncLoad.completed += operation =>
         {
-            button.onClick.RemoveListener(GoToScene);
+            if (loadingObject != null)
+                Invoke("DeactivateLoadingObject", delayAfterLoading);
+
+            onLoadingDone?.Invoke();
+        };
+    }
+
+    // Coroutine to update loading percentage in TextMeshProUGUI
+    private IEnumerator UpdateLoadingPercentage(AsyncOperation asyncOperation)
+    {
+
+        while (!asyncOperation.isDone)
+        {
+            if (loadingText != null)
+            {
+                loadingText.text = "Loading " + (asyncOperation.progress * 100f).ToString("0.0") + "%";
+            }
+            yield return null;
         }
     }
-    private void GoToScene()
+
+    // Deactivate the loading object
+    private void DeactivateLoadingObject()
     {
-        SceneManager.LoadScene(sceneToGo);
+        if (loadingObject != null)
+            loadingObject.SetActive(false);
     }
 }

@@ -4,8 +4,26 @@ using UnityEngine;
 
 public class NPCController : MonoBehaviour, Interactable
 {
+  [SerializeField] GameObject TalkVisual;
+  [SerializeField] float detectRange = 2.5f;
+  [SerializeField] LayerMask layerMaskDetect;
   public List<Dialog> questDialog;
   public Dialog defaultDialog;
+  private void Start()
+  {
+    TalkVisual?.SetActive(false);
+  }
+  private void FixedUpdate()
+  {
+    if (Physics2D.OverlapCircle(transform.position, detectRange, layerMaskDetect))
+    {
+      TalkVisual?.SetActive(true);
+    }
+    else
+    {
+      TalkVisual?.SetActive(false);
+    }
+  }
   public void Interact()
   {
     if (QuestSystemManager.instance.activeQuest != null)

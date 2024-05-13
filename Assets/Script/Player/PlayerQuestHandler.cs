@@ -11,7 +11,7 @@ public class PlayerQuestHandler : MonoBehaviour
     [SerializeField] GameObject questCompleted;
     [SerializeField] TextMeshProUGUI questCompletedText;
     [SerializeField] Transform playerUnit;
-    [SerializeField] GameObject savedPanel;
+    // [SerializeField] GameObject savedPanel;
     private void Awake()
     {
         QuestSystemManager.instance.OnQuestActivated += OnQuestActivated;
@@ -19,18 +19,18 @@ public class PlayerQuestHandler : MonoBehaviour
     }
 
 
-    public void SaveData()
-    {
+    // public void SaveData()
+    // {
 
-        QuestSystemManager.instance.SaveQuestData(playerUnit.position, SceneManager.GetActiveScene().name);
-        StartCoroutine(DisplaySavedPAnel());
-    }
-    IEnumerator DisplaySavedPAnel()
-    {
-        savedPanel.SetActive(true);
-        yield return new WaitForSeconds(1f);
-        savedPanel.SetActive(false);
-    }
+    //     QuestSystemManager.instance.SaveQuestData(playerUnit.position, SceneManager.GetActiveScene().name);
+    //     StartCoroutine(DisplaySavedPAnel());
+    // }
+    // IEnumerator DisplaySavedPAnel()
+    // {
+    //     savedPanel.SetActive(true);
+    //     yield return new WaitForSeconds(1f);
+    //     savedPanel.SetActive(false);
+    // }
 
     private void OnQuestDone(Quest_Data data)
     {
@@ -65,7 +65,7 @@ public class PlayerQuestHandler : MonoBehaviour
             QuestSystemManager.instance.RepositionPlayer = false;
         }
         questCompleted.SetActive(false);
-        savedPanel.SetActive(false);
+        // savedPanel.SetActive(false);
         if (QuestSystemManager.instance.activeQuest != null) textMeshProUGUI.text = QuestSystemManager.instance.activeQuest.questDefinition;
     }
 }

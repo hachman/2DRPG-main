@@ -2,23 +2,29 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
+using System;
 
 public class SAVESYSTEM : MonoBehaviour
 {
-    public TMP_InputField inputField;
-
-    public void SaveData()
+    [SerializeField] Transform playerTransform;
+    [SerializeField] GameObject savedPanel;
+    private void Start()
     {
-        PlayerPrefs.SetString("Input", inputField.text);
+        savedPanel?.SetActive(false);
+    }
+    public void SaveProgress()
+    {
+        QuestSystemManager.instance?.SaveQuestData(playerTransform.position, SceneManager.GetActiveScene().name);
+        StartCoroutine(DisplaySavedPAnel());
+    }
+    IEnumerator DisplaySavedPAnel()
+    {
+        savedPanel.SetActive(true);
+        yield return new WaitForSeconds(1f);
+        savedPanel.SetActive(false);
     }
 
-    public void LoadData()
-    {
-      inputField.text =  PlayerPrefs.GetString("Input");
-    }
+   
 
-    public void DeleteData()
-    {
-        PlayerPrefs.DeleteKey("Input");
-    }
 }

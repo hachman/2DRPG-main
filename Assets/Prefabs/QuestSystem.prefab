@@ -45,10 +45,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   allQuests:
+  - {fileID: 11400000, guid: 57496e7c490f1014ca70934b9b1b7cb8, type: 2}
   - {fileID: 11400000, guid: e5c0b7f474098734bbe42fa46050f136, type: 2}
   - {fileID: 11400000, guid: 2df8efd1b469889439132f6b8b88f08f, type: 2}
   - {fileID: 11400000, guid: 86fd3978f7f131549be093d8b74a7997, type: 2}
   - {fileID: 11400000, guid: e2c02635fe4fd6a45a7868dd73349e16, type: 2}
+  - {fileID: 11400000, guid: fe5027e38e8ee8d4596f71117a8bd695, type: 2}
+  - {fileID: 11400000, guid: e79e4dfb0b71e644a8c674eb4a22c0fc, type: 2}
+  - {fileID: 11400000, guid: 57496e7c490f1014ca70934b9b1b7cb8, type: 2}
   questDatabaseJSON:
     ActiveQuestName: 
     xSavedPosition: 0
