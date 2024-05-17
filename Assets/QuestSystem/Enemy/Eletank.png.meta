@@ -1,0 +1,1965 @@
+fileFormatVersion: 2
+guid: 0b0625a875ad83a46b3ebb3446658b37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2300524722686008225
+    second: Eletank_0
+  - first:
+      213: 7951718850939974994
+    second: Eletank_1
+  - first:
+      213: 3305512737274379376
+    second: Eletank_2
+  - first:
+      213: -5299189743565964433
+    second: Eletank_3
+  - first:
+      213: 4632276020117707470
+    second: Eletank_4
+  - first:
+      213: -5176175404191920125
+    second: Eletank_5
+  - first:
+      213: -983179962322753821
+    second: Eletank_6
+  - first:
+      213: 4498800086440820959
+    second: Eletank_7
+  - first:
+      213: -64233516426715488
+    second: Eletank_8
+  - first:
+      213: -3786253887516524100
+    second: Eletank_9
+  - first:
+      213: 8017649027876648514
+    second: Eletank_10
+  - first:
+      213: -3415684475448197435
+    second: Eletank_11
+  - first:
+      213: -3243779727435256215
+    second: Eletank_12
+  - first:
+      213: 3667653156783251106
+    second: Eletank_13
+  - first:
+      213: -4989290424727158930
+    second: Eletank_14
+  - first:
+      213: 5367835878974482413
+    second: Eletank_15
+  - first:
+      213: -28028121078447756
+    second: Eletank_16
+  - first:
+      213: 5194194127293098463
+    second: Eletank_17
+  - first:
+      213: 3649966572138579705
+    second: Eletank_18
+  - first:
+      213: 2668946807813572222
+    second: Eletank_19
+  - first:
+      213: 3722381462763957195
+    second: Eletank_20
+  - first:
+      213: -8602767723948697935
+    second: Eletank_21
+  - first:
+      213: 2447495347430690361
+    second: Eletank_22
+  - first:
+      213: 8091415541843981739
+    second: Eletank_23
+  - first:
+      213: 1431534830912955106
+    second: Eletank_24
+  - first:
+      213: 2457016908771341235
+    second: Eletank_25
+  - first:
+      213: -3596104464724082926
+    second: Eletank_26
+  - first:
+      213: 1826542042407473394
+    second: Eletank_27
+  - first:
+      213: 8947423993924963444
+    second: Eletank_28
+  - first:
+      213: -6168324008867456911
+    second: Eletank_29
+  - first:
+      213: -5056321335389983107
+    second: Eletank_30
+  - first:
+      213: 4983207292515421642
+    second: Eletank_31
+  - first:
+      213: -302459831344022096
+    second: Eletank_32
+  - first:
+      213: 5798885556117625443
+    second: Eletank_33
+  - first:
+      213: 614012802774382432
+    second: Eletank_34
+  - first:
+      213: 6800385227304538037
+    second: Eletank_35
+  - first:
+      213: 5796678944745066302
+    second: Eletank_36
+  - first:
+      213: 7115344083951767860
+    second: Eletank_37
+  - first:
+      213: 6635651440684751913
+    second: Eletank_38
+  - first:
+      213: -2171525992671694918
+    second: Eletank_39
+  - first:
+      213: 8431280234055214995
+    second: Eletank_40
+  - first:
+      213: -6742093758013153458
+    second: Eletank_41
+  - first:
+      213: 9178708157439838929
+    second: Eletank_42
+  - first:
+      213: -8683032342174098826
+    second: Eletank_43
+  - first:
+      213: -4480723919559102673
+    second: Eletank_44
+  - first:
+      213: -8577699578356756835
+    second: Eletank_45
+  - first:
+      213: -7792404856310227096
+    second: Eletank_46
+  - first:
+      213: -6004693333534295340
+    second: Eletank_47
+  - first:
+      213: 4798768862529817417
+    second: Eletank_48
+  - first:
+      213: -1715125540339113576
+    second: Eletank_49
+  - first:
+      213: -3751918095218059128
+    second: Eletank_50
+  - first:
+      213: 3160644384374351930
+    second: Eletank_51
+  - first:
+      213: 724731313200959192
+    second: Eletank_52
+  - first:
+      213: 5704867835087324291
+    second: Eletank_53
+  - first:
+      213: -1983216357706316951
+    second: Eletank_54
+  - first:
+      213: -4727182124544948170
+    second: Eletank_55
+  - first:
+      213: -4194958136410260919
+    second: Eletank_56
+  - first:
+      213: 6423294594600741799
+    second: Eletank_57
+  - first:
+      213: 8230805888019441528
+    second: Eletank_58
+  - first:
+      213: -1215487606425877730
+    second: Eletank_59
+  - first:
+      213: 6404147082535349204
+    second: Eletank_60
+  - first:
+      213: -2136063973870004175
+    second: Eletank_61
+  - first:
+      213: 5336987065893164146
+    second: Eletank_62
+  - first:
+      213: 715706178185308261
+    second: Eletank_63
+  - first:
+      213: -6631215071871577666
+    second: Eletank_64
+  - first:
+      213: 5612547318420703882
+    second: Eletank_65
+  - first:
+      213: 157689272472087329
+    second: Eletank_66
+  - first:
+      213: -5092999337302888876
+    second: Eletank_67
+  - first:
+      213: -7552543481088880314
+    second: Eletank_68
+  - first:
+      213: -7345116448050759735
+    second: Eletank_69
+  - first:
+      213: -7220238163590797488
+    second: Eletank_70
+  - first:
+      213: -383963101023220415
+    second: Eletank_71
+  - first:
+      213: -8700336202471531791
+    second: Eletank_72
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eletank_0
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 2915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab14bceb0b1def10800000000000000
+      internalID: 2300524722686008225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_1
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255fd083a2e2a5e60800000000000000
+      internalID: 7951718850939974994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_2
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2559
+        width: 477
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb4c9325a8fdd20800000000000000
+      internalID: 3305512737274379376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_3
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 2559
+        width: 477
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7b59210f7576b0800000000000000
+      internalID: -5299189743565964433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_4
+      rect:
+        serializedVersion: 2
+        x: 4114
+        y: 2559
+        width: 477
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca1da85f76294040800000000000000
+      internalID: 4632276020117707470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d60af4e78a28b0800000000000000
+      internalID: -5176175404191920125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2559
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6687b880b0b52f0800000000000000
+      internalID: -983179962322753821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2559
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04dcbc7d2fe6e30800000000000000
+      internalID: 4498800086440820959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_8
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2568
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae16b605fbcb1ff0800000000000000
+      internalID: -64233516426715488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_9
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2559
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1c2255626847bc0800000000000000
+      internalID: -3786253887516524100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_10
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2559
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246f750cf49644f60800000000000000
+      internalID: 8017649027876648514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_11
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 2403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef710111d0990d0800000000000000
+      internalID: -3415684475448197435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_12
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 2403
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96eab903687cbf2d0800000000000000
+      internalID: -3243779727435256215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2047
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aed7613d1f16e230800000000000000
+      internalID: 3667653156783251106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2047
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f31e80bca72cab0800000000000000
+      internalID: -4989290424727158930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2047
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7eedaba426e7a40800000000000000
+      internalID: 5367835878974482413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_16
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 2056
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471c567829c6c9ff0800000000000000
+      internalID: -28028121078447756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_17
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2360
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9a9bbe90c751840800000000000000
+      internalID: 5194194127293098463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_18
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 2360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6ce5e424947a230800000000000000
+      internalID: 3649966572138579705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_19
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 2360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7604242bf00a0520800000000000000
+      internalID: 2668946807813572222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_20
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2047
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6b86e73e88a330800000000000000
+      internalID: 3722381462763957195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_21
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 2047
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b697d0a554dc9880800000000000000
+      internalID: -8602767723948697935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_22
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 2047
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e07051d0047f120800000000000000
+      internalID: 2447495347430690361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_23
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 2048
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba57fada09b7a4070800000000000000
+      internalID: 8091415541843981739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_24
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 2048
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e26a281855ddd310800000000000000
+      internalID: 1431534830912955106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b1765cd3191220800000000000000
+      internalID: 2457016908771341235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1535
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fbce4da02181ec0800000000000000
+      internalID: -3596104464724082926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1535
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f093056f4e295910800000000000000
+      internalID: 1826542042407473394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_28
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1544
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c44bc87b2ab2c70800000000000000
+      internalID: 8947423993924963444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_29
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1848
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17811ffbef5b56aa0800000000000000
+      internalID: -6168324008867456911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_30
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 1848
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee9d5f88654d9b0800000000000000
+      internalID: -5056321335389983107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_31
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 1848
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd848061a8e72540800000000000000
+      internalID: 4983207292515421642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_32
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1535
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd3ae9c2627dcbf0800000000000000
+      internalID: -302459831344022096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_33
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1535
+        width: 514
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ad88180b7c97050800000000000000
+      internalID: 5798885556117625443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_34
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1535
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b8e41469658800800000000000000
+      internalID: 614012802774382432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_35
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 1536
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf0d419552df5e50800000000000000
+      internalID: 6800385227304538037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_36
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 1536
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0482c9c0f17050800000000000000
+      internalID: 5796678944745066302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 512
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4315f92eeb7ceb260800000000000000
+      internalID: 7115344083951767860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1023
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cd25ff3d1961c50800000000000000
+      internalID: 6635651440684751913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1023
+        width: 512
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfa64a6d903dd1e0800000000000000
+      internalID: -2171525992671694918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_40
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 1336
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39722a8b3bce10570800000000000000
+      internalID: 8431280234055214995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_41
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 1336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f5f3fb2754f62a0800000000000000
+      internalID: -6742093758013153458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_42
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 1336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da8e253072516f70800000000000000
+      internalID: 9178708157439838929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_43
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1023
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a1c77e61caf7780800000000000000
+      internalID: -8683032342174098826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_44
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1023
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f6516c55541d1c0800000000000000
+      internalID: -4480723919559102673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_45
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 1023
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e070a1ea3e5f880800000000000000
+      internalID: -8577699578356756835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_46
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1023
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f9991b111dbd390800000000000000
+      internalID: -7792404856310227096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_47
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 1024
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da38853a3b0baca0800000000000000
+      internalID: -6004693333534295340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_48
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 1024
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b8b420bd6a89240800000000000000
+      internalID: 4798768862529817417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_49
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 824
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89123ee7866a238e0800000000000000
+      internalID: -1715125540339113576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_50
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 824
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888da24fe528eebc0800000000000000
+      internalID: -3751918095218059128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_51
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 824
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3867ff525ddcdb20800000000000000
+      internalID: 3160644384374351930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 511
+        width: 503
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de02f02a43ce0a00800000000000000
+      internalID: 724731313200959192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_53
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 511
+        width: 503
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3848ee00213cb2f40800000000000000
+      internalID: 5704867835087324291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_54
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 511
+        width: 503
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963cb2eea333a74e0800000000000000
+      internalID: -1983216357706316951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_55
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 511
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380ce547eca56eb0800000000000000
+      internalID: -4727182124544948170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_56
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 511
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ab1affcc388c5c0800000000000000
+      internalID: -4194958136410260919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_57
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 511
+        width: 514
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2dd6d660242950800000000000000
+      internalID: 6423294594600741799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_58
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 511
+        width: 509
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877a792b852b93270800000000000000
+      internalID: 8230805888019441528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_59
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 512
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13881e3678b12fe0800000000000000
+      internalID: -1215487606425877730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_60
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 512
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbafd747d910e850800000000000000
+      internalID: 6404147082535349204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 477
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13818f3122d2b52e0800000000000000
+      internalID: -2136063973870004175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_62
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 477
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2749a69b579c01a40800000000000000
+      internalID: 5336987065893164146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_63
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 0
+        width: 477
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a9422af2bee900800000000000000
+      internalID: 715706178185308261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_64
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 7
+        width: 482
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1d0eb960139f3a0800000000000000
+      internalID: -6631215071871577666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_65
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 312
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a898fac06c3ed40800000000000000
+      internalID: 5612547318420703882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_66
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ba69ece89303200800000000000000
+      internalID: 157689272472087329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_67
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 312
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ee2ca26180259b0800000000000000
+      internalID: -5092999337302888876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_68
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 0
+        width: 514
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641510318b9ff2790800000000000000
+      internalID: -7552543481088880314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_69
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 0
+        width: 514
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c73e00b187e01a90800000000000000
+      internalID: -7345116448050759735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_70
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 0
+        width: 509
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057a37905af8ccb90800000000000000
+      internalID: -7220238163590797488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_71
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 0
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d47ac0893ebaaf0800000000000000
+      internalID: -383963101023220415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eletank_72
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 0
+        width: 508
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa9639f152324780800000000000000
+      internalID: -8700336202471531791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Eletank_0: 2300524722686008225
+      Eletank_1: 7951718850939974994
+      Eletank_10: 8017649027876648514
+      Eletank_11: -3415684475448197435
+      Eletank_12: -3243779727435256215
+      Eletank_13: 3667653156783251106
+      Eletank_14: -4989290424727158930
+      Eletank_15: 5367835878974482413
+      Eletank_16: -28028121078447756
+      Eletank_17: 5194194127293098463
+      Eletank_18: 3649966572138579705
+      Eletank_19: 2668946807813572222
+      Eletank_2: 3305512737274379376
+      Eletank_20: 3722381462763957195
+      Eletank_21: -8602767723948697935
+      Eletank_22: 2447495347430690361
+      Eletank_23: 8091415541843981739
+      Eletank_24: 1431534830912955106
+      Eletank_25: 2457016908771341235
+      Eletank_26: -3596104464724082926
+      Eletank_27: 1826542042407473394
+      Eletank_28: 8947423993924963444
+      Eletank_29: -6168324008867456911
+      Eletank_3: -5299189743565964433
+      Eletank_30: -5056321335389983107
+      Eletank_31: 4983207292515421642
+      Eletank_32: -302459831344022096
+      Eletank_33: 5798885556117625443
+      Eletank_34: 614012802774382432
+      Eletank_35: 6800385227304538037
+      Eletank_36: 5796678944745066302
+      Eletank_37: 7115344083951767860
+      Eletank_38: 6635651440684751913
+      Eletank_39: -2171525992671694918
+      Eletank_4: 4632276020117707470
+      Eletank_40: 8431280234055214995
+      Eletank_41: -6742093758013153458
+      Eletank_42: 9178708157439838929
+      Eletank_43: -8683032342174098826
+      Eletank_44: -4480723919559102673
+      Eletank_45: -8577699578356756835
+      Eletank_46: -7792404856310227096
+      Eletank_47: -6004693333534295340
+      Eletank_48: 4798768862529817417
+      Eletank_49: -1715125540339113576
+      Eletank_5: -5176175404191920125
+      Eletank_50: -3751918095218059128
+      Eletank_51: 3160644384374351930
+      Eletank_52: 724731313200959192
+      Eletank_53: 5704867835087324291
+      Eletank_54: -1983216357706316951
+      Eletank_55: -4727182124544948170
+      Eletank_56: -4194958136410260919
+      Eletank_57: 6423294594600741799
+      Eletank_58: 8230805888019441528
+      Eletank_59: -1215487606425877730
+      Eletank_6: -983179962322753821
+      Eletank_60: 6404147082535349204
+      Eletank_61: -2136063973870004175
+      Eletank_62: 5336987065893164146
+      Eletank_63: 715706178185308261
+      Eletank_64: -6631215071871577666
+      Eletank_65: 5612547318420703882
+      Eletank_66: 157689272472087329
+      Eletank_67: -5092999337302888876
+      Eletank_68: -7552543481088880314
+      Eletank_69: -7345116448050759735
+      Eletank_7: 4498800086440820959
+      Eletank_70: -7220238163590797488
+      Eletank_71: -383963101023220415
+      Eletank_72: -8700336202471531791
+      Eletank_8: -64233516426715488
+      Eletank_9: -3786253887516524100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

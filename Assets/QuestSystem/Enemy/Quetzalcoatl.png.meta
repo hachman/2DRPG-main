@@ -1,0 +1,1540 @@
+fileFormatVersion: 2
+guid: 1e7b6502e72be3e4fb1776d77ae5e2c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4290672144083775018
+    second: Quetzalcoatl_0
+  - first:
+      213: 2289716501052289697
+    second: Quetzalcoatl_1
+  - first:
+      213: 8596782524621859783
+    second: Quetzalcoatl_2
+  - first:
+      213: 2766122700929597691
+    second: Quetzalcoatl_3
+  - first:
+      213: -7122074407263723881
+    second: Quetzalcoatl_4
+  - first:
+      213: -5924722998191824386
+    second: Quetzalcoatl_5
+  - first:
+      213: -5926840134998291998
+    second: Quetzalcoatl_6
+  - first:
+      213: 1993054385568400155
+    second: Quetzalcoatl_7
+  - first:
+      213: 8938912710266610643
+    second: Quetzalcoatl_8
+  - first:
+      213: 2926261961141321493
+    second: Quetzalcoatl_9
+  - first:
+      213: -6748490510499315897
+    second: Quetzalcoatl_10
+  - first:
+      213: -605103118341393012
+    second: Quetzalcoatl_11
+  - first:
+      213: -42051601394308371
+    second: Quetzalcoatl_12
+  - first:
+      213: -683418035751548952
+    second: Quetzalcoatl_13
+  - first:
+      213: 7045263519694732235
+    second: Quetzalcoatl_14
+  - first:
+      213: 8456592460109023143
+    second: Quetzalcoatl_15
+  - first:
+      213: -1039875643691074906
+    second: Quetzalcoatl_16
+  - first:
+      213: 1918126013493128968
+    second: Quetzalcoatl_17
+  - first:
+      213: 456801172004059882
+    second: Quetzalcoatl_18
+  - first:
+      213: 6124726263933093212
+    second: Quetzalcoatl_19
+  - first:
+      213: 3684820623884133275
+    second: Quetzalcoatl_20
+  - first:
+      213: -4619862210160288479
+    second: Quetzalcoatl_21
+  - first:
+      213: 1663832043179381840
+    second: Quetzalcoatl_22
+  - first:
+      213: -5845412083392425308
+    second: Quetzalcoatl_23
+  - first:
+      213: 5884535479461140393
+    second: Quetzalcoatl_24
+  - first:
+      213: 110912745533174959
+    second: Quetzalcoatl_25
+  - first:
+      213: 655181140549095842
+    second: Quetzalcoatl_26
+  - first:
+      213: -8370740551646475716
+    second: Quetzalcoatl_27
+  - first:
+      213: 989891428151257621
+    second: Quetzalcoatl_28
+  - first:
+      213: 4112807282337768507
+    second: Quetzalcoatl_29
+  - first:
+      213: 1563816953371333409
+    second: Quetzalcoatl_30
+  - first:
+      213: 1112227527492622697
+    second: Quetzalcoatl_31
+  - first:
+      213: 3640469591010191004
+    second: Quetzalcoatl_32
+  - first:
+      213: 5562047163272109748
+    second: Quetzalcoatl_33
+  - first:
+      213: 3146293198208895657
+    second: Quetzalcoatl_34
+  - first:
+      213: 8146563698142982674
+    second: Quetzalcoatl_35
+  - first:
+      213: -6074370914496146453
+    second: Quetzalcoatl_36
+  - first:
+      213: -7686188550998700618
+    second: Quetzalcoatl_37
+  - first:
+      213: 7881201262874800552
+    second: Quetzalcoatl_38
+  - first:
+      213: 3766938137923190451
+    second: Quetzalcoatl_39
+  - first:
+      213: 2867912148307360537
+    second: Quetzalcoatl_40
+  - first:
+      213: -8967115507214297806
+    second: Quetzalcoatl_41
+  - first:
+      213: 5956181916258998860
+    second: Quetzalcoatl_42
+  - first:
+      213: 1088308624588521126
+    second: Quetzalcoatl_43
+  - first:
+      213: -7926805067580519314
+    second: Quetzalcoatl_44
+  - first:
+      213: -3686637502949132108
+    second: Quetzalcoatl_45
+  - first:
+      213: 8754841928615018254
+    second: Quetzalcoatl_46
+  - first:
+      213: -2146065815555605627
+    second: Quetzalcoatl_47
+  - first:
+      213: -8709611948611840624
+    second: Quetzalcoatl_48
+  - first:
+      213: -5295566939256462832
+    second: Quetzalcoatl_49
+  - first:
+      213: 632558744717273003
+    second: Quetzalcoatl_50
+  - first:
+      213: -5893914619086640908
+    second: Quetzalcoatl_51
+  - first:
+      213: 9041710392317796610
+    second: Quetzalcoatl_52
+  - first:
+      213: 7288189107796303779
+    second: Quetzalcoatl_53
+  - first:
+      213: -8143383594946549102
+    second: Quetzalcoatl_54
+  - first:
+      213: -4851136302764831441
+    second: Quetzalcoatl_55
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quetzalcoatl_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2559
+        width: 353
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ee6c305978b8b30800000000000000
+      internalID: 4290672144083775018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2559
+        width: 353
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a27299b605b6cf10800000000000000
+      internalID: 2289716501052289697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_2
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2559
+        width: 354
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb2f5f8828ed4770800000000000000
+      internalID: 8596782524621859783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_3
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2559
+        width: 393
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf08d02e0fd336620800000000000000
+      internalID: 2766122700929597691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_4
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2559
+        width: 435
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e152b9f0f492d90800000000000000
+      internalID: -7122074407263723881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_5
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 2684
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1603cd2d727cda0800000000000000
+      internalID: -5924722998191824386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_6
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 2564
+        width: 442
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e906e88c42afbda0800000000000000
+      internalID: -5926840134998291998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_7
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 2684
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13c6dd6760c8ab10800000000000000
+      internalID: 1993054385568400155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_8
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 2570
+        width: 309
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d36aa5efb56d0c70800000000000000
+      internalID: 8938912710266610643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_9
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 2564
+        width: 302
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ff099efbb2c9820800000000000000
+      internalID: 2926261961141321493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_10
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 2559
+        width: 299
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ff79fb2ab8852a0800000000000000
+      internalID: -6748490510499315897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2047
+        width: 353
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85b7ca7bed3a97f0800000000000000
+      internalID: -605103118341393012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2047
+        width: 353
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae7a49a4a9a6ff0800000000000000
+      internalID: -42051601394308371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_13
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2047
+        width: 354
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e70fe9dae20486f0800000000000000
+      internalID: -683418035751548952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_14
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2047
+        width: 393
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb3c6008ddc5c160800000000000000
+      internalID: 7045263519694732235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_15
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 2047
+        width: 431
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78b0b990adb5570800000000000000
+      internalID: 8456592460109023143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_16
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 2052
+        width: 390
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa763f8c9e9191f0800000000000000
+      internalID: -1039875643691074906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_17
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 2047
+        width: 410
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa1b4527d8e9a10800000000000000
+      internalID: 1918126013493128968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_18
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 2047
+        width: 410
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeab846ee32e65600800000000000000
+      internalID: 456801172004059882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_19
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 2047
+        width: 411
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55cc3c36166ff450800000000000000
+      internalID: 6124726263933093212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1535
+        width: 353
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93a5ab95dc132330800000000000000
+      internalID: 3684820623884133275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1535
+        width: 353
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d15240cc3f2efb0800000000000000
+      internalID: -4619862210160288479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_22
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1535
+        width: 354
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0549e9b8d6e171710800000000000000
+      internalID: 1663832043179381840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_23
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1535
+        width: 393
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a25e933eace0eea0800000000000000
+      internalID: -5845412083392425308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_24
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1535
+        width: 431
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d67947d11aa150800000000000000
+      internalID: 5884535479461140393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_25
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1540
+        width: 390
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4719eed8a0a8100800000000000000
+      internalID: 110912745533174959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_26
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1535
+        width: 410
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1d6f9a6cba71900800000000000000
+      internalID: 655181140549095842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_27
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 1535
+        width: 410
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a872081d725db80800000000000000
+      internalID: -8370740551646475716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_28
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 1535
+        width: 411
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ae82d520dccbd00800000000000000
+      internalID: 989891428151257621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1023
+        width: 259
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34e165ce60a31930800000000000000
+      internalID: 4112807282337768507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_30
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1023
+        width: 259
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1239e6fcb3bc3b510800000000000000
+      internalID: 1563816953371333409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_31
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1023
+        width: 259
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969db9d1b0d6f6f00800000000000000
+      internalID: 1112227527492622697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_32
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 1023
+        width: 393
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9626c31ecb858230800000000000000
+      internalID: 3640469591010191004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_33
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1023
+        width: 431
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be9dce0d6c503d40800000000000000
+      internalID: 5562047163272109748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_34
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1028
+        width: 390
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa08767ef0e9ab20800000000000000
+      internalID: 3146293198208895657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_35
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 1023
+        width: 410
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212b7e765886e0170800000000000000
+      internalID: 8146563698142982674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_36
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 1023
+        width: 410
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be31e7f26df73bba0800000000000000
+      internalID: -6074370914496146453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_37
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 1023
+        width: 411
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4c0d6c3c255590800000000000000
+      internalID: -7686188550998700618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_38
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 514
+        width: 421
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1330dcac6af5d60800000000000000
+      internalID: 7881201262874800552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_39
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 511
+        width: 420
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be78c1474ad64430800000000000000
+      internalID: 3766938137923190451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_40
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 514
+        width: 421
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b33ee67eedcc720800000000000000
+      internalID: 2867912148307360537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_41
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 511
+        width: 393
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235589cb4f76e8380800000000000000
+      internalID: -8967115507214297806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_42
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 511
+        width: 431
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a193845eb98a250800000000000000
+      internalID: 5956181916258998860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_43
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 516
+        width: 390
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeb79e8de27a1f00800000000000000
+      internalID: 1088308624588521126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_44
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 511
+        width: 410
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cc81ff9c45ef190800000000000000
+      internalID: -7926805067580519314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_45
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 511
+        width: 410
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8751549be66dcc0800000000000000
+      internalID: -3686637502949132108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_46
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 511
+        width: 411
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f3bc359527f7970800000000000000
+      internalID: 8754841928615018254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 10
+        width: 309
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bf237d284a732e0800000000000000
+      internalID: -2146065815555605627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_48
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4
+        width: 302
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0955e77041e312780800000000000000
+      internalID: -8709611948611840624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_49
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 299
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012e0550ded5286b0800000000000000
+      internalID: -5295566939256462832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_50
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 0
+        width: 393
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a07ea3dc47c800800000000000000
+      internalID: 632558744717273003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_51
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 0
+        width: 431
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8ebd891eb943ea0800000000000000
+      internalID: -5893914619086640908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_52
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 4
+        width: 390
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016f0062bb9a7d70800000000000000
+      internalID: 9041710392317796610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_53
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 0
+        width: 410
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afd11a0169d42560800000000000000
+      internalID: 7288189107796303779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_54
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 0
+        width: 410
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aa77114c3ecfe80800000000000000
+      internalID: -8143383594946549102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quetzalcoatl_55
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 0
+        width: 411
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d43bc2c3d4dacb0800000000000000
+      internalID: -4851136302764831441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Quetzalcoatl_0: 4290672144083775018
+      Quetzalcoatl_1: 2289716501052289697
+      Quetzalcoatl_10: -6748490510499315897
+      Quetzalcoatl_11: -605103118341393012
+      Quetzalcoatl_12: -42051601394308371
+      Quetzalcoatl_13: -683418035751548952
+      Quetzalcoatl_14: 7045263519694732235
+      Quetzalcoatl_15: 8456592460109023143
+      Quetzalcoatl_16: -1039875643691074906
+      Quetzalcoatl_17: 1918126013493128968
+      Quetzalcoatl_18: 456801172004059882
+      Quetzalcoatl_19: 6124726263933093212
+      Quetzalcoatl_2: 8596782524621859783
+      Quetzalcoatl_20: 3684820623884133275
+      Quetzalcoatl_21: -4619862210160288479
+      Quetzalcoatl_22: 1663832043179381840
+      Quetzalcoatl_23: -5845412083392425308
+      Quetzalcoatl_24: 5884535479461140393
+      Quetzalcoatl_25: 110912745533174959
+      Quetzalcoatl_26: 655181140549095842
+      Quetzalcoatl_27: -8370740551646475716
+      Quetzalcoatl_28: 989891428151257621
+      Quetzalcoatl_29: 4112807282337768507
+      Quetzalcoatl_3: 2766122700929597691
+      Quetzalcoatl_30: 1563816953371333409
+      Quetzalcoatl_31: 1112227527492622697
+      Quetzalcoatl_32: 3640469591010191004
+      Quetzalcoatl_33: 5562047163272109748
+      Quetzalcoatl_34: 3146293198208895657
+      Quetzalcoatl_35: 8146563698142982674
+      Quetzalcoatl_36: -6074370914496146453
+      Quetzalcoatl_37: -7686188550998700618
+      Quetzalcoatl_38: 7881201262874800552
+      Quetzalcoatl_39: 3766938137923190451
+      Quetzalcoatl_4: -7122074407263723881
+      Quetzalcoatl_40: 2867912148307360537
+      Quetzalcoatl_41: -8967115507214297806
+      Quetzalcoatl_42: 5956181916258998860
+      Quetzalcoatl_43: 1088308624588521126
+      Quetzalcoatl_44: -7926805067580519314
+      Quetzalcoatl_45: -3686637502949132108
+      Quetzalcoatl_46: 8754841928615018254
+      Quetzalcoatl_47: -2146065815555605627
+      Quetzalcoatl_48: -8709611948611840624
+      Quetzalcoatl_49: -5295566939256462832
+      Quetzalcoatl_5: -5924722998191824386
+      Quetzalcoatl_50: 632558744717273003
+      Quetzalcoatl_51: -5893914619086640908
+      Quetzalcoatl_52: 9041710392317796610
+      Quetzalcoatl_53: 7288189107796303779
+      Quetzalcoatl_54: -8143383594946549102
+      Quetzalcoatl_55: -4851136302764831441
+      Quetzalcoatl_6: -5926840134998291998
+      Quetzalcoatl_7: 1993054385568400155
+      Quetzalcoatl_8: 8938912710266610643
+      Quetzalcoatl_9: 2926261961141321493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2915 @@
+fileFormatVersion: 2
+guid: d2e2bdf12be95a546aa7826bac03bde4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5577517672087224569
+    second: Warg_0
+  - first:
+      213: -3259544763324171035
+    second: Warg_1
+  - first:
+      213: -8735714872188951578
+    second: Warg_2
+  - first:
+      213: 2043527364214419919
+    second: Warg_3
+  - first:
+      213: -209697515563770260
+    second: Warg_4
+  - first:
+      213: 7199855299900319773
+    second: Warg_5
+  - first:
+      213: 1274057068451846590
+    second: Warg_6
+  - first:
+      213: -572858499114255248
+    second: Warg_7
+  - first:
+      213: -6594404878187001778
+    second: Warg_8
+  - first:
+      213: 4601025553574483017
+    second: Warg_9
+  - first:
+      213: -8334248865995818382
+    second: Warg_10
+  - first:
+      213: 1313444293251051407
+    second: Warg_11
+  - first:
+      213: -1055746406758701019
+    second: Warg_12
+  - first:
+      213: 9123462683937748455
+    second: Warg_13
+  - first:
+      213: -6299805469416230005
+    second: Warg_14
+  - first:
+      213: -6950578449465520479
+    second: Warg_15
+  - first:
+      213: -2742788549770978333
+    second: Warg_16
+  - first:
+      213: -6486156176583397383
+    second: Warg_17
+  - first:
+      213: -7009811251082564986
+    second: Warg_18
+  - first:
+      213: -6786991053315992993
+    second: Warg_19
+  - first:
+      213: 7761585772583829352
+    second: Warg_20
+  - first:
+      213: -4667030000533992394
+    second: Warg_21
+  - first:
+      213: -8696250826716637248
+    second: Warg_22
+  - first:
+      213: 4601422392942345929
+    second: Warg_23
+  - first:
+      213: -7198790209648327129
+    second: Warg_24
+  - first:
+      213: 7716627895242574459
+    second: Warg_25
+  - first:
+      213: 498991906697269993
+    second: Warg_26
+  - first:
+      213: 2726822507517088196
+    second: Warg_27
+  - first:
+      213: 5259710635399453497
+    second: Warg_28
+  - first:
+      213: 8236942714395384143
+    second: Warg_29
+  - first:
+      213: -6285525580179814343
+    second: Warg_30
+  - first:
+      213: 8878560060971936776
+    second: Warg_31
+  - first:
+      213: -2333361708599218709
+    second: Warg_32
+  - first:
+      213: -4658164873193491281
+    second: Warg_33
+  - first:
+      213: 5090931091473847960
+    second: Warg_34
+  - first:
+      213: 1920478391866491850
+    second: Warg_35
+  - first:
+      213: -5431952555626137091
+    second: Warg_36
+  - first:
+      213: -2747044539288794184
+    second: Warg_37
+  - first:
+      213: 1924718148158957434
+    second: Warg_38
+  - first:
+      213: 9202162282675143017
+    second: Warg_39
+  - first:
+      213: -5988311436731213747
+    second: Warg_40
+  - first:
+      213: 7731968588885950631
+    second: Warg_41
+  - first:
+      213: -3149246923949160200
+    second: Warg_42
+  - first:
+      213: -6757984763047239187
+    second: Warg_43
+  - first:
+      213: -3815054693637714951
+    second: Warg_44
+  - first:
+      213: -6770494962441954892
+    second: Warg_45
+  - first:
+      213: -7707499885256491037
+    second: Warg_46
+  - first:
+      213: 8830496036093087001
+    second: Warg_47
+  - first:
+      213: -4878886077230544457
+    second: Warg_48
+  - first:
+      213: -6947598035280125278
+    second: Warg_49
+  - first:
+      213: 5548790971701742100
+    second: Warg_50
+  - first:
+      213: -3746168441241582631
+    second: Warg_51
+  - first:
+      213: 1969816335790469717
+    second: Warg_52
+  - first:
+      213: 376178679398034495
+    second: Warg_53
+  - first:
+      213: -998854896065315779
+    second: Warg_54
+  - first:
+      213: 1938907213475371644
+    second: Warg_55
+  - first:
+      213: -7536312597068700229
+    second: Warg_56
+  - first:
+      213: -8373296199362180364
+    second: Warg_57
+  - first:
+      213: -648349793340007894
+    second: Warg_58
+  - first:
+      213: -3839095924407782736
+    second: Warg_59
+  - first:
+      213: -4788286793352827379
+    second: Warg_60
+  - first:
+      213: -1768153650871836752
+    second: Warg_61
+  - first:
+      213: -9064990755669266848
+    second: Warg_62
+  - first:
+      213: 7146099045596652250
+    second: Warg_63
+  - first:
+      213: -2946937522091666886
+    second: Warg_64
+  - first:
+      213: 8793655603649770550
+    second: Warg_65
+  - first:
+      213: 4105428168219577482
+    second: Warg_66
+  - first:
+      213: -7416753014722495919
+    second: Warg_67
+  - first:
+      213: 1245319626636065687
+    second: Warg_68
+  - first:
+      213: 2138950147388511468
+    second: Warg_69
+  - first:
+      213: -6309825052080049892
+    second: Warg_70
+  - first:
+      213: -5571227385664311936
+    second: Warg_71
+  - first:
+      213: -8852245804150488151
+    second: Warg_72
+  - first:
+      213: 7342702111725900059
+    second: Warg_73
+  - first:
+      213: -1865466347883285093
+    second: Warg_74
+  - first:
+      213: 1536022111987432122
+    second: Warg_75
+  - first:
+      213: 5282259511837779291
+    second: Warg_76
+  - first:
+      213: 7699604017196798303
+    second: Warg_77
+  - first:
+      213: -601695698944601895
+    second: Warg_78
+  - first:
+      213: -253643910453831396
+    second: Warg_79
+  - first:
+      213: 980221242803322075
+    second: Warg_80
+  - first:
+      213: -6085201798605424656
+    second: Warg_81
+  - first:
+      213: -7489727833812447718
+    second: Warg_82
+  - first:
+      213: 5505360674811591214
+    second: Warg_83
+  - first:
+      213: -5621806507657507171
+    second: Warg_84
+  - first:
+      213: -8055911315981778043
+    second: Warg_85
+  - first:
+      213: 4240926578999708149
+    second: Warg_86
+  - first:
+      213: -2062309672226488647
+    second: Warg_87
+  - first:
+      213: 3643369443876141085
+    second: Warg_88
+  - first:
+      213: -8306448440092255928
+    second: Warg_89
+  - first:
+      213: 4584011241286410556
+    second: Warg_90
+  - first:
+      213: -5316918022142233479
+    second: Warg_91
+  - first:
+      213: -8004373570869491353
+    second: Warg_92
+  - first:
+      213: 5993580368431605062
+    second: Warg_93
+  - first:
+      213: 7217343307723372688
+    second: Warg_94
+  - first:
+      213: -6083149465757902270
+    second: Warg_95
+  - first:
+      213: 913500892435666391
+    second: Warg_96
+  - first:
+      213: 1700703678674554945
+    second: Warg_97
+  - first:
+      213: 4376566088262702520
+    second: Warg_98
+  - first:
+      213: 3141013506063637132
+    second: Warg_99
+  - first:
+      213: 9163488404297861170
+    second: Warg_100
+  - first:
+      213: -6564928717518141183
+    second: Warg_101
+  - first:
+      213: -3805728966603080891
+    second: Warg_102
+  - first:
+      213: -1101654713419882909
+    second: Warg_103
+  - first:
+      213: -1468315129027465394
+    second: Warg_104
+  - first:
+      213: -3250872743273387670
+    second: Warg_105
+  - first:
+      213: -6165490567024657416
+    second: Warg_106
+  - first:
+      213: 7590578075002472293
+    second: Warg_107
+  - first:
+      213: 5595577210182691831
+    second: Warg_108
+  - first:
+      213: -174244500076965002
+    second: Warg_109
+  - first:
+      213: -5008540475910701745
+    second: Warg_110
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warg_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2581
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ff6ca6a3da892b0800000000000000
+      internalID: -5577517672087224569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2581
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf39cbe45c3c2d0800000000000000
+      internalID: -3259544763324171035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_2
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2581
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a4188b9184c680800000000000000
+      internalID: -8735714872188951578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2584
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc17ac88f411c5c10800000000000000
+      internalID: 2043527364214419919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_4
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2559
+        width: 127
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e1a8a7831071df0800000000000000
+      internalID: -209697515563770260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_5
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2581
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18a5c0bf360be360800000000000000
+      internalID: 7199855299900319773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_6
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2581
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d5ac472c5ea110800000000000000
+      internalID: 1274057068451846590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_7
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 2581
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c3bbdea3ccc08f0800000000000000
+      internalID: -572858499114255248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_8
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 2581
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e488f82b3b7fb74a0800000000000000
+      internalID: -6594404878187001778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_9
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 2581
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9445d4b1d502adf30800000000000000
+      internalID: 4601025553574483017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27afd9820dcc65c80800000000000000
+      internalID: -8334248865995818382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_11
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f2e7330aa4a3210800000000000000
+      internalID: 1313444293251051407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_12
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528a0449c3c3951f0800000000000000
+      internalID: -1055746406758701019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_13
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e534ad09fc0d9e70800000000000000
+      internalID: 9123462683937748455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_14
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f169ad489298a0800000000000000
+      internalID: -6299805469416230005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_15
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae4f18d9b59a8f90800000000000000
+      internalID: -6950578449465520479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_16
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb54ec8858afe9d0800000000000000
+      internalID: -2742788549770978333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_17
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 2559
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff6a01925b8cf5a0800000000000000
+      internalID: -6486156176583397383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2069
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aefa48ec528be90800000000000000
+      internalID: -7009811251082564986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_19
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2333
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5298559893cfc1a0800000000000000
+      internalID: -6786991053315992993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_20
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2069
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fb5943321b6bb60800000000000000
+      internalID: 7761585772583829352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_21
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2333
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c841601f06b3fb0800000000000000
+      internalID: -4667030000533992394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_22
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2069
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79bd3a2f5b05780800000000000000
+      internalID: -8696250826716637248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_23
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2333
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce3bd879498bdf30800000000000000
+      internalID: 4601422392942345929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_24
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2072
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7260a55f172c81c90800000000000000
+      internalID: -7198790209648327129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_25
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 2069
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7acdcfaf28f61b60800000000000000
+      internalID: 7716627895242574459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_26
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2069
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e25c70de76cce600800000000000000
+      internalID: 498991906697269993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_27
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 2069
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1981e8f9e97d520800000000000000
+      internalID: 2726822507517088196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_28
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 2069
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b145ca4fe3ef840800000000000000
+      internalID: 5259710635399453497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_29
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 2069
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4957cee1cf7f4270800000000000000
+      internalID: 8236942714395384143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93840c679c355c8a0800000000000000
+      internalID: -6285525580179814343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_31
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce337b55bf63b70800000000000000
+      internalID: 8878560060971936776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_32
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bede17283eb3e9fd0800000000000000
+      internalID: -2333361708599218709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_33
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2047
+        width: 127
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa479145abfda5fb0800000000000000
+      internalID: -4658164873193491281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_34
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8965a43dade96a640800000000000000
+      internalID: 5090931091473847960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_35
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3040a1ce8e6aa10800000000000000
+      internalID: 1920478391866491850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_36
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9f02d2ee3dd94b0800000000000000
+      internalID: -5431952555626137091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_37
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbc385cb8980e9d0800000000000000
+      internalID: -2747044539288794184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_38
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2047
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7723c945f8f5ba10800000000000000
+      internalID: 1924718148158957434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_39
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1557
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961895847d5a4bf70800000000000000
+      internalID: 9202162282675143017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_40
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1821
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d481a39c97e35eca0800000000000000
+      internalID: -5988311436731213747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_41
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1557
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0860347787d4b60800000000000000
+      internalID: 7731968588885950631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_42
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1821
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8c40cab90ab44d0800000000000000
+      internalID: -3149246923949160200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1557
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de12111d9a0d632a0800000000000000
+      internalID: -6757984763047239187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_44
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1821
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb890b18f33e0bc0800000000000000
+      internalID: -3815054693637714951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_45
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1560
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9531a04be5a02a0800000000000000
+      internalID: -6770494962441954892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_46
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1557
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef3ce0c0b5790590800000000000000
+      internalID: -7707499885256491037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_47
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1557
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dc2dddb593c8a70800000000000000
+      internalID: 8830496036093087001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_48
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1557
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9031356f6ba4cb0800000000000000
+      internalID: -4878886077230544457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_49
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1557
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22de8956c259f90800000000000000
+      internalID: -6947598035280125278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_50
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1557
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a4d217df3410d40800000000000000
+      internalID: 5548790971701742100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_51
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3440796afe20cc0800000000000000
+      internalID: -3746168441241582631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_52
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5527d875581365b10800000000000000
+      internalID: 1969816335790469717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_53
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c689d0484783500800000000000000
+      internalID: 376178679398034495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_54
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1535
+        width: 127
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cfdd1a3ca5322f0800000000000000
+      internalID: -998854896065315779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_55
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a54af76d168ea10800000000000000
+      internalID: 1938907213475371644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_56
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb52b6f3f93a96790800000000000000
+      internalID: -7536312597068700229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_57
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa83e568731ccb80800000000000000
+      internalID: -8373296199362180364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_58
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a55cd4c499007f0800000000000000
+      internalID: -648349793340007894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_59
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 1535
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2360fd89ac8bac0800000000000000
+      internalID: -3839095924407782736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1045
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ea287e7869c8db0800000000000000
+      internalID: -4788286793352827379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1045
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf59736f914677e0800000000000000
+      internalID: -1768153650871836752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_62
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1045
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e2224afeea23280800000000000000
+      internalID: -9064990755669266848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_63
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1044
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2eb86683b0c2360800000000000000
+      internalID: 7146099045596652250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_64
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1044
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32d47cefef5a17d0800000000000000
+      internalID: -2946937522091666886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_65
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1044
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634faa44e27590a70800000000000000
+      internalID: 8793655603649770550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_66
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1045
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4c91ea2969f830800000000000000
+      internalID: 4105428168219577482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_67
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1045
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a78a2cd66621990800000000000000
+      internalID: -7416753014722495919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_68
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1045
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bf6793a93484110800000000000000
+      internalID: 1245319626636065687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce49c5f83d31fad10800000000000000
+      internalID: 2138950147388511468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_70
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1178e7cb8ffe68a0800000000000000
+      internalID: -6309825052080049892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_71
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dec8ad5360fa2b0800000000000000
+      internalID: -5571227385664311936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_72
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a30b23a751862580800000000000000
+      internalID: -8852245804150488151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_73
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11dee4daa486e560800000000000000
+      internalID: 7342702111725900059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_74
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95b8f18d388c16e0800000000000000
+      internalID: -1865466347883285093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_75
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaf72009fb015510800000000000000
+      internalID: 1536022111987432122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_76
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55e4861a0b5e4940800000000000000
+      internalID: 5282259511837779291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_77
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 1023
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f519f243f0d7ada60800000000000000
+      internalID: 7699604017196798303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 531
+        width: 404
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0d68123f856a7f0800000000000000
+      internalID: -601695698944601895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_79
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 531
+        width: 404
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1955f11530ea7cf0800000000000000
+      internalID: -253643910453831396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_80
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 531
+        width: 404
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc7592e6027a9d00800000000000000
+      internalID: 980221242803322075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_81
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 532
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f73e8774350d8ba0800000000000000
+      internalID: -6085201798605424656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_82
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 532
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ec049a7342f0890800000000000000
+      internalID: -7489727833812447718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_83
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 532
+        width: 424
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2abc867d58f66c40800000000000000
+      internalID: 5505360674811591214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_84
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 533
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e481354c45bf1b0800000000000000
+      internalID: -5621806507657507171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_85
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 533
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834bd41757a33090800000000000000
+      internalID: -8055911315981778043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_86
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 533
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94ac3114ccada30800000000000000
+      internalID: 4240926578999708149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_87
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be761a97443163e0800000000000000
+      internalID: -2062309672226488647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_88
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18ffbfa439df8230800000000000000
+      internalID: 3643369443876141085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_89
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8491437372199bc80800000000000000
+      internalID: -8306448440092255928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_90
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c312643dfedad9f30800000000000000
+      internalID: 4584011241286410556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_91
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f656aa338636b0800000000000000
+      internalID: -5316918022142233479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_92
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7698cc275a0cae090800000000000000
+      internalID: -8004373570869491353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_93
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645ee19f6997d2350800000000000000
+      internalID: 5993580368431605062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_94
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f4eecf77292460800000000000000
+      internalID: 7217343307723372688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_95
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 511
+        width: 127
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a94e17acf449ba0800000000000000
+      internalID: -6083149465757902270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 21
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d551a3c8386dac00800000000000000
+      internalID: 913500892435666391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_97
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 21
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140d89b2cfc1a9710800000000000000
+      internalID: 1700703678674554945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_98
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 21
+        width: 375
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55be25bafacbc30800000000000000
+      internalID: 4376566088262702520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_99
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 24
+        width: 375
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a90a7542f179b20800000000000000
+      internalID: 3141013506063637132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_100
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 127
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c59947204b2f70800000000000000
+      internalID: 9163488404297861170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_101
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 21
+        width: 354
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10902982d10b4e4a0800000000000000
+      internalID: -6564928717518141183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_102
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 21
+        width: 352
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b75322ba55f2bc0800000000000000
+      internalID: -3805728966603080891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_103
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 0
+        width: 370
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e197dffd226b0f0800000000000000
+      internalID: -1101654713419882909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_104
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 0
+        width: 372
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f6cfb6b2f7f9be0800000000000000
+      internalID: -1468315129027465394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_105
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 0
+        width: 374
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69a03fb67492e2d0800000000000000
+      internalID: -3250872743273387670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_106
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb3976def6cf6aa0800000000000000
+      internalID: -6165490567024657416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5670468ea86275960800000000000000
+      internalID: 7590578075002472293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_108
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe53673db77ad40800000000000000
+      internalID: 5595577210182691831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_109
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d8d4ec85f49df0800000000000000
+      internalID: -174244500076965002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warg_110
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 0
+        width: 127
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d3d2a39f61e7ab0800000000000000
+      internalID: -5008540475910701745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Warg_0: -5577517672087224569
+      Warg_1: -3259544763324171035
+      Warg_10: -8334248865995818382
+      Warg_100: 9163488404297861170
+      Warg_101: -6564928717518141183
+      Warg_102: -3805728966603080891
+      Warg_103: -1101654713419882909
+      Warg_104: -1468315129027465394
+      Warg_105: -3250872743273387670
+      Warg_106: -6165490567024657416
+      Warg_107: 7590578075002472293
+      Warg_108: 5595577210182691831
+      Warg_109: -174244500076965002
+      Warg_11: 1313444293251051407
+      Warg_110: -5008540475910701745
+      Warg_12: -1055746406758701019
+      Warg_13: 9123462683937748455
+      Warg_14: -6299805469416230005
+      Warg_15: -6950578449465520479
+      Warg_16: -2742788549770978333
+      Warg_17: -6486156176583397383
+      Warg_18: -7009811251082564986
+      Warg_19: -6786991053315992993
+      Warg_2: -8735714872188951578
+      Warg_20: 7761585772583829352
+      Warg_21: -4667030000533992394
+      Warg_22: -8696250826716637248
+      Warg_23: 4601422392942345929
+      Warg_24: -7198790209648327129
+      Warg_25: 7716627895242574459
+      Warg_26: 498991906697269993
+      Warg_27: 2726822507517088196
+      Warg_28: 5259710635399453497
+      Warg_29: 8236942714395384143
+      Warg_3: 2043527364214419919
+      Warg_30: -6285525580179814343
+      Warg_31: 8878560060971936776
+      Warg_32: -2333361708599218709
+      Warg_33: -4658164873193491281
+      Warg_34: 5090931091473847960
+      Warg_35: 1920478391866491850
+      Warg_36: -5431952555626137091
+      Warg_37: -2747044539288794184
+      Warg_38: 1924718148158957434
+      Warg_39: 9202162282675143017
+      Warg_4: -209697515563770260
+      Warg_40: -5988311436731213747
+      Warg_41: 7731968588885950631
+      Warg_42: -3149246923949160200
+      Warg_43: -6757984763047239187
+      Warg_44: -3815054693637714951
+      Warg_45: -6770494962441954892
+      Warg_46: -7707499885256491037
+      Warg_47: 8830496036093087001
+      Warg_48: -4878886077230544457
+      Warg_49: -6947598035280125278
+      Warg_5: 7199855299900319773
+      Warg_50: 5548790971701742100
+      Warg_51: -3746168441241582631
+      Warg_52: 1969816335790469717
+      Warg_53: 376178679398034495
+      Warg_54: -998854896065315779
+      Warg_55: 1938907213475371644
+      Warg_56: -7536312597068700229
+      Warg_57: -8373296199362180364
+      Warg_58: -648349793340007894
+      Warg_59: -3839095924407782736
+      Warg_6: 1274057068451846590
+      Warg_60: -4788286793352827379
+      Warg_61: -1768153650871836752
+      Warg_62: -9064990755669266848
+      Warg_63: 7146099045596652250
+      Warg_64: -2946937522091666886
+      Warg_65: 8793655603649770550
+      Warg_66: 4105428168219577482
+      Warg_67: -7416753014722495919
+      Warg_68: 1245319626636065687
+      Warg_69: 2138950147388511468
+      Warg_7: -572858499114255248
+      Warg_70: -6309825052080049892
+      Warg_71: -5571227385664311936
+      Warg_72: -8852245804150488151
+      Warg_73: 7342702111725900059
+      Warg_74: -1865466347883285093
+      Warg_75: 1536022111987432122
+      Warg_76: 5282259511837779291
+      Warg_77: 7699604017196798303
+      Warg_78: -601695698944601895
+      Warg_79: -253643910453831396
+      Warg_8: -6594404878187001778
+      Warg_80: 980221242803322075
+      Warg_81: -6085201798605424656
+      Warg_82: -7489727833812447718
+      Warg_83: 5505360674811591214
+      Warg_84: -5621806507657507171
+      Warg_85: -8055911315981778043
+      Warg_86: 4240926578999708149
+      Warg_87: -2062309672226488647
+      Warg_88: 3643369443876141085
+      Warg_89: -8306448440092255928
+      Warg_9: 4601025553574483017
+      Warg_90: 4584011241286410556
+      Warg_91: -5316918022142233479
+      Warg_92: -8004373570869491353
+      Warg_93: 5993580368431605062
+      Warg_94: 7217343307723372688
+      Warg_95: -6083149465757902270
+      Warg_96: 913500892435666391
+      Warg_97: 1700703678674554945
+      Warg_98: 4376566088262702520
+      Warg_99: 3141013506063637132
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

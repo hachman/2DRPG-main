@@ -1,0 +1,1490 @@
+fileFormatVersion: 2
+guid: 74c27ae62573f1544aec7ab5a990ec68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2583673581410066961
+    second: Paladius_0
+  - first:
+      213: -5465968682886024838
+    second: Paladius_1
+  - first:
+      213: -8306598355251513527
+    second: Paladius_2
+  - first:
+      213: -1728874660973197962
+    second: Paladius_3
+  - first:
+      213: 3996526619270879297
+    second: Paladius_4
+  - first:
+      213: -7689185871010219522
+    second: Paladius_5
+  - first:
+      213: 5679791551925945898
+    second: Paladius_6
+  - first:
+      213: 6079166337378448934
+    second: Paladius_7
+  - first:
+      213: -6745930200708787284
+    second: Paladius_8
+  - first:
+      213: 2835165267699501356
+    second: Paladius_9
+  - first:
+      213: 3466591525153658162
+    second: Paladius_10
+  - first:
+      213: -8506475344652942755
+    second: Paladius_11
+  - first:
+      213: 2650814867570165735
+    second: Paladius_12
+  - first:
+      213: -6602837831716570342
+    second: Paladius_13
+  - first:
+      213: -5110409355378928549
+    second: Paladius_14
+  - first:
+      213: -850601667035387401
+    second: Paladius_15
+  - first:
+      213: 7637190963668635082
+    second: Paladius_16
+  - first:
+      213: -6595008113444947386
+    second: Paladius_17
+  - first:
+      213: -5623291411122716816
+    second: Paladius_18
+  - first:
+      213: 3880562386834634027
+    second: Paladius_19
+  - first:
+      213: 649377991264071989
+    second: Paladius_20
+  - first:
+      213: 6682451270981923248
+    second: Paladius_21
+  - first:
+      213: -6212750807358575422
+    second: Paladius_22
+  - first:
+      213: -5398390330626906605
+    second: Paladius_23
+  - first:
+      213: 1178797835376064328
+    second: Paladius_24
+  - first:
+      213: -5884934475519301962
+    second: Paladius_25
+  - first:
+      213: -7256946991062974016
+    second: Paladius_26
+  - first:
+      213: 7726650857412975858
+    second: Paladius_27
+  - first:
+      213: -3995385998935263184
+    second: Paladius_28
+  - first:
+      213: 1646142031018513364
+    second: Paladius_29
+  - first:
+      213: 4941834771081285676
+    second: Paladius_30
+  - first:
+      213: -703045613519704017
+    second: Paladius_31
+  - first:
+      213: 6251668506000305142
+    second: Paladius_32
+  - first:
+      213: -8000639365207904989
+    second: Paladius_33
+  - first:
+      213: -2402035406788669390
+    second: Paladius_34
+  - first:
+      213: 5146728235522305903
+    second: Paladius_35
+  - first:
+      213: -6000793442341422582
+    second: Paladius_36
+  - first:
+      213: 4709292392775744502
+    second: Paladius_37
+  - first:
+      213: -4874469085841549468
+    second: Paladius_38
+  - first:
+      213: -2200311882845699224
+    second: Paladius_39
+  - first:
+      213: -4958571740252060656
+    second: Paladius_40
+  - first:
+      213: 2443972745377353163
+    second: Paladius_41
+  - first:
+      213: 9142088970859675446
+    second: Paladius_42
+  - first:
+      213: 7098332793617769175
+    second: Paladius_43
+  - first:
+      213: -8372292567777201489
+    second: Paladius_44
+  - first:
+      213: -4834033143432257907
+    second: Paladius_45
+  - first:
+      213: 7810183616292734335
+    second: Paladius_46
+  - first:
+      213: 891497261773417805
+    second: Paladius_47
+  - first:
+      213: 1564598111592283516
+    second: Paladius_48
+  - first:
+      213: 429872441105089351
+    second: Paladius_49
+  - first:
+      213: 3228805719712187374
+    second: Paladius_50
+  - first:
+      213: -1902790775647078620
+    second: Paladius_51
+  - first:
+      213: -8454833727133942878
+    second: Paladius_52
+  - first:
+      213: 7457695554624808201
+    second: Paladius_53
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladius_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2559
+        width: 494
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feddd7c0192f42cd0800000000000000
+      internalID: -2583673581410066961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2559
+        width: 495
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a713b2f517af424b0800000000000000
+      internalID: -5465968682886024838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_2
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2559
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947b36f5ec809bc80800000000000000
+      internalID: -8306598355251513527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_3
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 2559
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675c483e7adc108e0800000000000000
+      internalID: -1728874660973197962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_4
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2572
+        width: 468
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148980529c3867730800000000000000
+      internalID: 3996526619270879297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_5
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2572
+        width: 468
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9bb7a70368a4590800000000000000
+      internalID: -7689185871010219522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_6
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2559
+        width: 468
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a268fcad25ca2de40800000000000000
+      internalID: 5679791551925945898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_7
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2559
+        width: 468
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62674f533998d5450800000000000000
+      internalID: 6079166337378448934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_8
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 2559
+        width: 468
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca35c235934a162a0800000000000000
+      internalID: -6745930200708787284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2047
+        width: 494
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2901c42ac7885720800000000000000
+      internalID: 2835165267699501356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_10
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2047
+        width: 495
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235d92610aecb1030800000000000000
+      internalID: 3466591525153658162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_11
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2047
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52c7574ebde2f980800000000000000
+      internalID: -8506475344652942755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_12
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 2047
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e708d2d31699c420800000000000000
+      internalID: 2650814867570165735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_13
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 2047
+        width: 468
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bf503b9f10e54a0800000000000000
+      internalID: -6602837831716570342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_14
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 2047
+        width: 468
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b545ec374cd2419b0800000000000000
+      internalID: -5110409355378928549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_15
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2047
+        width: 494
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9200f5a4e0234f0800000000000000
+      internalID: -850601667035387401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_16
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 2047
+        width: 495
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdca47c7b0ccf960800000000000000
+      internalID: 7637190963668635082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_17
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 2047
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a7b4b0013d974a0800000000000000
+      internalID: -6595008113444947386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1535
+        width: 494
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f768b414e06f1b0800000000000000
+      internalID: -5623291411122716816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_19
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1535
+        width: 495
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2535044ee68ad530800000000000000
+      internalID: 3880562386834634027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_20
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1535
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531704ea7dd030900800000000000000
+      internalID: 649377991264071989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_21
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1535
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b13cbb9606dcbc50800000000000000
+      internalID: 6682451270981923248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_22
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1535
+        width: 468
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccee59ae00e7c9a0800000000000000
+      internalID: -6212750807358575422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_23
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1535
+        width: 468
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3166410a8901515b0800000000000000
+      internalID: -5398390330626906605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_24
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1535
+        width: 473
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847f69fb26eeb5010800000000000000
+      internalID: 1178797835376064328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_25
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 1535
+        width: 473
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6e8343643845ea0800000000000000
+      internalID: -5884934475519301962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_26
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 1535
+        width: 474
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c10adb19252a4b90800000000000000
+      internalID: -7256946991062974016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1023
+        width: 494
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc519b64049a3b60800000000000000
+      internalID: 7726650857412975858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1023
+        width: 495
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038f4e83a998d88c0800000000000000
+      internalID: -3995385998935263184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1023
+        width: 497
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3d2b0a47548d610800000000000000
+      internalID: 1646142031018513364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_30
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1023
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2059f49a8ce49440800000000000000
+      internalID: 4941834771081285676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_31
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1023
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20f2494db74e36f0800000000000000
+      internalID: -703045613519704017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_32
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1023
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb25a9226362c650800000000000000
+      internalID: 6251668506000305142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_33
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1023
+        width: 473
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32da6c4f2e408f090800000000000000
+      internalID: -8000639365207904989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_34
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 1023
+        width: 473
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230537826814aaed0800000000000000
+      internalID: -2402035406788669390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_35
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 1023
+        width: 474
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fa7c9cf0adc6740800000000000000
+      internalID: 5146728235522305903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 510
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0afeb26826e8bca0800000000000000
+      internalID: -6000793442341422582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_37
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 511
+        width: 510
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbf8d6fa74ca5140800000000000000
+      internalID: 4709292392775744502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_38
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 511
+        width: 510
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4679ac541386a5cb0800000000000000
+      internalID: -4874469085841549468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_39
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 511
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86349e3100ce671e0800000000000000
+      internalID: -2200311882845699224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_40
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 511
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0144cfc164d9f2bb0800000000000000
+      internalID: -4958571740252060656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_41
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 511
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd04f0634cbae120800000000000000
+      internalID: 2443972745377353163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_42
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 511
+        width: 473
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7b1d6b793fde70800000000000000
+      internalID: 9142088970859675446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_43
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 511
+        width: 473
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2e7153118528260800000000000000
+      internalID: 7098332793617769175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_44
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 511
+        width: 474
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23ff59444afcb80800000000000000
+      internalID: -8372292567777201489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_45
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 468
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5145c7701aecb0800000000000000
+      internalID: -4834033143432257907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_46
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 468
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7544bf6e98536c60800000000000000
+      internalID: 7810183616292734335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_47
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 468
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dec36490c3f5c00800000000000000
+      internalID: 891497261773417805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_48
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 31
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d74b161b196b510800000000000000
+      internalID: 1564598111592283516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_49
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 31
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7438cc625b637f500800000000000000
+      internalID: 429872441105089351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_50
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 31
+        width: 493
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c134f1b50fcc20800000000000000
+      internalID: 3228805719712187374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_51
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 0
+        width: 473
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4277aa7fedde795e0800000000000000
+      internalID: -1902790775647078620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_52
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 0
+        width: 473
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab703355856aaa80800000000000000
+      internalID: -8454833727133942878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladius_53
+      rect:
+        serializedVersion: 2
+        x: 4115
+        y: 0
+        width: 474
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905eb68289e0f7760800000000000000
+      internalID: 7457695554624808201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Paladius_0: -2583673581410066961
+      Paladius_1: -5465968682886024838
+      Paladius_10: 3466591525153658162
+      Paladius_11: -8506475344652942755
+      Paladius_12: 2650814867570165735
+      Paladius_13: -6602837831716570342
+      Paladius_14: -5110409355378928549
+      Paladius_15: -850601667035387401
+      Paladius_16: 7637190963668635082
+      Paladius_17: -6595008113444947386
+      Paladius_18: -5623291411122716816
+      Paladius_19: 3880562386834634027
+      Paladius_2: -8306598355251513527
+      Paladius_20: 649377991264071989
+      Paladius_21: 6682451270981923248
+      Paladius_22: -6212750807358575422
+      Paladius_23: -5398390330626906605
+      Paladius_24: 1178797835376064328
+      Paladius_25: -5884934475519301962
+      Paladius_26: -7256946991062974016
+      Paladius_27: 7726650857412975858
+      Paladius_28: -3995385998935263184
+      Paladius_29: 1646142031018513364
+      Paladius_3: -1728874660973197962
+      Paladius_30: 4941834771081285676
+      Paladius_31: -703045613519704017
+      Paladius_32: 6251668506000305142
+      Paladius_33: -8000639365207904989
+      Paladius_34: -2402035406788669390
+      Paladius_35: 5146728235522305903
+      Paladius_36: -6000793442341422582
+      Paladius_37: 4709292392775744502
+      Paladius_38: -4874469085841549468
+      Paladius_39: -2200311882845699224
+      Paladius_4: 3996526619270879297
+      Paladius_40: -4958571740252060656
+      Paladius_41: 2443972745377353163
+      Paladius_42: 9142088970859675446
+      Paladius_43: 7098332793617769175
+      Paladius_44: -8372292567777201489
+      Paladius_45: -4834033143432257907
+      Paladius_46: 7810183616292734335
+      Paladius_47: 891497261773417805
+      Paladius_48: 1564598111592283516
+      Paladius_49: 429872441105089351
+      Paladius_5: -7689185871010219522
+      Paladius_50: 3228805719712187374
+      Paladius_51: -1902790775647078620
+      Paladius_52: -8454833727133942878
+      Paladius_53: 7457695554624808201
+      Paladius_6: 5679791551925945898
+      Paladius_7: 6079166337378448934
+      Paladius_8: -6745930200708787284
+      Paladius_9: 2835165267699501356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
