@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.SceneManagement;
 
 public class DetectTrigger : MonoBehaviour
 {
@@ -11,6 +12,7 @@ public class DetectTrigger : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         Debug.Log("Detected ");
+        PlayerPrefs.SetString("previousScene", SceneManager.GetActiveScene().name);
         if (!_canDetect) return;
         OnDetected?.Invoke();
     }

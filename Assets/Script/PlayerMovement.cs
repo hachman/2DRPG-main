@@ -15,6 +15,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] GameObject interactOutline;
     private Collider2D solidObjects;
     private Collider2D interactableCollider;
+
+    LastKnownPosition lastKnownPosition = new LastKnownPosition();
     private void Awake()
     {
         animator = GetComponent<Animator>();
@@ -25,10 +27,14 @@ public class PlayerMovement : MonoBehaviour
     }
     private void OnLoadGameSetup()
     {
+
+        //PlayerPosition();
         Debug.Log("ILoadGame: " + FlyHigh.IsLoadGame);
         if (!FlyHigh.IsLoadGame) return;
         transform.position = FlyHigh.playerLoadPos;
         FlyHigh.IsLoadGame = false;
+        
+
     }
     public void Update()
     {
@@ -141,5 +147,15 @@ public class PlayerMovement : MonoBehaviour
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, interactableRange);
+    }
+
+
+    //CheckScene
+    void PlayerPosition()
+    {
+        checkScene cs =new checkScene();
+
+        transform.position = cs.checkLastScene();
+
     }
 }

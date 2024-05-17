@@ -17,6 +17,7 @@ public class LoadGame : MonoBehaviour
         QuestSystemManager.instance?.SetQuestSystem(jSON);
 
         FlyHigh.playerLoadPos = new Vector2(jSON.xSavedPosition, jSON.ySavedPosition);
+
         FlyHigh.IsLoadGame = true;
         //load scene and reposition player
         ChangeScene.instance?.LoadScene(jSON.savedScene, () =>
