@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: enem4
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: 387417946, guid: bc24b53c0f08fbd49a88c969c1becce9, type: 3}
+    choices:
+    - {fileID: -888204734, guid: 4b874221dc3ee3943a8ab342b967febb, type: 3}
+    - {fileID: 1060871722, guid: 305e5fc3dfad8184ebe8539156032c88, type: 3}
+    - {fileID: 1844204436, guid: c400d238d60816f4ba322f8c2b0e7c05, type: 3}
+    - {fileID: 1314202384, guid: 9dbed20d5fb67774e9fce0ccde173930, type: 3}
+    correctChoice: 3
+    solution: {fileID: 1495973558, guid: b64ec859d4684ee46a3b45f494c15143, type: 3}
+  - question: {fileID: 830306013, guid: 2894206187ac164448f0a95a28ae31e2, type: 3}
+    choices:
+    - {fileID: 2069911328, guid: e20c81886dfb88447a7edaefb70be8f2, type: 3}
+    - {fileID: 1930566649, guid: 4448886ba81d6c245ac0eb381b5ea74b, type: 3}
+    - {fileID: -210090767, guid: e913f4f019d25c04a8b93b38fde9569b, type: 3}
+    - {fileID: 553930066, guid: 77cc8d1aa140e3141985b80772974147, type: 3}
+    correctChoice: 2
+    solution: {fileID: -1317529831, guid: 353663b1fbd1af945991588a159e06b9, type: 3}
+  - question: {fileID: -159774278, guid: 031b7e8ded6b0fb43941f62eab06a6d1, type: 3}
+    choices:
+    - {fileID: 723141676, guid: 170a588942173ff49b55968c969b1922, type: 3}
+    - {fileID: 1478847750, guid: 9fb8ec4aac15c194cbbf142045cf3f8b, type: 3}
+    - {fileID: 2035040022, guid: 135fba82ce6abdb4993532c280316f85, type: 3}
+    - {fileID: -119334112, guid: 1f41bbf2f2c54c045816d28fc1a7466a, type: 3}
+    correctChoice: 1
+    solution: {fileID: -1152450134, guid: 782d4b5bdefd3834f998c90d055d6c95, type: 3}
+  timer: 30
+  IsEasy: 1
+  IsAverage: 0
+  IsBoss: 0
+  IsBossLives: 8

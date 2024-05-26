@@ -19,6 +19,7 @@ public class DialogManager : MonoBehaviour
     private Dialog currentDialog;
     private int currentLine = 0;
     private bool isTyping;
+    public Button optionButton;
 
     private void Awake()
     {
@@ -27,6 +28,8 @@ public class DialogManager : MonoBehaviour
     private void Start()
     {
         dialogBox.SetActive(false);
+        optionButton.onClick.AddListener(OnOptionButtonClick); 
+        optionButton.gameObject.SetActive(false);
     }
 
     public static DialogManager Instance { get; private set; }
@@ -42,6 +45,15 @@ public class DialogManager : MonoBehaviour
         dialogBox.SetActive(true);
         OnShowDialog?.Invoke();
         StartCoroutine(TypeDialog(dialog.Lines[0]));
+        if (!string.IsNullOrEmpty(dialog.OptionButtonText) && dialog.OptionButtonAction != null)
+        { 
+            optionButton.GetComponentInChildren<TextMeshProUGUI>().text = dialog.OptionButtonText;
+            optionButton.gameObject.SetActive(true);
+        }
+        else
+        {
+            optionButton.gameObject.SetActive(false);
+        }
     }
 
     public void NextLine()
@@ -73,5 +85,13 @@ public class DialogManager : MonoBehaviour
             yield return new WaitForSeconds(1f / lettersPerSecond);
         }
         isTyping = false;
+    }
+    private void OnOptionButtonClick()
+    {
+        if (currentDialog != null && currentDialog.OptionButtonAction != null)
+        {
+            currentDialog.OptionButtonAction.Invoke();
+        }
+        NextLine(); // Move to the next line of dialog
     }
 }

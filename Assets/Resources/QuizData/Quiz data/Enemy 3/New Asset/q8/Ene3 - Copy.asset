@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: Ene3 - Copy
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: 1461683520, guid: 450af0b33460d6742a05050b58b53b59, type: 3}
+    choices:
+    - {fileID: -419320659, guid: 4a780facdb962dd4f8e1e164e741794d, type: 3}
+    - {fileID: -672912561, guid: 0baeec21423162840a7cf03bf42a060e, type: 3}
+    - {fileID: 1187463582, guid: 2cf2bfa231836424e92183a744e4b4ab, type: 3}
+    - {fileID: -1389190069, guid: ffb1c8c5b8f0ca64dbb8fe1b0ee0f47c, type: 3}
+    correctChoice: 2
+    solution: {fileID: -1462414234, guid: e94c0a6ad0559d24b955be9f46f54286, type: 3}
+  - question: {fileID: 495740366, guid: dc2a91cff92e0a44f912c14b3fc4c8d8, type: 3}
+    choices:
+    - {fileID: -1281444080, guid: 879e2790ffe1e7e4988d15ce930fb0b7, type: 3}
+    - {fileID: 166741535, guid: 56a0b083320c92c4d860492d5c847578, type: 3}
+    - {fileID: -1191607915, guid: 732031f5293a80d498bf12f55097f23f, type: 3}
+    - {fileID: 1483289703, guid: 849fd1074b2340a46bc9dd15c411ade9, type: 3}
+    correctChoice: 2
+    solution: {fileID: 746700042, guid: 4417e120e3af51e4badabe88521fcc8e, type: 3}
+  - question: {fileID: -175425746, guid: df1e24c0aa36e504a82382647297de5f, type: 3}
+    choices:
+    - {fileID: -31439783, guid: f1af4065ddb052843bc253c6be7df3de, type: 3}
+    - {fileID: 99724089, guid: 9c0ba25775529384b8269014dd206068, type: 3}
+    - {fileID: -1022286991, guid: 96798174f30d8cc4f9b6c568bb1cb1ac, type: 3}
+    - {fileID: -630504762, guid: 3b7d5fd3fe2766e43ad7772b2d31195c, type: 3}
+    correctChoice: 3
+    solution: {fileID: 21300000, guid: 9ca0b7c07dd3903448138c12ac384c49, type: 3}
+  timer: 30
+  IsEasy: 0
+  IsAverage: 1
+  IsBoss: 0
+  IsBossLives: 8

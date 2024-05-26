@@ -8,6 +8,7 @@ public class Dialog : ScriptableObject
 {
     public Quest_Data quesToGive;
     public List<string> Lines;
-
+    public string OptionButtonText; 
+    public UnityEngine.Events.UnityAction OptionButtonAction;
 
 }
