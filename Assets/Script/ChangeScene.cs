@@ -9,6 +9,7 @@ using UnityEngine.UI;
 public class ChangeScene : MonoBehaviour
 {
     public static ChangeScene instance = null;
+    [SerializeField] Slider loadingSlider;
     [SerializeField] GameObject loadingObject; // Reference to the loading object to activate
     [SerializeField] TMP_Text loadingText; // Reference to the TextMeshProUGUI for displaying loading percentage
     [SerializeField] float delayAfterLoading = .5f; // Delay after loading is done
@@ -52,6 +53,8 @@ public class ChangeScene : MonoBehaviour
             if (loadingText != null)
             {
                 loadingText.text = "Loading " + (asyncOperation.progress * 100f).ToString("0.0") + "%";
+
+                loadingSlider.value = Mathf.Clamp01(asyncOperation.progress / 0.9f);
             }
             yield return null;
         }

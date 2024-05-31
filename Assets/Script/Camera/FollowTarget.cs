@@ -50,3 +50,63 @@ public class FollowTarget : MonoBehaviour
     }
 
 }
+/*
+ using UnityEngine;
+
+public class FollowTarget : MonoBehaviour
+{
+    [Header("Transform to Follow")]
+    [SerializeField] private Transform targetTransform;
+
+    [Header("Configuration")]
+    [SerializeField] private bool followX = true;
+    [SerializeField] private bool followY = true;
+    [SerializeField] private Vector2 offset = Vector2.zero;
+
+    private Transform originalTargetTransform;
+    private float raycastDistance = 0.1f; // Adjust as needed
+
+    private void Start()
+    {
+        originalTargetTransform = targetTransform;
+    }
+
+    private void LateUpdate()
+    {
+        if (targetTransform == null)
+        {
+            return;
+        }
+
+        Vector3 newPosition = transform.position;
+
+        if (followX)
+        {
+            RaycastHit hit;
+            if (Physics.Raycast(targetTransform.position, Vector3.right, out hit, raycastDistance))
+            {
+                newPosition.x = hit.point.x - offset.x;
+            }
+            else
+            {
+                newPosition.x = targetTransform.position.x + offset.x;
+            }
+        }
+
+        if (followY)
+        {
+            RaycastHit hit;
+            if (Physics.Raycast(targetTransform.position, Vector3.up, out hit, raycastDistance))
+            {
+                newPosition.y = hit.point.y - offset.y;
+            }
+            else
+            {
+                newPosition.y = targetTransform.position.y + offset.y;
+            }
+        }
+
+        transform.position = newPosition;
+    }
+}
+ */

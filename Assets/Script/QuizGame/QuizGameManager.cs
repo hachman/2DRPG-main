@@ -400,6 +400,9 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     private Coroutine countdown;
     private Action<bool> BattleSuccess;
 
+
+    [SerializeField] GameObject SolutionPanel;
+
     private void Awake()
     {
         instance = this;
@@ -511,6 +514,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         canvasGameObject.SetActive(false);
         introPanel.SetActive(false);
         bossKilledPanel.SetActive(false);
+
+        Debug.Log("Nawala");
     }
     public void CheckAnswer(int choiceIndex)
     {
@@ -524,6 +529,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         if (choiceIndex == quizQuestions[currentQuestionIndex].correctChoice) // Correct answer
         {
             HandleCorrectAnswer();
+            correctFeedback.SetActive(true);
         }
         else // Wrong answer
         {
@@ -537,18 +543,32 @@ private void HandleCorrectAnswer()
 {
     score++;
     scoreText.text = "Score: " + score;
+
     DisplayPhraseAndSolution();
-    correctFeedback.SetActive(true);
+
+    Debug.Log("HandleCorrectAnswer accessed");
+
+    try
+    {
+        Debug.Log("Setting correctFeedback active");
+        correctFeedback.SetActive(true);
+        Debug.Log("correctFeedback is now active");
+    }
+    catch (Exception e)
+    {
+        Debug.LogError("Error displaying correct feedback: " + e.Message);
+    }
 
     if (currentData.IsBoss)
     {
         bossLives--;
         if (bossLives <= 0)
         {
+            Debug.Log("Patay");
             StartCoroutine(BossKilled());
         }
     }
-
+    StopCoroutine(countdown);
     // Optionally, show a button to proceed to the next question
 }
 
@@ -558,8 +578,8 @@ private void HandleCorrectAnswer()
     livesText.text = "Lives: " + lives;
     DisplayPhraseAndSolution();
     wrongFeedback.SetActive(true);
-
-    // Optionally, show a button to proceed to the next question
+        StopCoroutine(countdown);
+        // Optionally, show a button to proceed to the next question
     }
 
     private void DisplayPhraseAndSolution()
@@ -569,6 +589,11 @@ private void HandleCorrectAnswer()
         {
         solutionImage.sprite = quizQuestions[currentQuestionIndex].solution;
         }
+        if (countdown != null)
+        {
+            StopCoroutine(countdown);
+        }
+
         CheckEndGameConditions();
     }
 
@@ -577,6 +602,7 @@ private void HandleCorrectAnswer()
     {
         if (difficultyLevel == DifficultyLevel.Easy && score >= 1)
         {
+            //StopCoroutine(countdown);  
             EndGame();
         }
         else if (difficultyLevel == DifficultyLevel.Average && score >= 3)

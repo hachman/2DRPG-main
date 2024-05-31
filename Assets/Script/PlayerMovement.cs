@@ -4,6 +4,8 @@ using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public ModuleController mc;
+
     public float moveSpeed;
     [SerializeField] float interactableRange = 3f;
     private bool isMoving;
@@ -90,6 +92,15 @@ public class PlayerMovement : MonoBehaviour
             interactableCollider = Physics2D.OverlapCircle(transform.position, interactableRange, interactableLayer);
             if (interactableCollider != null)
             {
+                if (interactableCollider.tag == "NPT")
+                {
+                    string scene = SceneManager.GetActiveScene().name;
+                    if (scene == "Forest" || scene == "Cloud Village")
+                    {
+                        mc.setModuleContent(scene); 
+                    }
+                    
+                }
                 interactOutline.SetActive(true);
             }
             else
@@ -99,6 +110,21 @@ public class PlayerMovement : MonoBehaviour
         }
 
     }
+    // Collider
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        interactableCollider = Physics2D.OverlapCircle(transform.position, interactableRange, interactableLayer);
+        if (interactableCollider != null)
+        {
+            if (interactableCollider.tag == "NPT")
+            {
+                Debug.Log(interactableCollider.tag + "   ---   Working");
+
+            }
+        }
+    }
+
     private void FixedUpdate()
     {
         InteractableDetect();

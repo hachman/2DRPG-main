@@ -1,10 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+    [SerializeField] GameObject Panel;
+    [SerializeField] TextMeshProUGUI TextPanel;
+    int count = 0;
+    float timer = 0f;
+    bool isCounting = false;
     private void Start()
     {
         AudioManager.instance.PlayBackgroundMusic("menu");
@@ -45,5 +52,49 @@ public class MainMenu : MonoBehaviour
     {
         AudioManager.instance.PlaySoundEffect("click");
         DataPersistenceManager.instance.SaveGame();
+    }
+    private void Update()
+    {
+        if (isCounting)
+        {
+            timer += Time.deltaTime;
+            if(timer > 2f) 
+            {
+                count = 0;
+                timer = 0f;
+                isCounting = false;
+            }
+        }
+    }
+    public void CreditsDisplay()
+    {
+        if(!isCounting)
+        {
+            if (Panel.gameObject.active)
+            {
+                Panel.SetActive(false);
+            }
+            isCounting=true;
+            timer =0f;
+        }
+        count++;
+        if (count >= 5 && timer <= 2f)
+        {
+            Panel.SetActive(true);
+            int i = Random.Range(0, 6);
+            string[] text = new string[]
+            {
+                "\"Ro hxd jfwc xc qrwqf unwr j bwn, qraab kdam unwr j bwn\" - J.Y.S. Jkmdu Tjuvj\n\n\n .........",
+                "\"Bxn vyxyn ynj bxd nvwbnnb, nwnq nxmj qrwqfa\" - Jwnxwhvd\n\n\n .........",
+                "\"Hxd ljw'cnlygclb rbx jcq yjwnqrwoxjc yjwjwn qrwox\" - Dwtxvfw\n\n\n .........",
+                "\"Ro hxd'anj yjwn oxq hxd qrnaywj qrnaywj qrnay\" - Numar Nmxrx Ljufn\n\n\n .........",
+                "\"Mnaj qrnayxq nmqrb qrnay mnr xqjq\" - Dwtxvfw\n\n\n .........",
+                "\"Cqn krppnbc kdamwn rb j ujih lxvymrjw\" - Dwtxvfw\n\n\n ........."
+            };
+            TextPanel.SetText(text[i]);
+            count = 0;
+            timer = 0f;
+            isCounting = false;
+        }
     }
 }

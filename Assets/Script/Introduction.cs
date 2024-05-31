@@ -38,19 +38,19 @@ public class Introduction : MonoBehaviour
 
     private void Start()
     {
-        StartCoroutine(FrameA(duration));
+        StartCoroutine(FrameA(.3f));
     }
     IEnumerator FrameA(float _duration)
     {
         camera.transform.position = new Vector3(-25, -17f, -10);
         yield return new WaitForSecondsRealtime(_duration);
-        StartCoroutine(FrameB(duration));
+        StartCoroutine(FrameB(.3f));
     }
     IEnumerator FrameB(float _duration)
     {
         camera.transform.position = new Vector3(-25, -40f, -10);
         yield return new WaitForSecondsRealtime(_duration);
-        StartCoroutine(FrameC(duration));
+        StartCoroutine(FrameC(.3f));
     }
     IEnumerator FrameC(float _duration)
     {

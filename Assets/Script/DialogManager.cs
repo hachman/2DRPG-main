@@ -4,14 +4,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-
-
+using UnityEngine.SceneManagement;
 
 public class DialogManager : MonoBehaviour
 {
+    [Header("Dialog Box")]
     [SerializeField] GameObject dialogBox;
     [SerializeField] TextMeshProUGUI dialogText;
     [SerializeField] int lettersPerSecond;
+    [Space]
+    [Header("Module Dialog Box")]
+    [SerializeField] GameObject moduleDialogBox;
+    [SerializeField] TextMeshProUGUI moduleDialogText;
+    public ModuleController mc;
 
     public event Action OnShowDialog;
     public event Action OnHideDialog;
@@ -29,7 +34,7 @@ public class DialogManager : MonoBehaviour
     {
         dialogBox.SetActive(false);
         optionButton.onClick.AddListener(OnOptionButtonClick); 
-        optionButton.gameObject.SetActive(false);
+        optionButton.gameObject.SetActive(true);
     }
 
     public static DialogManager Instance { get; private set; }
@@ -67,6 +72,12 @@ public class DialogManager : MonoBehaviour
         else
         {
             dialogBox.SetActive(false);
+            string sceneName = SceneManager.GetActiveScene().name;
+            if (sceneName == "Forest" || sceneName == "Cloud Village")
+            {
+                moduleDialogBox.SetActive(true);
+                mc.setModuleContent(sceneName);
+            }
             currentLine = 0;
             OnHideDialog?.Invoke();
             DialogDone?.Invoke();
@@ -94,4 +105,6 @@ public class DialogManager : MonoBehaviour
         }
         NextLine(); // Move to the next line of dialog
     }
+
+   
 }

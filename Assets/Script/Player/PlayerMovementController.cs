@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerMovementController : MonoBehaviour
 {
+
     [Header("Config")]
     [SerializeField] private float moveSpeed = 5f;
 
@@ -27,6 +29,9 @@ public class PlayerMovementController : MonoBehaviour
         GameEventsManager.instance.inputEvents.onMovePressed += MovePressed;
         GameEventsManager.instance.playerEvents.onDisablePlayerMovement += DisablePlayerMovement;
         GameEventsManager.instance.playerEvents.onEnablePlayerMovement += EnablePlayerMovement;
+
+        //PlayerLastPosition
+        
         
     }
 
