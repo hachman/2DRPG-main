@@ -307,12 +307,16 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: c816c883db038cb468bcd4ca3efbdb99, type: 3}
     volume: 0.3
     loop: 1
+  - soundName: Intro
+    clip: {fileID: 8300000, guid: 288a86427f627a4438139349e2fd56eb, type: 3}
+    volume: 0.45
+    loop: 1
   - soundName: peace
     clip: {fileID: 8300000, guid: b3b2f309454814d4182037b82f07ccdd, type: 3}
     volume: 0.5
     loop: 1
-  - soundName: forest
-    clip: {fileID: 8300000, guid: bb291fc4ecca2cd47a2600f23d92b688, type: 3}
+  - soundName: forrest
+    clip: {fileID: 8300000, guid: 288a86427f627a4438139349e2fd56eb, type: 3}
     volume: 0.35
     loop: 1
   - soundName: cave

@@ -11,4 +11,5 @@ public class Dialog : ScriptableObject
     public string OptionButtonText; 
     public UnityEngine.Events.UnityAction OptionButtonAction;
 
+
 }

@@ -38,7 +38,7 @@ MonoBehaviour:
     correctChoice: 2
     solution: {fileID: 1261528303, guid: f19e2f3fff8e89c46be7f174a21d6663, type: 3}
   timer: 30
-  IsEasy: 0
+  IsEasy: 1
   IsAverage: 0
   IsBoss: 0
   IsBossLives: 8

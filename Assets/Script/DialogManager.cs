@@ -72,12 +72,12 @@ public class DialogManager : MonoBehaviour
         else
         {
             dialogBox.SetActive(false);
-            string sceneName = SceneManager.GetActiveScene().name;
-            if (sceneName == "Forest" || sceneName == "Cloud Village")
-            {
-                moduleDialogBox.SetActive(true);
-                mc.setModuleContent(sceneName);
-            }
+            //string sceneName = SceneManager.GetActiveScene().name;
+            //if (sceneName == "Forest" || sceneName == "Cloud Village")
+            //{
+            //    moduleDialogBox.SetActive(true);
+            //    mc.setModuleContent(sceneName);
+            //}
             currentLine = 0;
             OnHideDialog?.Invoke();
             DialogDone?.Invoke();
@@ -106,5 +106,5 @@ public class DialogManager : MonoBehaviour
         NextLine(); // Move to the next line of dialog
     }
 
-   
+  
 }

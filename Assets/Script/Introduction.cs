@@ -7,6 +7,8 @@ using UnityEngine.UI;
 public class Introduction : MonoBehaviour
 {
     [SerializeField] Camera camera;
+    [SerializeField] AudioSource BGM;
+    [SerializeField] AudioSource Narator;
 
     [Header("Frames")]
     [SerializeField] GameObject Frame1;
@@ -28,6 +30,20 @@ public class Introduction : MonoBehaviour
     [SerializeField] GameObject Frame17;
     [SerializeField] GameObject Frame18;
 
+    [Header("Audio Clips")]
+    //1
+    [SerializeField] AudioClip FrameAClipA;
+    [SerializeField] AudioClip FrameAClipB;
+    //2
+    [SerializeField] AudioClip FrameBClip;
+    //3
+    [SerializeField] AudioClip FrameCClipA;
+    [SerializeField] AudioClip FrameCClipB;
+    //4
+    [SerializeField] AudioClip FrameDClipA;
+    [SerializeField] AudioClip FrameDClipB;
+    [SerializeField] AudioClip FrameDClipC;
+
     [SerializeField] float duration = 0;
 
     public void skipScene()
@@ -42,6 +58,7 @@ public class Introduction : MonoBehaviour
     }
     IEnumerator FrameA(float _duration)
     {
+        Narator.PlayOneShot(FrameAClipA);
         camera.transform.position = new Vector3(-25, -17f, -10);
         yield return new WaitForSecondsRealtime(_duration);
         StartCoroutine(FrameB(.3f));

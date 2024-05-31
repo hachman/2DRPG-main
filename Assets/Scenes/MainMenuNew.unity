@@ -3856,7 +3856,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -0.000015259, y: -292}
+  m_AnchoredPosition: {x: 1, y: -293}
   m_SizeDelta: {x: 1040.2676, y: 458.35083}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1415836042
@@ -6734,14 +6734,6 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
-      propertyPath: backgroundMusicList.Array.size
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
-      propertyPath: backgroundMusicList.Array.data[2].clip
-      value: 
-      objectReference: {fileID: 8300000, guid: 288a86427f627a4438139349e2fd56eb, type: 3}
-    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
       propertyPath: backgroundMusicList.Array.data[6].clip
       value: 
       objectReference: {fileID: 8300000, guid: 43601f2376c75494bbb58212b17aa2ea, type: 3}
@@ -6764,10 +6756,6 @@ PrefabInstance:
     - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
       propertyPath: backgroundMusicList.Array.data[7].volume
       value: 0.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
-      propertyPath: backgroundMusicList.Array.data[2].soundName
-      value: forrest
       objectReference: {fileID: 0}
     - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
       propertyPath: backgroundMusicList.Array.data[6].soundName

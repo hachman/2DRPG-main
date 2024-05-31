@@ -94,11 +94,11 @@ public class PlayerMovement : MonoBehaviour
             {
                 if (interactableCollider.tag == "NPT")
                 {
-                    string scene = SceneManager.GetActiveScene().name;
-                    if (scene == "Forest" || scene == "Cloud Village")
-                    {
-                        mc.setModuleContent(scene); 
-                    }
+                   // string scene = SceneManager.GetActiveScene().name;
+                    //if (scene == "Forest" || scene == "Cloud Village")
+                   // {
+                    //    mc.setModuleContent(scene); 
+                    //}
                     
                 }
                 interactOutline.SetActive(true);

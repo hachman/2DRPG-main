@@ -763,6 +763,64 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &595214892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 595214895}
+  - component: {fileID: 595214894}
+  - component: {fileID: 595214893}
+  m_Layer: 0
+  m_Name: Audio Player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &595214893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595214892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7782f9f68373e5419c9567a4cd22ddc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &595214894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595214892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30673ccdbd2c9cb4999ed1b50478fe2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bgmName: Intro
+--- !u!4 &595214895
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595214892}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &798071468
 GameObject:
   m_ObjectHideFlags: 0
@@ -976,6 +1034,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 1095843542}
+  BGM: {fileID: 0}
+  Narator: {fileID: 0}
   Frame1: {fileID: 798525043}
   Frame2: {fileID: 1357562395}
   Frame3: {fileID: 250805125}
@@ -994,6 +1054,14 @@ MonoBehaviour:
   Frame16: {fileID: 1120396882}
   Frame17: {fileID: 798071468}
   Frame18: {fileID: 1758620311}
+  FrameAClipA: {fileID: 0}
+  FrameAClipB: {fileID: 0}
+  FrameBClip: {fileID: 0}
+  FrameCClipA: {fileID: 0}
+  FrameCClipB: {fileID: 0}
+  FrameDClipA: {fileID: 0}
+  FrameDClipB: {fileID: 0}
+  FrameDClipC: {fileID: 0}
   duration: 3
 --- !u!1 &929697077
 GameObject:
@@ -2456,3 +2524,4 @@ SceneRoots:
   - {fileID: 2994897}
   - {fileID: 919480649}
   - {fileID: 955814988}
+  - {fileID: 595214895}

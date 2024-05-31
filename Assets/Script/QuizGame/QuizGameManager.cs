@@ -395,7 +395,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     private EnemyQuizData currentData;
     private int bossLives = 0;
     private List<Question> quizQuestions = new List<Question>();
-    public DifficultyLevel difficultyLevel;
+    public DifficultyLevel diff;
 
     private Coroutine countdown;
     private Action<bool> BattleSuccess;
@@ -456,7 +456,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
     public void StartQuiz(DifficultyLevel difficulty, Action<bool> OnBattleSuccess)
     {
-        difficultyLevel = difficulty;
+        diff = difficulty;
         BattleSuccess = OnBattleSuccess;
         canvasGameObject.SetActive(true);
 
@@ -548,17 +548,8 @@ private void HandleCorrectAnswer()
 
     Debug.Log("HandleCorrectAnswer accessed");
 
-    try
-    {
-        Debug.Log("Setting correctFeedback active");
         correctFeedback.SetActive(true);
-        Debug.Log("correctFeedback is now active");
-    }
-    catch (Exception e)
-    {
-        Debug.LogError("Error displaying correct feedback: " + e.Message);
-    }
-
+    
     if (currentData.IsBoss)
     {
         bossLives--;
@@ -582,44 +573,61 @@ private void HandleCorrectAnswer()
         // Optionally, show a button to proceed to the next question
     }
 
+    /*   private void DisplayPhraseAndSolution()
+        {
+        phraseDisplay.text = randomPhrases[UnityEngine.Random.Range(0, randomPhrases.Length)];
+            if (quizQuestions[currentQuestionIndex].solution != null)
+            {
+            solutionImage.sprite = quizQuestions[currentQuestionIndex].solution;
+            }
+
+        }*/
+
+    private IEnumerator WaitForDisplayAndCheckEndGameConditions()
+    {
+        yield return new WaitForSeconds(5f); // Adjust time as needed
+
+        if (correctFeedback.activeSelf) // Check if correct feedback is active
+        {
+            CheckEndGameConditions(); // Check end game conditions after correct feedback is displayed
+        }
+    }
+
     private void DisplayPhraseAndSolution()
     {
-    phraseDisplay.text = randomPhrases[UnityEngine.Random.Range(0, randomPhrases.Length)];
+        phraseDisplay.text = randomPhrases[UnityEngine.Random.Range(0, randomPhrases.Length)];
         if (quizQuestions[currentQuestionIndex].solution != null)
         {
-        solutionImage.sprite = quizQuestions[currentQuestionIndex].solution;
+            solutionImage.sprite = quizQuestions[currentQuestionIndex].solution;
         }
         if (countdown != null)
         {
             StopCoroutine(countdown);
         }
 
-        CheckEndGameConditions();
+        // Start the coroutine to wait for a short period before checking end game conditions
+        StartCoroutine(WaitForDisplayAndCheckEndGameConditions());
     }
-
 
     private void CheckEndGameConditions()
     {
-        if (difficultyLevel == DifficultyLevel.Easy && score >= 1)
+        if (diff == DifficultyLevel.Easy && score >= 1)
         {
-            //StopCoroutine(countdown);  
+            Debug.Log("easy ka tanga");
             EndGame();
         }
-        else if (difficultyLevel == DifficultyLevel.Average && score >= 3)
+        else if (diff == DifficultyLevel.Average && score >= 3)
         {
+            Debug.Log("medyo mahirap ka tanga");
             EndGame();
         }
-        else if (difficultyLevel == DifficultyLevel.Hard && currentQuestionIndex >= bossLives)
+        else if (diff == DifficultyLevel.IsBoss && currentQuestionIndex >= bossLives)
         {
+            Debug.Log("boss ka tanga");
             EndGame();
         }
+        
     }
-
-    private void ShowAnswerAnalysis()
-    {
-        // Implement analysis display logic here if needed
-    }
-
 
     public void ContinueGame() => SetupNextItem();
 
@@ -715,6 +723,6 @@ private void HandleCorrectAnswer()
     {
         Easy,
         Average,
-        Hard
+        IsBoss
     }
 }
