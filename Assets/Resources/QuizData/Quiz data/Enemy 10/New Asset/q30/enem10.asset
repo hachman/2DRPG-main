@@ -38,5 +38,5 @@ MonoBehaviour:
     correctChoice: 1
     solution: {fileID: 268109541, guid: 6d74b9df418fc9149a008cc661482c22, type: 3}
   timer: 30
-  IsBoss: 0
+  difficultyLevel: 1
   IsBossLives: 8

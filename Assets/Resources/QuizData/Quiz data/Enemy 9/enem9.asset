@@ -20,6 +20,7 @@ MonoBehaviour:
     - {fileID: 1870292137, guid: 46e25ff5ccb5b3b409dac999f42a1f59, type: 3}
     - {fileID: -1874101345, guid: cec987a6b70c92c4d8a2635a74cdeef2, type: 3}
     correctChoice: 2
+    solution: {fileID: 0}
   - question: {fileID: 1349988655, guid: d422e892ab6f3624f831e35ab60e8f87, type: 3}
     choices:
     - {fileID: -424986788, guid: caecc42e017cfb3479bae24a1d5b3f2c, type: 3}
@@ -27,6 +28,7 @@ MonoBehaviour:
     - {fileID: 561287191, guid: 0a4abb3725d3d7641b2477c2f546751b, type: 3}
     - {fileID: 1128815472, guid: 5103fe2f7c1529b4fa2f29e7568b516b, type: 3}
     correctChoice: 3
+    solution: {fileID: 0}
   - question: {fileID: -1325819683, guid: ad3267f60a87f81469a757c3e40af33e, type: 3}
     choices:
     - {fileID: -1216230091, guid: f4b4b23c584656a4e9dccc609eb32643, type: 3}
@@ -34,4 +36,7 @@ MonoBehaviour:
     - {fileID: 531606889, guid: 8e3dd12d92ee3164e849821480cbbbaa, type: 3}
     - {fileID: 1311450159, guid: 1b0912240c230dc47a2ce2d882f4f4ce, type: 3}
     correctChoice: 0
+    solution: {fileID: 0}
   timer: 30
+  difficultyLevel: 1
+  IsBossLives: 8
