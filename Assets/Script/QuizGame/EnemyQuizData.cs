@@ -9,7 +9,7 @@ public class EnemyQuizData : ScriptableObject
 
     public List<Question> questions;
     public float timer;
-    public DifficultyLevel difficultyLevel;
+    public bool IsBoss = false;
     public int IsBossLives = 8;
 }
 [System.Serializable]
@@ -21,11 +21,6 @@ public class Question
     public Sprite solution;
 }
 
-public enum DifficultyLevel
-{
-    Easy,
-    Average,
-    Hard
-}
+
 
 
