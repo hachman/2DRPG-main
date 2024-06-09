@@ -19,7 +19,6 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
     [Header("-- BOSS REF --")]
     [SerializeField] GameObject bossKilledPanel;
-    [SerializeField] Image bossDiplayImage;
     [SerializeField] TextMeshProUGUI bossLivesTMP;
     [Header("QUIZ REF")]
 
@@ -53,7 +52,6 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     EnemyQuizData currentData;
     int bossLives = 0;
     private List<Question> quizQuestions = new();
-    public DifficultyLevel difficultyLevel;
     private void Awake()
     {
         instance = this;
@@ -111,9 +109,9 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     }
     Coroutine countdown;
     Action<bool> BattleSuccess;
-    public void StartQuiz(DifficultyLevel difficulty, Action<bool> OnBattleSuccess)
+    public void StartQuiz(Action<bool> OnBattleSuccess)
     {
-        difficultyLevel = difficulty;
+       
         BattleSuccess = OnBattleSuccess;
         canvasGameObject.SetActive(true);
 
@@ -237,7 +235,6 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     {
         AudioManager.instance.PlayBackgroundMusic("victory");
         bossKilledPanel?.SetActive(true);
-        bossDiplayImage.sprite = enemyImage.sprite;
         yield return new WaitForSeconds(3f);
         OnBossKilled?.Invoke(); // action tobe accessed through script
         _OnBossKilled?.Invoke();// unity event to be accessed via inspector
@@ -319,12 +316,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         wrongFeedback.SetActive(false);
 
     }
-    public enum DifficultyLevel
-    {
-        Easy,
-        Average,
-        Hard
-    }
+ 
 
 
 }

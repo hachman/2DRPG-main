@@ -6734,6 +6734,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
+      propertyPath: backgroundMusicList.Array.data[1].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 056c0bb097befa04ab87d92545309753, type: 3}
+    - target: {fileID: 8094937765915424402, guid: 80eab36b7bcced44d88ed33d8194be04, type: 3}
       propertyPath: backgroundMusicList.Array.data[6].clip
       value: 
       objectReference: {fileID: 8300000, guid: 43601f2376c75494bbb58212b17aa2ea, type: 3}
