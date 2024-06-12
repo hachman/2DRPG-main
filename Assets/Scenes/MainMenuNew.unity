@@ -969,8 +969,8 @@ MonoBehaviour:
   ArrowImage: {fileID: 1206834692}
   HTPTMPro: {fileID: 1323756476}
   HTPImages:
-  - {fileID: 21300000, guid: 333aadd56dd7fd74387f597d467b6636, type: 3}
-  - {fileID: 21300000, guid: 7f2153f552a2daa4f87c070005233861, type: 3}
+  - {fileID: 21300000, guid: fa29178c5e422de4fb65f4951e51d112, type: 3}
+  - {fileID: 21300000, guid: a01d4c3ad74285d4fb79f377b5ebe8f2, type: 3}
   - {fileID: 21300000, guid: b913af38cbf781d4eab66a844ba292b2, type: 3}
   - {fileID: 21300000, guid: 90b9d2ac888a3744ebbd110543ad5d65, type: 3}
   NextButton: {fileID: 38999015}
@@ -2738,7 +2738,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1096651674
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3263,17 +3263,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1206834689}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.93, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 728596116}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -250, y: -140}
+  m_SizeDelta: {x: 100.8, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1206834691
 CanvasRenderer:
@@ -3887,7 +3887,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 333aadd56dd7fd74387f597d467b6636, type: 3}
+  m_Sprite: {fileID: 21300000, guid: fa29178c5e422de4fb65f4951e51d112, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

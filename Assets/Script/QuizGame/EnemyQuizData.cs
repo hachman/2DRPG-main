@@ -9,10 +9,10 @@ public class EnemyQuizData : ScriptableObject
 
     public List<Question> questions;
     public float timer;
-    public bool Iseasy = false;
+    public bool IsEasy = false;
     public bool IsAveraage = false;
     public bool IsBoss = false;
-    public int Iseaylives = 1;
+    public int IsEasylives = 1;
     public int IsAverageLives = 3;
     public int IsBossLives = 8;
 }
@@ -24,6 +24,7 @@ public class Question
     public int correctChoice;
     public Sprite solution;
 }
+
 
 
 

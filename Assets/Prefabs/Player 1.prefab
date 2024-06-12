@@ -1466,10 +1466,8 @@ MonoBehaviour:
   HTPImages:
   - {fileID: 21300000, guid: fa29178c5e422de4fb65f4951e51d112, type: 3}
   - {fileID: 21300000, guid: a01d4c3ad74285d4fb79f377b5ebe8f2, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: b913af38cbf781d4eab66a844ba292b2, type: 3}
+  - {fileID: 21300000, guid: 90b9d2ac888a3744ebbd110543ad5d65, type: 3}
   NextButton: {fileID: 7690559396105110748}
 --- !u!1 &1448123492972268645
 GameObject:
