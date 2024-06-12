@@ -118,5 +118,9 @@ MonoBehaviour:
     correctChoice: 1
     solution: {fileID: -919560439, guid: 784e76106eca63040a9f3061206eb5be, type: 3}
   timer: 15
-  IsBoss: 1
+  IsEasy: 0
+  IsAverage: 0
+  IsBoss: 0
+  IsEasylives: 1
+  IsAverageLives: 3
   IsBossLives: 8

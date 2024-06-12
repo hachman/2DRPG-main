@@ -10,7 +10,7 @@ public class EnemyQuizData : ScriptableObject
     public List<Question> questions;
     public float timer;
     public bool IsEasy = false;
-    public bool IsAveraage = false;
+    public bool IsAverage = false;
     public bool IsBoss = false;
     public int IsEasylives = 1;
     public int IsAverageLives = 3;
