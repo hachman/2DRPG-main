@@ -1,4 +1,4 @@
-/*using UnityEngine;
+using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
@@ -323,7 +323,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
 
 }
-*/
+/*
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
@@ -419,6 +419,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
         if (currentData.IsBoss)
         {
+            //lives 8
             bossLivesTMP.gameObject.SetActive(true);
             bossLivesTMP.text = string.Format($"BOSS LIVES: {bossLives}");
         }
@@ -429,7 +430,9 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
         if (currentData.IsEasy)
         {
+            //lives 1
             easyLivesTMP.gameObject.SetActive(true);
+            debug.log("Easy ka tanga");
             easyLivesTMP.text = $"ENEMY LIVES: {easyLives}";
         }
         else
@@ -439,7 +442,9 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
         if (currentData.IsAverage)
         {
+            //lives 3
             averageLivesTMP.gameObject.SetActive(true);
+            debug.log("Average ka wag kang bobo");
             averageLivesTMP.text = $"ENEMY LIVES: {averageLives}";
         }
         else
@@ -697,3 +702,4 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         wrongFeedback.SetActive(false);
     }
 }
+*/
