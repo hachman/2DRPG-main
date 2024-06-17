@@ -320,8 +320,6 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
     }
  
-
-
 }
 /*
 using UnityEngine;
