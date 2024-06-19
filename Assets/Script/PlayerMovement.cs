@@ -17,6 +17,18 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] GameObject interactOutline;
     private Collider2D solidObjects;
     private Collider2D interactableCollider;
+    private bool canwallslide;
+    private bool isWallSliding;
+
+    [Header("Collision Info")]
+    [SerializeField] private Transform groundCheck;
+    [SerializeField] private float groundCheckRadius;
+    [SerializeField] private LayerMask whatIsGround;
+    private bool IsGrounded;
+
+    [SerializeField] private Transform wallcheck;
+    [SerializeField] private float wallCheckDistance;
+    private bool isWallDetected;
 
     LastKnownPosition lastKnownPosition = new LastKnownPosition();
     private void Awake()

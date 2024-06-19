@@ -47,6 +47,7 @@ public class FollowTarget : MonoBehaviour
             newPosY = targetTransform.position.y + offset.y;
         }
         this.transform.position = new Vector3(newPosX, newPosY, this.transform.position.z);
+
     }
 
 }

@@ -582,6 +582,7 @@ GameObject:
   - component: {fileID: 832151553230374506}
   - component: {fileID: 2466716864864195504}
   - component: {fileID: 3710318095175862261}
+  - component: {fileID: 1660427643465268737}
   m_Layer: 5
   m_Name: HTPPanel
   m_TagString: Untagged
@@ -647,6 +648,29 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!114 &1660427643465268737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5694108393950936690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7107b3fe8115f3345b82dad6ad7f9cca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HTPPanel: {fileID: 5694108393950936690}
+  HTPImage: {fileID: 2871239435691282153}
+  FocusPanel: {fileID: 3587624407205643306}
+  ArrowImage: {fileID: 8881758433612954888}
+  HTPTMPro: {fileID: 6975563698750454333}
+  HTPImages:
+  - {fileID: 21300000, guid: fa29178c5e422de4fb65f4951e51d112, type: 3}
+  - {fileID: 21300000, guid: a01d4c3ad74285d4fb79f377b5ebe8f2, type: 3}
+  - {fileID: 21300000, guid: b913af38cbf781d4eab66a844ba292b2, type: 3}
+  - {fileID: 21300000, guid: 90b9d2ac888a3744ebbd110543ad5d65, type: 3}
+  NextButton: {fileID: 7650661903713528077}
 --- !u!1 &6957767130546439722
 GameObject:
   m_ObjectHideFlags: 0
@@ -1055,7 +1079,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1660427643465268737}
         m_TargetAssemblyTypeName: HowToPlay, Assembly-CSharp
         m_MethodName: NextInstruction
         m_Mode: 1

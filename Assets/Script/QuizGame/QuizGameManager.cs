@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 using System.Collections.Generic;
@@ -320,8 +320,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
     }
  
-}
-/*
+}*/
+
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
@@ -368,6 +368,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     private int currentQuestionIndex = 0;
     private int score = 0;
     private int lives = 3;
+    private int enemyLives = 3;
     private float timer;
     private bool quizRunning = false;
 
@@ -426,23 +427,11 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             bossLivesTMP.gameObject.SetActive(false);
         }
 
-        if (currentData.IsEasy)
-        {
-            //lives 1
-            easyLivesTMP.gameObject.SetActive(true);
-            debug.log("Easy ka tanga");
-            easyLivesTMP.text = $"ENEMY LIVES: {easyLives}";
-        }
-        else
-        {
-            easyLivesTMP.gameObject.SetActive(false);
-        }
-
         if (currentData.IsAverage)
         {
             //lives 3
             averageLivesTMP.gameObject.SetActive(true);
-            debug.log("Average ka wag kang bobo");
+            Debug.Log("Average ka wag kang bobo");
             averageLivesTMP.text = $"ENEMY LIVES: {averageLives}";
         }
         else
@@ -450,6 +439,17 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             averageLivesTMP.gameObject.SetActive(false);
         }
 
+        if (currentData.IsEasy)
+        {
+            //lives 1
+            easyLivesTMP.gameObject.SetActive(true);
+            Debug.Log("Easy ka tanga");
+            easyLivesTMP.text = $"ENEMY LIVES: {easyLives}";
+        }
+        else
+        {
+            easyLivesTMP.gameObject.SetActive(false);
+        }
         livesText.text = $"Lives: {lives}"; // Update lives text
 
         Question currentQuestion = quizQuestions[currentQuestionIndex];
@@ -487,15 +487,15 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
         if (data.IsEasy)
         {
-            lives = easyLives;
+            enemyLives = easyLives;
         }
         else if (data.IsAverage)
         {
-            lives = averageLives;
+            enemyLives = averageLives;
         }
         else if (data.IsBoss)
         {
-            lives = bossLives;
+            enemyLives = bossLives;
         }
 
         if (!quizRunning)
@@ -574,7 +574,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                     easyLivesTMP.text = $"ENEMY LIVES: {easyLives}";
                     if (easyLives <= 0)
                     {
-                        StartCoroutine(GameWon());
+                        StopCoroutine(GameWon());
                     }
                 }
                 else if (currentData.IsAverage)
@@ -586,8 +586,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                         StartCoroutine(GameWon());
                     }
                 }
-
-                StartCoroutine(NextQuestion()); // delayed next question
+                //StartCoroutine(NextQuestion()); // delayed next question
             }
             else // wrong
             {
@@ -619,13 +618,10 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
     IEnumerator GameWon()
     {
-        AudioManager.instance.PlayBackgroundMusic("victory");
-        bossKilledPanel?.SetActive(true);
-        yield return new WaitForSeconds(3f);
-        BattleSuccess?.Invoke(true);
-        bossKilledPanel?.SetActive(false);
+        correctFeedback?.SetActive(true);
+        yield return new WaitForSeconds(1f);
         EndGame();
-        AudioManager.instance.PlayPreviousBackgroundMusic();
+        
     }
 
     IEnumerator NextQuestion()
@@ -700,4 +696,3 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         wrongFeedback.SetActive(false);
     }
 }
-*/

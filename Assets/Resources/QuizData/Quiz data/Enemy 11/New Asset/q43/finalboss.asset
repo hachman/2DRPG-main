@@ -120,7 +120,7 @@ MonoBehaviour:
   timer: 15
   IsEasy: 0
   IsAverage: 0
-  IsBoss: 0
+  IsBoss: 1
   IsEasylives: 1
   IsAverageLives: 3
   IsBossLives: 8
