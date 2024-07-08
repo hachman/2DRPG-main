@@ -465,6 +465,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     public void StartQuiz(Action<bool> OnBattleSuccess)
     {
         BattleSuccess = OnBattleSuccess;
+        lives = 3; // Reset player lives
         canvasGameObject.SetActive(true);
 
         if (!quizRunning)
@@ -479,6 +480,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         easyLives = data.IsEasylives;
         averageLives = data.IsAverageLives;
         bossLives = data.IsBossLives;
+        lives = 3;
         BattleSuccess = OnBattleSuccess;
         canvasGameObject.SetActive(true);
         AudioManager.instance.PlayBackgroundMusic("battle");
@@ -556,7 +558,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                 score++;
                 scoreText.text = "Score: " + score;
                 phraseDisplay.text = randomPhrases[UnityEngine.Random.Range(0, randomPhrases.Length)];
-
+                if (quizQuestions[currentQuestionIndex].solution != null) solutionImage.sprite = quizQuestions[currentQuestionIndex].solution;
                 correctFeedback.SetActive(true);
 
                 if (currentData.IsBoss)

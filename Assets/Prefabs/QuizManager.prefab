@@ -48,6 +48,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bossKilledPanel: {fileID: 162754219788502638}
   bossLivesTMP: {fileID: 6997746132615930034}
+  easyLivesTMP: {fileID: 0}
+  averageLivesTMP: {fileID: 0}
   questionImage: {fileID: 1746533210387324805}
   choices:
   - {fileID: 6529083518871630404}
@@ -81,6 +83,9 @@ MonoBehaviour:
   phraseDisplay: {fileID: 0}
   randomPhrases: []
   timePerQuestion: 30
+  easyLives: 0
+  averageLives: 0
+  bossLives: 0
 --- !u!114 &1138948243771277797
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1951,7 +1956,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &6578665273805488026
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2000,7 +2005,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4568664149699701401, guid: 0978f7ccef7bbb844a8c78276c2a6f14, type: 3}
+  m_Sprite: {fileID: 1261528303, guid: f19e2f3fff8e89c46be7f174a21d6663, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3212,7 +3217,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: NEXT ITEM
+  m_text: NEXT Question
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dfb53b812a80ced4d8668cd9267d3ed5, type: 2}
   m_sharedMaterial: {fileID: -6637963789496306048, guid: dfb53b812a80ced4d8668cd9267d3ed5, type: 2}
@@ -3298,7 +3303,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2432202156867357615
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5573,7 +5578,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: NEXT ITEM
+  m_text: NEXT QUESTION
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dfb53b812a80ced4d8668cd9267d3ed5, type: 2}
   m_sharedMaterial: {fileID: -6637963789496306048, guid: dfb53b812a80ced4d8668cd9267d3ed5, type: 2}
