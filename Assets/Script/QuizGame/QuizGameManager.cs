@@ -601,6 +601,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                     EndGame();
                 }
             }
+            
+             
         }
     }
 
@@ -663,7 +665,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     {
         StopQuiz(); // Stop the quiz when it ends
 
-        if (lives > 0)
+        if (lives > 0 )
         {
             BattleSuccess?.Invoke(true);
         }
