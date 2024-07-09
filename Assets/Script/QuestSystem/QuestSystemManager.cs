@@ -1,4 +1,4 @@
-using System;
+ using System;
 using System.Collections;
 using System.Collections.Generic;
 using NaughtyAttributes;
@@ -214,3 +214,152 @@ public class QuestDatabaseJSON
 //     }
 // }
 #endif
+/*
+using System;
+using System.Collections.Generic;
+using System.IO;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class QuestSystemManager : MonoBehaviour
+{
+    public static QuestSystemManager instance { get; private set; }
+
+    public event Action<Quest_Data> OnQuestActivated;
+    public event Action<Quest_Data> OnQuestDone;
+
+    public Quest_Data activeQuest { get; private set; }
+
+    [SerializeField] private List<Quest_Data> allQuests;
+    private string filePath;
+
+    public bool RepositionPlayer = false;
+    public QuestDatabaseJSON questDatabaseJSON = new();
+
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+            filePath = Path.Combine(Application.persistentDataPath, "questdtb.json");
+            Debug.Log(filePath);
+            ResetQuests();
+            LoadData(questData => SetQuestSystem(questData));
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    public void ResetQuests()
+    {
+        activeQuest = null;
+        foreach (var quest in allQuests)
+        {
+            quest.ResetData();
+        }
+    }
+
+    public void LoadData(Action<QuestDatabaseJSON> callback)
+    {
+        if (!File.Exists(filePath))
+        {
+            callback?.Invoke(new QuestDatabaseJSON());
+            return;
+        }
+
+        try
+        {
+            string jsonData = File.ReadAllText(filePath);
+            QuestDatabaseJSON questData = JsonUtility.FromJson<QuestDatabaseJSON>(jsonData);
+            callback?.Invoke(questData);
+        }
+        catch (Exception ex)
+        {
+            Debug.LogError($"Error loading data: {ex.Message}");
+            callback?.Invoke(new QuestDatabaseJSON());
+        }
+    }
+
+    public void SetQuestSystem(QuestDatabaseJSON questData)
+    {
+        ResetQuests();
+
+        if (!string.IsNullOrEmpty(questData.ActiveQuestName))
+        {
+            Debug.Log("Active Quest Exists");
+            activeQuest = allQuests.Find(q => q.questName == questData.ActiveQuestName);
+            activeQuest?.SetState(Quest_State.Active);
+        }
+
+        foreach (var questName in questData.doneQuests)
+        {
+            Debug.Log("Done Quest Exists");
+            var quest = allQuests.Find(q => q.questName == questName);
+            quest?.SetState(Quest_State.Done);
+        }
+    }
+
+    [NaughtyAttributes.Button]
+    public void SampleSaveData() => SaveQuestData(new Vector2(1, 1), SceneManager.GetActiveScene().name);
+
+    public void SaveQuestData(Vector2 playerPos, string sceneName)
+    {
+        List<string> doneQuests = new();
+        foreach (var quest in allQuests)
+        {
+            if (quest.GetState() == Quest_State.Done)
+            {
+                doneQuests.Add(quest.questName);
+            }
+        }
+
+        QuestDatabaseJSON questData = new()
+        {
+            xSavedPosition = playerPos.x,
+            ySavedPosition = playerPos.y,
+            savedScene = sceneName,
+            ActiveQuestName = activeQuest?.questName,
+            doneQuests = doneQuests
+        };
+
+        try
+        {
+            string jsonData = JsonUtility.ToJson(questData);
+            File.WriteAllText(filePath, jsonData);
+            Debug.Log("Saved Data: " + filePath);
+        }
+        catch (Exception ex)
+        {
+            Debug.LogError($"Error saving data: {ex.Message}");
+        }
+    }
+
+    public void ActivateQuest(Quest_Data quest)
+    {
+        quest.SetState(Quest_State.Active);
+        activeQuest = quest;
+        OnQuestActivated?.Invoke(quest);
+    }
+
+    public void CompleteQuest(Quest_Data quest)
+    {
+        Debug.Log("Completed Quest: " + quest.questName);
+        quest.SetState(Quest_State.Done);
+        questDatabaseJSON.doneQuests.Add(quest.questName);
+        OnQuestDone?.Invoke(quest);
+        activeQuest = null;
+    }
+}
+
+[Serializable]
+public class QuestDatabaseJSON
+{
+    public string ActiveQuestName;
+    public float xSavedPosition, ySavedPosition;
+    public string savedScene;
+    public List<string> doneQuests = new();
+}
+*/

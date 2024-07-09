@@ -17,6 +17,13 @@ public class HowToPlay : MonoBehaviour
     [SerializeField] Sprite[] HTPImages;
     [Space]
     [SerializeField] Button NextButton;
+    [Space]
+    [Header("Audio Clips")]
+    [SerializeField] AudioClip[] VO;
+
+
+
+
     
     int HTPCount = 0;
 
@@ -52,6 +59,7 @@ public class HowToPlay : MonoBehaviour
         {
             ArrowImage.transform.position = new Vector3(1431, 470, 0);
             ArrowImage.transform.rotation = Quaternion.Euler(0, 0, 90f);
+            
         }
         else if (HTPCount == 2)
         {
