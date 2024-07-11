@@ -1304,8 +1304,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 8087447755774015308}
   - {fileID: 3327977336420302500}
+  - {fileID: 8087447755774015308}
   - {fileID: 7812179767361553951}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1394,6 +1394,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: b913af38cbf781d4eab66a844ba292b2, type: 3}
   - {fileID: 21300000, guid: 90b9d2ac888a3744ebbd110543ad5d65, type: 3}
   NextButton: {fileID: 0}
+  VO: []
 --- !u!1 &1448123492972268645
 GameObject:
   m_ObjectHideFlags: 0
@@ -8313,11 +8314,11 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 3948533679038427192}
   - {fileID: 3732342129742618680}
   - {fileID: 2318349361570757324}
   - {fileID: 1543839768629187641}
   - {fileID: 7945429490784744690}
-  - {fileID: 3948533679038427192}
   - {fileID: 7472920157788028537}
   - {fileID: 7526833363362156613}
   - {fileID: 5029638251464587779}
@@ -11519,6 +11520,10 @@ PrefabInstance:
     - target: {fileID: 2772539346007416581, guid: 5c08da28957de5240863174eee4dd080, type: 3}
       propertyPath: m_LocalScale.z
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5002604961141738442, guid: 5c08da28957de5240863174eee4dd080, type: 3}
+      propertyPath: m_Size.x
+      value: 0.75
       objectReference: {fileID: 0}
     - target: {fileID: 5002604961141738442, guid: 5c08da28957de5240863174eee4dd080, type: 3}
       propertyPath: m_IsTrigger

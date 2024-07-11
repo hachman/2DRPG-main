@@ -1034,34 +1034,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 1095843542}
-  BGM: {fileID: 0}
   Narator: {fileID: 0}
-  Frame1: {fileID: 798525043}
-  Frame2: {fileID: 1357562395}
-  Frame3: {fileID: 250805125}
-  Frame4: {fileID: 929697077}
-  Frame5: {fileID: 1544839974}
-  Frame6: {fileID: 1723276846}
-  Frame7: {fileID: 1420669324}
-  Frame8: {fileID: 1490446449}
-  Frame9: {fileID: 2094581798}
-  Frame10: {fileID: 474336682}
-  Frame11: {fileID: 1163474370}
-  Frame12: {fileID: 38067673}
-  Frame13: {fileID: 1416004479}
-  Frame14: {fileID: 176794225}
-  Frame15: {fileID: 1903484954}
-  Frame16: {fileID: 1120396882}
-  Frame17: {fileID: 798071468}
-  Frame18: {fileID: 1758620311}
-  FrameAClipA: {fileID: 0}
-  FrameAClipB: {fileID: 0}
-  FrameBClip: {fileID: 0}
-  FrameCClipA: {fileID: 0}
-  FrameCClipB: {fileID: 0}
-  FrameDClipA: {fileID: 0}
-  FrameDClipB: {fileID: 0}
-  FrameDClipC: {fileID: 0}
+  VoiceOver:
+  - {fileID: 8300000, guid: ae23b925b000ab945b7f424e418173c1, type: 3}
+  - {fileID: 8300000, guid: 96e3b40763fe5db4b86f9f9eb4eb063c, type: 3}
+  - {fileID: 8300000, guid: 06ce533af0eb5ea4794a9988824b7794, type: 3}
+  - {fileID: 8300000, guid: b814c324e791e7c4995e7258fb79df29, type: 3}
+  - {fileID: 8300000, guid: a00c901cc86ec244ab510bb5012b9a82, type: 3}
+  - {fileID: 8300000, guid: efa264e475a7eb94c97ad6fbf2eed306, type: 3}
+  - {fileID: 8300000, guid: a592314365a30f24ca4883ac8249e064, type: 3}
+  - {fileID: 8300000, guid: a3c8786dc7fbe4c49afd09508f52def3, type: 3}
   duration: 3
 --- !u!1 &929697077
 GameObject:

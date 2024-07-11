@@ -175,11 +175,17 @@ public class PlayerMovement : MonoBehaviour
     {
         /*solidObjects = Physics2D.OverlapCircle(targetPos, 0.2f, solidObjectsLayer | interactableLayer);
         return solidObjects == null;*/
+
         if (Physics2D.OverlapCircle(targetPos, 0.2f, solidObjectsLayer | interactableLayer) != null)
         {
+            Debug.Log("ME pader");
             return false;
         }
-        return true;
+        else
+        {
+            Debug.Log("Tanga wala");
+            return true; 
+        }
     }
     private void OnDrawGizmos()
     {
