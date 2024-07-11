@@ -47,6 +47,7 @@ public class Introduction : MonoBehaviour
 
     public void skipScene()
     {
+
         SceneManager.LoadScene(2);
         Narator.Stop();
     }
@@ -54,6 +55,12 @@ public class Introduction : MonoBehaviour
 
     private void Start()
     {
+        if (PlayerPrefs.HasKey("hasPlayedOnce"))
+        {
+            int hasPlayedOnce = PlayerPrefs.GetInt("hasPlayedOnce", 0);
+            if (hasPlayedOnce == 1) skipScene();
+        }
+        
         if (PlayerPrefs.HasKey("BackgroundMusicVolume"))
         {
             Narator.volume = PlayerPrefs.GetFloat("BackgroundMusicVolume", 1f);
@@ -209,5 +216,8 @@ public class Introduction : MonoBehaviour
         camera.transform.position = new Vector3(-25, -467.2f, -10);
         yield return new WaitForSecondsRealtime(_duration);
         Narator.Stop();
+
+        skipScene();
+        PlayerPrefs.SetInt("hasPlayedOnce", 1);
     }
 }
