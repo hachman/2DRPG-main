@@ -27,7 +27,7 @@ MonoBehaviour:
     - {fileID: -1125244026, guid: b459801a9e4487746a77fd9456ddfea9, type: 3}
     - {fileID: -223866840, guid: aed127a0a25d0bc48abddd943a6deacd, type: 3}
     - {fileID: 544054336, guid: bd0c060d0a5cc314bafa6637d21c5e12, type: 3}
-    correctChoice: 0
+    correctChoice: 1
     solution: {fileID: 575478149, guid: edf0e8b1d2090454c8fc094ba3b8c27c, type: 3}
   - question: {fileID: -1453452277, guid: 2f3609d94f6763e4ebfdf35fff0701b3, type: 3}
     choices:
@@ -35,7 +35,7 @@ MonoBehaviour:
     - {fileID: 1705769436, guid: 9a96b6ffb568ef643aab0fa96a7d4b36, type: 3}
     - {fileID: -793602008, guid: ebada81afe4c6194aaf36012a48467aa, type: 3}
     - {fileID: -510378022, guid: f08ee1502091d9043b86c9e7842e0feb, type: 3}
-    correctChoice: 0
+    correctChoice: 1
     solution: {fileID: -216968595, guid: ed3755f64f909a547a900650354bec11, type: 3}
   timer: 30
   IsEasy: 1

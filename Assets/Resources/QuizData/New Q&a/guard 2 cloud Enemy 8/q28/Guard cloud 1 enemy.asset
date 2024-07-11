@@ -19,7 +19,7 @@ MonoBehaviour:
     - {fileID: -730738641, guid: 0d06eeb168820d94289bdefe4adc647a, type: 3}
     - {fileID: 359929354, guid: 12225c427fad49340955bef0d627e1d2, type: 3}
     - {fileID: -1234864100, guid: 13745c118737b2440aba7e0e68ffa2ed, type: 3}
-    correctChoice: 0
+    correctChoice: 2
     solution: {fileID: -221801579, guid: 51e7803b162bfe34bb1da463c1b883fe, type: 3}
   - question: {fileID: -1738429893, guid: aa4597d2a9fce5947881762c3644783a, type: 3}
     choices:
@@ -27,7 +27,7 @@ MonoBehaviour:
     - {fileID: -1583748089, guid: f2f7f06f8aed93b43954ae1127f99163, type: 3}
     - {fileID: -1613300589, guid: a5519fbef5c8c1f4b9fc0a73bf688483, type: 3}
     - {fileID: -1500218986, guid: 9a96ba59053e84a45a911a075dcc4933, type: 3}
-    correctChoice: 0
+    correctChoice: 1
     solution: {fileID: 1266052250, guid: 6301e552ee9d1f54b8490d073d1cb51e, type: 3}
   - question: {fileID: 312804572, guid: fdc563db4bde3f74c9b52dcb9a3f8b47, type: 3}
     choices:
@@ -35,7 +35,7 @@ MonoBehaviour:
     - {fileID: -1296184637, guid: 3f99450f57736344abc97279add28e3c, type: 3}
     - {fileID: -1336195410, guid: 7036f56df6aa7534ebed3613b3035a65, type: 3}
     - {fileID: -2079077864, guid: e60e64291f0c36944bdc9fcdd1cb0a2d, type: 3}
-    correctChoice: 0
+    correctChoice: 2
     solution: {fileID: 142249631, guid: b0b1253f015134b4bb93d41f3fa04ba1, type: 3}
   - question: {fileID: 1795306099, guid: 7ff153bf72deafb448cf2ee272b79459, type: 3}
     choices:
@@ -51,7 +51,7 @@ MonoBehaviour:
     - {fileID: 820100688, guid: 59dd4d5e3461962469594174c931152a, type: 3}
     - {fileID: -1909597451, guid: 37a2ab97b535d0c48baa6c64203fe3de, type: 3}
     - {fileID: -1813877688, guid: 03d36811f78da57449a7e52ed46a11ed, type: 3}
-    correctChoice: 0
+    correctChoice: 3
     solution: {fileID: -1321604513, guid: 3958d8f7e9e3a03499b3b6a5c07bfbcc, type: 3}
   timer: 30
   IsEasy: 0
