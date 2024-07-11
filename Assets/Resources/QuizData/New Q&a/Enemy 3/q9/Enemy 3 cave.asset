@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: Enemy 3 cave
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: -1992062730, guid: 4f21e5d7b70a19f49be88392e37fb4e6, type: 3}
+    choices:
+    - {fileID: -376135355, guid: 421e9a07ed29c3e4d8c510ecd84b9204, type: 3}
+    - {fileID: -1990697182, guid: 9730eb6bb38183947a8c85da0115890f, type: 3}
+    - {fileID: 1266798275, guid: fc490c7b2636cc24eb7afd1875eccc1e, type: 3}
+    - {fileID: 598777561, guid: 8c4fff8e8a70d0f4687c99c877f89008, type: 3}
+    correctChoice: 2
+    solution: {fileID: 383728879, guid: b4215242350721a4894b65288faf6fa2, type: 3}
+  - question: {fileID: -945590801, guid: 6e84515b9217be8479d743494e7ef2cb, type: 3}
+    choices:
+    - {fileID: -50678452, guid: ab33a534ead239f428ef357109d7c009, type: 3}
+    - {fileID: 414396636, guid: 62a29633dc0af234a9a93abf0af47a14, type: 3}
+    - {fileID: 1642090023, guid: b5e22e88538748a4b9490dd1bf1be9ca, type: 3}
+    - {fileID: -149999634, guid: 8762d8abe787b5d4694a716581989b95, type: 3}
+    correctChoice: 2
+    solution: {fileID: -1946444441, guid: 44be966ae9500d143b28fbcc680c6aae, type: 3}
+  - question: {fileID: 370004846, guid: 926de924d31c76a4a804f910613d0f17, type: 3}
+    choices:
+    - {fileID: 2031347197, guid: 8a475e910f6954847a8ae7b043e83e45, type: 3}
+    - {fileID: -696417525, guid: bcca93da8edbbd74facab90ec501b26c, type: 3}
+    - {fileID: 1486024230, guid: a28b0a5176793194699a154c714d7b1a, type: 3}
+    - {fileID: 41025990, guid: d40433e7597128a4783030183b33a690, type: 3}
+    correctChoice: 3
+    solution: {fileID: 327368722, guid: aba8d9f33601fd241b6cc35270cb9cbb, type: 3}
+  timer: 30
+  IsEasy: 1
+  IsAverage: 0
+  IsBoss: 0
+  IsEasylives: 1
+  IsAverageLives: 3
+  IsBossLives: 8
