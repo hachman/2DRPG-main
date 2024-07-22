@@ -58,7 +58,7 @@ public class Introduction : MonoBehaviour
         if (PlayerPrefs.HasKey("hasPlayedOnce"))
         {
             int hasPlayedOnce = PlayerPrefs.GetInt("hasPlayedOnce", 0);
-            if (hasPlayedOnce == 1) skipScene();
+            if (hasPlayedOnce == 2) skipScene();
         }
         
         if (PlayerPrefs.HasKey("BackgroundMusicVolume"))
