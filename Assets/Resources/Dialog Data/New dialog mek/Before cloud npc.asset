@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66b719a99e4e6646b16c9f535eefa17, type: 3}
+  m_Name: Before cloud npc
+  m_EditorClassIdentifier: 
+  quesToGive: {fileID: 0}
+  Lines:
+  - 'If you''re ever in doubt, remember this: '
+  - the path of logic and reason will always guide you.
+  - ' Don''t be afraid to experiment and try new approaches.'
+  OptionButtonText: 

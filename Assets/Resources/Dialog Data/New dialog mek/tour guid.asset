@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e66b719a99e4e6646b16c9f535eefa17, type: 3}
+  m_Name: tour guid
+  m_EditorClassIdentifier: 
+  quesToGive: {fileID: 0}
+  Lines:
+  - Of course! Let me see your map. Ah, I see. You are here outside a house. To you
+    local lies the Enchanted Forest, filled with magical plants and hidden secrets.
+  - To the South, you'll find the Mystic Cave, home to an ancient gatekeeper and
+    lurking dangers.
+  - And up above, in the skies, is the majestic Cloud City, where the wise sages
+    keep the dragon.
+  OptionButtonText: 
