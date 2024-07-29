@@ -16,9 +16,9 @@ public class SAVESYSTEM : MonoBehaviour
     public void SaveProgress()
     {
         QuestSystemManager.instance?.SaveQuestData(playerTransform.position, SceneManager.GetActiveScene().name);
-        StartCoroutine(DisplaySavedPAnel());
+        StartCoroutine(DisplaySavedPanel());
     }
-    IEnumerator DisplaySavedPAnel()
+    IEnumerator DisplaySavedPanel()
     {
         savedPanel.SetActive(true);
         yield return new WaitForSeconds(1f);

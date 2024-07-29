@@ -573,15 +573,15 @@ MonoBehaviour:
       m_Calls: []
   m_text: MATH-ANGAT!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: b5ec78ee31011f44d9aace5de07568b3, type: 2}
-  m_sharedMaterial: {fileID: -7679020765440013195, guid: b5ec78ee31011f44d9aace5de07568b3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: ab2c7de95298ad149826696f246e0c16, type: 2}
+  m_sharedMaterial: {fileID: -4215615456666135707, guid: ab2c7de95298ad149826696f246e0c16, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4288059034
+  m_fontColor: {r: 0.6039216, g: 0.5882353, b: 0.5882353, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -817,7 +817,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -10, y: 328.5}
+  m_AnchoredPosition: {x: -10, y: 202}
   m_SizeDelta: {x: 820.9, y: 180}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &148584007
