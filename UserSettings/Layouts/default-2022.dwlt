@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Simulator
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 120
+  controlID: 58
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 467
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 65
+  controlID: 59
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 66
+  controlID: 60
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -260,7 +260,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SimulatorWindow
+  m_Name: SceneView
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -271,15 +271,15 @@ MonoBehaviour:
     height: 571
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 13}
+  m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
   - {fileID: 16}
   - {fileID: 14}
   - {fileID: 15}
   - {fileID: 13}
-  m_Selected: 4
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 4
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -613,7 +613,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Resources/QuizData/New Q&a/final boss enem/q43
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -621,16 +621,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 92
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Resources/QuizData/New Q&a/final boss enem/q43
   m_LastFoldersGridSize: 92
   m_LastProjectPath: C:\Users\Rhone Cabrera\Desktop\2DRPG-main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1001}
-    m_SelectedIDs: 1e320100
-    m_LastClickedID: 78366
-    m_ExpandedIDs: 00000000b4310100b6310100b8310100ba310100bc310100be310100c0310100c2310100c4310100c6310100c8310100ca310100cc310100ce3101001c32010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 1017}
+    m_SelectedIDs: a2530100
+    m_LastClickedID: 86946
+    m_ExpandedIDs: 00000000183201001a3201001c3201001e32010020320100223201002432010026320100283201002a3201002c3201002e3201003032010032320100763201007e32010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -658,7 +658,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b4310100b6310100b8310100ba310100bc310100be310100c0310100c2310100c4310100c6310100c8310100ca310100cc310100ce310100
+    m_ExpandedIDs: 00000000183201001a3201001c3201001e32010020320100223201002432010026320100283201002a3201002c3201002e3201003032010032320100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -686,7 +686,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300005ed50000dcd00000a2f70100e6d50100a22b02003ed2000058c7000068d60000961f0100aacb00008ecf00003ecd0000c8c900003ec900008aca000010cf0000f6c80000ec110100d6110100e41101000ccf000096ce000070c8000030cb000050c80000d6cc0000241101002611010028cb0000f2c800004ecf0000cacb00006aca00008ec900009811010008c90000e0cc0000d6cf0000e6ca0000b4cc0000e6c7000012110100f8100100041101000cc9000076ce0000b6cf000094cc0000ccc90000941001006c1001009c10010000000000502b010084320100c6600100fa31010086270100ee2b0100e22b010010c60000d8280100a2c50000a0c50000d0280100c828010082c4000072280100d44e0100bac80000b8c80000b6c80000b4c80000a4ce000016c90000d030010010ce0000
+    m_ExpandedInstanceIDs: c62300005ed50000dcd00000a2f70100e6d50100a22b02003ed2000058c7000068d60000961f0100aacb00008ecf00003ecd0000c8c900003ec900008aca000010cf0000f6c80000ec110100d6110100e41101000ccf000096ce000070c8000030cb000050c80000d6cc0000241101002611010028cb0000f2c800004ecf0000cacb00006aca00008ec900009811010008c90000e0cc0000d6cf0000e6ca0000b4cc0000e6c7000012110100f8100100041101000cc9000076ce0000b6cf000094cc0000ccc90000941001006c1001009c10010000000000502b010084320100c6600100fa31010086270100ee2b0100e22b010010c60000d8280100a2c50000a0c50000d0280100c828010082c4000072280100d44e0100bac80000b8c80000b6c80000b4c80000a4ce000016c90000d030010010ce000068d50000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -798,20 +798,20 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 24bc0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 0052ffff4c52ffffa25bffff7261ffff2e65fffffc67ffff4a6bffff5c6bffffc86cffff3476ffff14acffff24acffff34acffffe2acffffecacffff5aadffff9cb4ffffe4b4ffff5abeffff2ec4ffffeec7ffffc0caffff12ceffff28ceffff96cfffffb4d1ffff0edbffffcaeaffffe0f3ffffe4faffff8c4001002a430100
+      m_ExpandedIDs: 68abffffc2b4ffff48bcffff9abcffff0cc6ffffdccbffff98cfffff66d2ffffb4d5ffffc4d5ffff2ed7ffffccdaffffd4daffffe4daffffeadafffffcdaffff02dbffff64dbffff92dbffff06dcffff90deffff58e0ffff60e0ffff80e4ffffd8ebffffd8edffff7cf8ffff44faffff4cfaffffe4faffff16530100886e0100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Background
-        m_OriginalName: Background
+        m_Name: Enemy NPC 2
+        m_OriginalName: Enemy NPC 2
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -21452
+        m_UserData: -19758
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 0
@@ -1206,9 +1206,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1083.6964, y: 1005.0818, z: 0}
+    m_Target: {x: 259.7953, y: 259.95514, z: -0.17860511}
     speed: 2
-    m_Value: {x: 1083.6964, y: 1005.0818, z: 0.0000000033837928}
+    m_Value: {x: 259.5116, y: 259.76205, z: -0.1754823}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1258,9 +1258,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 145.23424
+    m_Target: 7.251895
     speed: 2
-    m_Value: 145.23424
+    m_Value: 6.9396124
   m_Ortho:
     m_Target: 1
     speed: 2
