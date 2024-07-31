@@ -14,8 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   quesToGive: {fileID: 0}
   Lines:
-  - he Mystic Cave is a treacherous Place, filled with ancient puzzles and fearsome
+  - the Mystic Cave is a treacherous Place, filled with ancient puzzles and fearsome
     guardians.
+  - be aware that if you die you will be stuck in the mystical cave.
   - Remember, the key to victory often lies in solving the cave's mathematical riddles.
     Good luck!
   OptionButtonText: 

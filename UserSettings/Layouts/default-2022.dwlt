@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Simulator
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 58
+  controlID: 127
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 59
+  controlID: 75
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 60
+  controlID: 66
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -260,7 +260,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SceneView
+  m_Name: SimulatorWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -271,15 +271,15 @@ MonoBehaviour:
     height: 571
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 20}
+  m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 20}
   - {fileID: 16}
   - {fileID: 14}
   - {fileID: 15}
   - {fileID: 13}
-  m_Selected: 0
-  m_LastSelected: 4
+  m_Selected: 4
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -613,7 +613,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources/QuizData/New Q&a/final boss enem/q43
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -621,16 +621,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 92
   m_LastFolders:
-  - Assets/Resources/QuizData/New Q&a/final boss enem/q43
+  - Assets/Scenes
   m_LastFoldersGridSize: 92
   m_LastProjectPath: C:\Users\Rhone Cabrera\Desktop\2DRPG-main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 1017}
-    m_SelectedIDs: a2530100
-    m_LastClickedID: 86946
-    m_ExpandedIDs: 00000000183201001a3201001c3201001e32010020320100223201002432010026320100283201002a3201002c3201002e3201003032010032320100763201007e32010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 1001}
+    m_SelectedIDs: 24320100
+    m_LastClickedID: 78372
+    m_ExpandedIDs: 00000000c2310100c4310100c6310100c8310100ca310100cc310100ce310100d0310100d2310100d4310100d6310100d8310100da310100dc3101002232010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -658,7 +658,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000183201001a3201001c3201001e32010020320100223201002432010026320100283201002a3201002c3201002e3201003032010032320100
+    m_ExpandedIDs: 00000000c2310100c4310100c6310100c8310100ca310100cc310100ce310100d0310100d2310100d4310100d6310100d8310100da310100dc310100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -798,23 +798,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 24bc0000
+      m_SelectedIDs: 3a330100
       m_LastClickedID: 0
-      m_ExpandedIDs: 68abffffc2b4ffff48bcffff9abcffff0cc6ffffdccbffff98cfffff66d2ffffb4d5ffffc4d5ffff2ed7ffffccdaffffd4daffffe4daffffeadafffffcdaffff02dbffff64dbffff92dbffff06dcffff90deffff58e0ffff60e0ffff80e4ffffd8ebffffd8edffff7cf8ffff44faffff4cfaffffe4faffff16530100886e0100
+      m_ExpandedIDs: 50caffffc8cdffffeed0ffff90d3ffff1cd5ffff4ad5ffffa6d5ffff2edbffff6cddfffff8deffff26dfffff28dfffffaee8ffff36eeffffc2effffff0efffff72f0ffff18f6ffff9ef6ffff5cf7ffff66f7ffffb4faffffe2faffffe4faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Enemy NPC 2
-        m_OriginalName: Enemy NPC 2
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -19758
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -1206,9 +1206,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 259.7953, y: 259.95514, z: -0.17860511}
+    m_Target: {x: 350.73743, y: 955.75104, z: 0}
     speed: 2
-    m_Value: {x: 259.5116, y: 259.76205, z: -0.1754823}
+    m_Value: {x: 350.73743, y: 955.75104, z: -0.000000103394164}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1258,9 +1258,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 7.251895
+    m_Target: 326.0393
     speed: 2
-    m_Value: 6.9396124
+    m_Value: 326.0393
   m_Ortho:
     m_Target: 1
     speed: 2
