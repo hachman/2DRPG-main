@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Simulator
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 127
+  controlID: 100
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 75
+  controlID: 49
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 66
+  controlID: 50
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -613,7 +613,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/Resources/QuizData/New Q&a/new quizdata revised/q1
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -621,16 +621,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 92
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/Resources/QuizData/New Q&a/new quizdata revised/q1
   m_LastFoldersGridSize: 92
   m_LastProjectPath: C:\Users\Rhone Cabrera\Desktop\2DRPG-main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 1001}
-    m_SelectedIDs: 24320100
-    m_LastClickedID: 78372
-    m_ExpandedIDs: 00000000c2310100c4310100c6310100c8310100ca310100cc310100ce310100d0310100d2310100d4310100d6310100d8310100da310100dc3101002232010000ca9a3bffffff7f
+    m_SelectedIDs: 24370100
+    m_LastClickedID: 79652
+    m_ExpandedIDs: 00000000a22e0100a42e0100a62e0100a82e0100aa2e0100ac2e0100ae2e0100b02e0100b22e0100b42e0100b62e0100b82e0100ba2e0100bc2e0100022f0100b036010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -658,7 +658,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c2310100c4310100c6310100c8310100ca310100cc310100ce310100d0310100d2310100d4310100d6310100d8310100da310100dc310100
+    m_ExpandedIDs: 00000000a22e0100a42e0100a62e0100a82e0100aa2e0100ac2e0100ae2e0100b02e0100b22e0100b42e0100b62e0100b82e0100ba2e0100bc2e0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -798,9 +798,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3a330100
-      m_LastClickedID: 0
-      m_ExpandedIDs: 50caffffc8cdffffeed0ffff90d3ffff1cd5ffff4ad5ffffa6d5ffff2edbffff6cddfffff8deffff26dfffff28dfffffaee8ffff36eeffffc2effffff0efffff72f0ffff18f6ffff9ef6ffff5cf7ffff66f7ffffb4faffffe2faffffe4faffff
+      m_SelectedIDs: a2f4ffff
+      m_LastClickedID: -2910
+      m_ExpandedIDs: 3ef3ffffa2f4ffffbef4ffffc8f4ffffd0f4ffff6af8ffffe4faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1206,9 +1206,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 350.73743, y: 955.75104, z: 0}
+    m_Target: {x: 894.40717, y: 358.34064, z: -5.54052}
     speed: 2
-    m_Value: {x: 350.73743, y: 955.75104, z: -0.000000103394164}
+    m_Value: {x: 930.63025, y: 347.9265, z: -5.145086}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1258,9 +1258,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 326.0393
+    m_Target: 918.2878
     speed: 2
-    m_Value: 326.0393
+    m_Value: 878.74426
   m_Ortho:
     m_Target: 1
     speed: 2
