@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ba4aff8db5944a4c8b5684699009a21
+guid: 99c337cff1f38a04d96a3a80afa1dec3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -126,19 +126,19 @@ TextureImporter:
       name: q12_0
       rect:
         serializedVersion: 2
-        x: 291
+        x: 94
         y: 193
-        width: 1819
-        height: 234
+        width: 2190
+        height: 233
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dac5c8a23c72a2946b8ec9d24045bd14
-      internalID: -1822789600
+      spriteID: e291ae86d1fb6354b878646a451ea96c
+      internalID: -1442338144
       vertices: []
       indices: 
       edges: []
@@ -154,7 +154,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      q12_0: -1822789600
+      q12_0: -1442338144
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

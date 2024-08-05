@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: Final boss
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: 1399287233, guid: 1fc933eb6fdcd274eb4dd096a06a6db0, type: 3}
+    choices:
+    - {fileID: 1737481572, guid: 7b662fedccd9eb64ea6bd2f4715b7380, type: 3}
+    - {fileID: -1272127271, guid: 97444f055eeef414f85ea3ee34fa6c2d, type: 3}
+    - {fileID: 1846210416, guid: 8ed7f6f0727c1ac4bba2b24a48329ca3, type: 3}
+    - {fileID: 299054002, guid: 6e2edd431de7003488b0a64b248b8e79, type: 3}
+    correctChoice: 1
+    solution: {fileID: -1689117823, guid: 9e3a64203b02e7b4e9a627aa6b09f25c, type: 3}
+  - question: {fileID: 1915067481, guid: 8a82c23e05d10ff41ad44a312bb730fd, type: 3}
+    choices:
+    - {fileID: -192748772, guid: 6c87d6c5d4a82db4a9c2402c1c14a3d8, type: 3}
+    - {fileID: -1746776660, guid: f4a6ab00635cdae4193a16c726e541f6, type: 3}
+    - {fileID: 2068454466, guid: f7f46d44b6990154a828cfc95bba7de5, type: 3}
+    - {fileID: 32785832, guid: 7f843295f6e40af4caa46b12b58ed649, type: 3}
+    correctChoice: 1
+    solution: {fileID: 435589780, guid: 57a8eafa07020e34786145a507e6eb7c, type: 3}
+  - question: {fileID: 183255634, guid: a8176ef9ccf061f4a807992d29081cc6, type: 3}
+    choices:
+    - {fileID: -250837039, guid: 9c342a38b8d9d1146b2bd909f90fb0a9, type: 3}
+    - {fileID: 2019007057, guid: c6f0b15c7a9c6f949b5ca82ee1614831, type: 3}
+    - {fileID: 1759326604, guid: e8b089cb4d8351b4f868670aeb788e9e, type: 3}
+    - {fileID: 1402942108, guid: dd4dbb85c3c6bc84e8396f0b4d94147b, type: 3}
+    correctChoice: 0
+    solution: {fileID: 1573545134, guid: e3929ffa09313044f9197f07b94a94ee, type: 3}
+  - question: {fileID: 94012331, guid: 3a41f70b00e3f894cacf8f55e12d370a, type: 3}
+    choices:
+    - {fileID: -1794799889, guid: 82f51789576ecb8469776b6b1bfdd748, type: 3}
+    - {fileID: 1636391915, guid: fdd0583d1f7467d4ea4767637fa3c51d, type: 3}
+    - {fileID: 1421243953, guid: 743623183e1e03e4ea499752ac343e9c, type: 3}
+    - {fileID: 836589274, guid: 6f5554f134fe9ea44a0c0db93ef01e43, type: 3}
+    correctChoice: 1
+    solution: {fileID: 1469420481, guid: ba67ebc6495f2d14fa1bb5afffbdff1e, type: 3}
+  - question: {fileID: 1574865918, guid: b386e1372c9866e41a58b11424675530, type: 3}
+    choices:
+    - {fileID: -693265232, guid: b3973f67f57efda48ba527542d66e972, type: 3}
+    - {fileID: -667135921, guid: b56cf09cca72fa142a7bd56489396b1e, type: 3}
+    - {fileID: 441274662, guid: ecdda7efd1e916f4bad63691678ade09, type: 3}
+    - {fileID: -614401699, guid: 396ec2d9cac608842b6fbde5480a3455, type: 3}
+    correctChoice: 0
+    solution: {fileID: -1260796656, guid: d5cdb022607ea1d439e42eea1858f62a, type: 3}
+  - question: {fileID: -1983847048, guid: ea89104afd41c9447ba28aae118539e4, type: 3}
+    choices:
+    - {fileID: -419571636, guid: 012c9fec59a88fa47ab6c88610dbb364, type: 3}
+    - {fileID: 1760562187, guid: e009685aa329d804a852713f39370594, type: 3}
+    - {fileID: 1484448727, guid: 32cb20d727b23e844b91d371eee65123, type: 3}
+    - {fileID: -2146602054, guid: 24bda03f836c2e049a9c7e80cdd088f3, type: 3}
+    correctChoice: 2
+    solution: {fileID: -383802590, guid: 9f28d37311c1aed4897460c48f9a44e4, type: 3}
+  - question: {fileID: -1051777911, guid: 43eb5685bb7bc4f43a4b7d74008f57ad, type: 3}
+    choices:
+    - {fileID: 2126925510, guid: bc523b8971e586545b5779b7dae72f80, type: 3}
+    - {fileID: 546985853, guid: fbfb2238727935e438d23024ca3433cf, type: 3}
+    - {fileID: -615849309, guid: a17a762e809b8344dabc1b5f069266ef, type: 3}
+    - {fileID: -1190570091, guid: be127b1f673df1a4c909a20db4e757a9, type: 3}
+    correctChoice: 0
+    solution: {fileID: -281420331, guid: 647fd12a35aaf864a8c04ee910042a13, type: 3}
+  - question: {fileID: 555111692, guid: 698bbf1231365bb4994f2256801a509b, type: 3}
+    choices:
+    - {fileID: -264873175, guid: 74f06d72e23293f4d88e9d9896533a0e, type: 3}
+    - {fileID: -841454254, guid: f7d6be1f9140b7241bca92f32967c873, type: 3}
+    - {fileID: 1047505938, guid: 080986e57dfb7704d81a4de789ab3038, type: 3}
+    - {fileID: 2039604956, guid: 836f17c00aabb6f49beaacf6ecf067dd, type: 3}
+    correctChoice: 1
+    solution: {fileID: -1836426193, guid: 4098a8ae20917f246bacab8e96947f5b, type: 3}
+  - question: {fileID: -159669639, guid: b4caf0c4093e66f49b25eea11f2c726e, type: 3}
+    choices:
+    - {fileID: 1023943033, guid: 2bdd8a5b7b87e6c45bb2d1a134221a0e, type: 3}
+    - {fileID: 1378349753, guid: ada83d919dc403c4ea476602ede87b36, type: 3}
+    - {fileID: 316363058, guid: 9e2369f9bd8470a41a5f0f3e7cb58bc0, type: 3}
+    - {fileID: -1690082663, guid: dee0cdbb5fd332c43aa41ae137797617, type: 3}
+    correctChoice: 3
+    solution: {fileID: -218718534, guid: 6ad871ccff3eaf14cbf118a575af3f3f, type: 3}
+  - question: {fileID: -1555099762, guid: ea3243a5f0f907746a24532125b435d0, type: 3}
+    choices:
+    - {fileID: -1509718658, guid: dfe955ae6150c384ca3b3b086e1e8e55, type: 3}
+    - {fileID: -1002286048, guid: 19f53a9dda36ccd4ba711e74b6d0a960, type: 3}
+    - {fileID: 1480839976, guid: 7bab70f3587a0da45998aebc65bb8ca6, type: 3}
+    - {fileID: -352828527, guid: 491e9cb158cc2dd47b1b2a1067301873, type: 3}
+    correctChoice: 0
+    solution: {fileID: 22355358, guid: 3fe456d306a3c6c43ae2fcdbcd14498c, type: 3}
+  - question: {fileID: 40129277, guid: 0a02789546f7a994a8338f5360d6fe89, type: 3}
+    choices:
+    - {fileID: 1813360098, guid: 0832b50958af0cd45a19e5c94f081947, type: 3}
+    - {fileID: -1663743914, guid: e226e2d89b24eee469454777e1644620, type: 3}
+    - {fileID: 1656138238, guid: 6f066a1d30b4f9f43818281cd73baf56, type: 3}
+    - {fileID: -236449757, guid: 2fb515bd681330c489b8881bc9326eaf, type: 3}
+    correctChoice: 0
+    solution: {fileID: 1735439106, guid: d511a7fc348d86b4ea0b6604ac485d63, type: 3}
+  - question: {fileID: -584490433, guid: 9f08ee19c734fa54f80bc8937e448519, type: 3}
+    choices:
+    - {fileID: 1015463332, guid: 3353333d72a96134abe9ae4a83fec695, type: 3}
+    - {fileID: 93406734, guid: a829b08b879bc414fa8688445ba60254, type: 3}
+    - {fileID: -771043852, guid: 407e4b9e968715d47a1773f6d466cf6c, type: 3}
+    - {fileID: -1436218504, guid: b1e6fa0c4a5a07c45822dfb86469e200, type: 3}
+    correctChoice: 1
+    solution: {fileID: -1830723297, guid: aebe05d6caa87914d817a3eea044006a, type: 3}
+  - question: {fileID: 1596642309, guid: bf2d13651f307ab42baacc57ac8f2619, type: 3}
+    choices:
+    - {fileID: -1570730019, guid: 1e74e936317c9ac46b9f1adcf477fa36, type: 3}
+    - {fileID: 1606377760, guid: aa626fb1f67afe54eab47991a972bca4, type: 3}
+    - {fileID: -216106054, guid: a212d89a8d127774a94a98b9b39db0ca, type: 3}
+    - {fileID: 2125538711, guid: ba6839cf496b9ac4e9e4fa4a65954a38, type: 3}
+    correctChoice: 2
+    solution: {fileID: -1776997577, guid: ca841de919eafc743aee65b6938e5fef, type: 3}
+  - question: {fileID: 1178742978, guid: 1a644adebe6b6a6439e8cd8a6b18ab59, type: 3}
+    choices:
+    - {fileID: -1732426771, guid: 9db76b3bf04147443a30d97229c8533b, type: 3}
+    - {fileID: 387838552, guid: 316d488cb7e5b404fbf8c5eab91d4f3b, type: 3}
+    - {fileID: -2100427005, guid: c251a97a7bff3d7458629b56ad3b1aeb, type: 3}
+    - {fileID: -1503703574, guid: 18f71d40bb2d2a14f81641c22c2540e3, type: 3}
+    correctChoice: 2
+    solution: {fileID: -778771166, guid: 28b946bf93c609c42b722e261e0d9238, type: 3}
+  - question: {fileID: 1737732676, guid: 3fb9ab23b9aef00448af1fde97440b39, type: 3}
+    choices:
+    - {fileID: 1663767222, guid: 4367649ed067f5e4998e78078d043449, type: 3}
+    - {fileID: 995175146, guid: c365ab8f90779724a968ea609e880dce, type: 3}
+    - {fileID: 1992222881, guid: 8dae6eef8ef8c7742a87d01a6d2c9073, type: 3}
+    - {fileID: 721978625, guid: 172e82fb395053a408e0035aa968c745, type: 3}
+    correctChoice: 1
+    solution: {fileID: -922285855, guid: 03f543cd3a5b7ce41967ef4eb45a55e4, type: 3}
+  timer: 15
+  IsEasy: 0
+  IsAverage: 0
+  IsBoss: 1
+  IsEasylives: 1
+  IsAverageLives: 3
+  IsBossLives: 8

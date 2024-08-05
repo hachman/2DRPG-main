@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 684eea594ea3b53438239a5d8726913f, type: 3}
+  m_Name: Guard cloud 1 enemy
+  m_EditorClassIdentifier: 
+  questions:
+  - question: {fileID: 1690716438, guid: a430d25a1335d7543a266f0846609778, type: 3}
+    choices:
+    - {fileID: -738529489, guid: 969e8186545b34a4589ccdccb5cef0ca, type: 3}
+    - {fileID: -1231704254, guid: da66df47c4ecdcb40882f4bf19d63309, type: 3}
+    - {fileID: 1727433547, guid: 6b24d6d628601784d81c4edd2bc22241, type: 3}
+    - {fileID: -2113075044, guid: f2a80cfd54c1107439b0b287e373dffb, type: 3}
+    correctChoice: 2
+    solution: {fileID: 1904812423, guid: 9e2e3e92f660e274893d7d452d496bd3, type: 3}
+  - question: {fileID: -1684114126, guid: 9e140550522e37e49a17fe8c6c71d14d, type: 3}
+    choices:
+    - {fileID: 1192821972, guid: 66aa248451c6a604f929185c3b64232b, type: 3}
+    - {fileID: -134637446, guid: 0230de68b5e51bc469a0014c9cb488a3, type: 3}
+    - {fileID: 929363264, guid: 03c74df70879e374198de590d64e79cd, type: 3}
+    - {fileID: 109915261, guid: 07a6fa8acc680304887b19eb40f966d6, type: 3}
+    correctChoice: 1
+    solution: {fileID: -1670522380, guid: 85e05b39b0876814b891148126aee676, type: 3}
+  - question: {fileID: 370000849, guid: 1c7e3935b1ebe4e478a9a15264f8a969, type: 3}
+    choices:
+    - {fileID: -187887262, guid: 529a062cea6dd2b4db29be29e0243f95, type: 3}
+    - {fileID: 1268211936, guid: ea1bee9a0cf681a4e980c19c2ff66373, type: 3}
+    - {fileID: 1754540887, guid: 21403e28bbe748a4e9998f82b097a890, type: 3}
+    - {fileID: -2065709520, guid: e2640f73ebc1b8243835bf62f3404c15, type: 3}
+    correctChoice: 2
+    solution: {fileID: 1147411178, guid: 9d5cd6c428b7ae14da9174650ffe6c2f, type: 3}
+  - question: {fileID: 902995267, guid: 860e0493c71243c47b0b895d368a8b28, type: 3}
+    choices:
+    - {fileID: 974492409, guid: 58b7cf73fe9379c41a6c3c3677e50c34, type: 3}
+    - {fileID: -685042345, guid: 0e9208b2ee64e9a4ba1b696180bb9e12, type: 3}
+    - {fileID: -317454809, guid: ceb2c0992c21dba41a7a4ad7e0000fdb, type: 3}
+    - {fileID: 314406051, guid: 85bdce32feeb22e449e10faba7b877fb, type: 3}
+    correctChoice: 0
+    solution: {fileID: 429593862, guid: 78a01879dc0570b4ba55e1a60cfd5bd8, type: 3}
+  - question: {fileID: 83754902, guid: fa5f6cb08c899224b87ee64323b70092, type: 3}
+    choices:
+    - {fileID: -762068665, guid: 1017f45891ec5bb4fa561bce7bd896ff, type: 3}
+    - {fileID: -1002462013, guid: 42fe5e5fc73f31740bbdb377c74d453c, type: 3}
+    - {fileID: -1379549089, guid: eac33115f31bbef41bfde90e14d15401, type: 3}
+    - {fileID: -527360338, guid: f9c6ea2c5ac67c24cb032e7d1bf0e100, type: 3}
+    correctChoice: 3
+    solution: {fileID: -632582586, guid: 6b4c0b360d3701d45b60fbb22ac988b3, type: 3}
+  timer: 30
+  IsEasy: 0
+  IsAverage: 1
+  IsBoss: 0
+  IsEasylives: 1
+  IsAverageLives: 3
+  IsBossLives: 8

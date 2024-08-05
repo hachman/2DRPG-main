@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2a64e57afc182aa469692764b43b8c5d
+guid: 772881b8eb621f64f90e2607ab110b6c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -126,9 +126,9 @@ TextureImporter:
       name: w solution q5_0
       rect:
         serializedVersion: 2
-        x: 429
+        x: 432
         y: 421
-        width: 1562
+        width: 1559
         height: 655
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -137,8 +137,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 891593e5403ffa24b8ec28e7cb2ee77f
-      internalID: 611820647
+      spriteID: 6ac234fe940715a4b91d53b3e6c1e025
+      internalID: -1822940402
       vertices: []
       indices: 
       edges: []
@@ -154,7 +154,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      w solution q5_0: 611820647
+      w solution q5_0: -1822940402
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
