@@ -2927,7 +2927,7 @@ PrefabInstance:
     - target: {fileID: 4496216604566849773, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 0cee06f582e828448af9cc24230d3a37, type: 3}
+      objectReference: {fileID: 472869547, guid: 910f3ed6128bfb441aaee777e47991a0, type: 3}
     - target: {fileID: 4496216604566849773, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_Color.a
       value: 0.41960785
@@ -3178,11 +3178,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_fontSize
-      value: 52.58
+      value: 46
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.w
-      value: 36.26513
+      value: 35.12186
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.x
@@ -3190,11 +3190,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.y
-      value: 37.407112
+      value: 39.69377
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.z
-      value: 49.968582
+      value: 49.968536
+      objectReference: {fileID: 0}
+    - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
+      propertyPath: m_fontStyle
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_fontColor.b
@@ -3206,6 +3210,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
+      propertyPath: m_enableAutoSizing
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}

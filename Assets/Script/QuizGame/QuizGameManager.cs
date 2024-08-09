@@ -346,8 +346,18 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     [Header("-- EASY AND AVERAGE REF --")]
     [SerializeField] TextMeshProUGUI easyLivesTMP;
     [SerializeField] TextMeshProUGUI averageLivesTMP;
-    [Header("QUIZ REF")]
+    [Header("HEARTS")]
+    [SerializeField] List<Image> playerHearts;
+    [SerializeField] Sprite fullHeart;
+    [SerializeField] Sprite emptyHeart;
+    [Header("EASY ENEMY HEARTS")]
+    [SerializeField] List<Image> enemyHearts;
+    [SerializeField] List<Image> aenemyHearts;
+    [SerializeField] List<Image> benemyHearts;
+    [SerializeField] Sprite enemfullHeart;
+    [SerializeField] Sprite enememptyHeart;
 
+    [Header("QUIZ REF")]
     public Image questionImage;
     public List<Button> choices;
     public TextMeshProUGUI scoreText;
@@ -367,7 +377,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
     private int currentQuestionIndex = 0;
     private int score = 0;
-    private int lives = 3;
+    private int lives = 0;
     private int enemyLives = 3;
     private float timer;
     private bool quizRunning = false;
@@ -420,7 +430,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         {
             //lives 8
             bossLivesTMP.gameObject.SetActive(true);
-            bossLivesTMP.text = string.Format($"BOSS LIVES: {bossLives}");
+            bossLivesTMP.text = string.Format($"BOSS LIVES:");
         }
         else
         {
@@ -432,7 +442,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             //lives 3
             averageLivesTMP.gameObject.SetActive(true);
             Debug.Log("Average ka wag kang bobo");
-            averageLivesTMP.text = $"ENEMY LIVES: {averageLives}";
+            averageLivesTMP.text = $"ENEMY LIVES:";
         }
         else
         {
@@ -444,13 +454,13 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             //lives 1
             easyLivesTMP.gameObject.SetActive(true);
             Debug.Log("Easy ka tanga");
-            easyLivesTMP.text = $"ENEMY LIVES: {easyLives}";
+            easyLivesTMP.text = $"ENEMY LIVES:";
         }
         else
         {
             easyLivesTMP.gameObject.SetActive(false);
         }
-        livesText.text = $"Lives: {lives}"; // Update lives text
+        livesText.text = $"Lives: "; // Update lives text
 
         Question currentQuestion = quizQuestions[currentQuestionIndex];
         questionImage.sprite = currentQuestion.question;
@@ -466,6 +476,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     {
         BattleSuccess = OnBattleSuccess;
         lives = 3; // Reset player lives
+        UpdateLivesUI();// player live updated
+       
         canvasGameObject.SetActive(true);
 
         if (!quizRunning)
@@ -481,6 +493,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         averageLives = data.IsAverageLives;
         bossLives = data.IsBossLives;
         lives = 3;
+        UpdateLivesUI();
+        UpdateEnemyLivesUI(); // enemy lives 
         BattleSuccess = OnBattleSuccess;
         canvasGameObject.SetActive(true);
         AudioManager.instance.PlayBackgroundMusic("battle");
@@ -500,6 +514,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             enemyLives = bossLives;
         }
 
+        UpdateEnemyLivesUI(); // enemy lives 
+        
         if (!quizRunning)
         {
             StartCoroutine(StartQuizWithIntroPanel());
@@ -563,7 +579,9 @@ public class QuizGameManager : MonoBehaviour, IQuizData
 
                 if (currentData.IsBoss)
                 {
+
                     bossLives--;
+                    UpdateEnemyLivesUI(); // enemy lives 
                     if (bossLives <= 0)
                     {
                         // display congrats
@@ -573,7 +591,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                 else if (currentData.IsEasy)
                 {
                     easyLives--;
-                    easyLivesTMP.text = $"ENEMY LIVES: {easyLives}";
+                    UpdateEnemyLivesUI(); // enemy lives 
+                    easyLivesTMP.text = $"ENEMY LIVES:";
                     if (easyLives <= 0)
                     {
                         StopCoroutine(GameWon());
@@ -582,7 +601,8 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                 else if (currentData.IsAverage)
                 {
                     averageLives--;
-                    averageLivesTMP.text = $"ENEMY LIVES: {averageLives}";
+                    UpdateEnemyLivesUI(); // enemy lives 
+                    averageLivesTMP.text = $"ENEMY LIVES:";
                     if (averageLives <= 0)
                     {
                         StartCoroutine(GameWon());
@@ -593,7 +613,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             else // wrong
             {
                 lives--;
-                livesText.text = "Lives: " + lives;
+                UpdateLivesUI();
                 if (quizQuestions[currentQuestionIndex].solution != null) solutionImage.sprite = quizQuestions[currentQuestionIndex].solution;
                 wrongFeedback.SetActive(true);
                 if (lives <= 0)
@@ -601,11 +621,40 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                     EndGame();
                 }
             }
-            
-             
+
+
         }
     }
 
+    private void UpdateEnemyLivesUI()
+    {
+        int remainingLives = 0;
+
+        if (currentData.IsEasy)
+        {
+            remainingLives = easyLives;
+        }
+        else if (currentData.IsAverage)
+        {
+            remainingLives = averageLives;
+        }
+        else if (currentData.IsBoss)
+        {
+            remainingLives = bossLives;
+        }
+
+        for (int i = 0; i < enemyHearts.Count; i++)
+        {
+            if (i < remainingLives)
+            {
+                enemyHearts[i].sprite = fullHeart;
+            }
+            else
+            {
+                enemyHearts[i].sprite = emptyHeart;
+            }
+        }
+    }
     public void ContinueGame() => SetupNextItem(); // no delay, next immediately
 
     IEnumerator BossKilled()
@@ -625,7 +674,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         correctFeedback?.SetActive(true);
         yield return new WaitForSeconds(1f);
         EndGame();
-        
+
     }
 
     IEnumerator NextQuestion()
@@ -665,7 +714,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     {
         StopQuiz(); // Stop the quiz when it ends
 
-        if (lives > 0 )
+        if (lives > 0)
         {
             BattleSuccess?.Invoke(true);
         }
@@ -699,4 +748,19 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         correctFeedback.SetActive(false);
         wrongFeedback.SetActive(false);
     }
+    private void UpdateLivesUI()
+    {
+        for (int i = 0; i < playerHearts.Count; i++)
+        {
+            if (i < lives)
+            {
+                playerHearts[i].sprite = fullHeart;
+            }
+            else
+            {
+                playerHearts[i].sprite = emptyHeart;
+            }
+        }
+    }
+   
 }
