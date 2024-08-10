@@ -352,10 +352,17 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     [SerializeField] Sprite emptyHeart;
     [Header("EASY ENEMY HEARTS")]
     [SerializeField] List<Image> enemyHearts;
-    [SerializeField] List<Image> aenemyHearts;
-    [SerializeField] List<Image> benemyHearts;
     [SerializeField] Sprite enemfullHeart;
     [SerializeField] Sprite enememptyHeart;
+    [Header("Average ENEMY HEARTS")]
+    [SerializeField] List<Image> aenemyHearts;
+    [SerializeField] Sprite anemfullHeart;
+    [SerializeField] Sprite anememptyHeart;
+    [Header("Boss ENEMY HEARTS")]
+    [SerializeField] List<Image> benemyHearts;
+    [SerializeField] Sprite bnemfullHeart;
+    [SerializeField] Sprite bnememptyHeart;
+
 
     [Header("QUIZ REF")]
     public Image questionImage;
@@ -581,6 +588,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                 {
 
                     bossLives--;
+                    Debug.Log($"Boss Lives Decreased: {bossLives}");
                     UpdateEnemyLivesUI(); // enemy lives 
                     if (bossLives <= 0)
                     {
@@ -601,6 +609,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
                 else if (currentData.IsAverage)
                 {
                     averageLives--;
+                    Debug.Log($"average Lives Decreased: {averageLives}");
                     UpdateEnemyLivesUI(); // enemy lives 
                     averageLivesTMP.text = $"ENEMY LIVES:";
                     if (averageLives <= 0)
@@ -629,8 +638,11 @@ public class QuizGameManager : MonoBehaviour, IQuizData
     private void UpdateEnemyLivesUI()
     {
         int remainingLives = 0;
-
-        if (currentData.IsEasy)
+        if (currentData.IsBoss)
+        {
+            remainingLives = bossLives;
+        }
+        else if (currentData.IsEasy)
         {
             remainingLives = easyLives;
         }
@@ -638,10 +650,7 @@ public class QuizGameManager : MonoBehaviour, IQuizData
         {
             remainingLives = averageLives;
         }
-        else if (currentData.IsBoss)
-        {
-            remainingLives = bossLives;
-        }
+        
 
         for (int i = 0; i < enemyHearts.Count; i++)
         {
@@ -652,6 +661,28 @@ public class QuizGameManager : MonoBehaviour, IQuizData
             else
             {
                 enemyHearts[i].sprite = emptyHeart;
+            }
+        }
+        for (int i = 0; i < aenemyHearts.Count; i++)
+        {
+            if (i < remainingLives)
+            {
+                aenemyHearts[i].sprite = fullHeart;
+            }
+            else
+            {
+                aenemyHearts[i].sprite = emptyHeart;
+            }
+        }
+        for (int i = 0; i < benemyHearts.Count; i++)
+        {
+            if (i < remainingLives)
+            {
+                benemyHearts[i].sprite = fullHeart;
+            }
+            else
+            {
+                benemyHearts[i].sprite = emptyHeart;
             }
         }
     }

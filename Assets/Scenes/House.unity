@@ -3182,23 +3182,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.w
-      value: 35.12186
+      value: 20.258457
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.x
-      value: 49.968674
+      value: 20.241898
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.y
-      value: 39.69377
+      value: 17.970352
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_margin.z
-      value: 49.968536
+      value: 17.955078
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_fontStyle
-      value: 1
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 8483322932075799574, guid: 2f0901296c140e4408ac56bb86fdccb0, type: 3}
       propertyPath: m_fontColor.b
