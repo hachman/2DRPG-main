@@ -149,7 +149,9 @@ public class MainMenu : MonoBehaviour
     public void OnNewGameClicked()
     {
         AudioManager.instance.PlaySoundEffect("click");
+        
         DataPersistenceManager.instance.NewGame();
+        
         QuestSystemManager.instance.ResetQuests();
     }
 

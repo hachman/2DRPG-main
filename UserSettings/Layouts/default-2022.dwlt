@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 124
+  controlID: 112
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 529
     height: 571
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 59
+  controlID: 49
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 60
+  controlID: 50
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -364,7 +364,7 @@ MonoBehaviour:
   m_UseMipMap: 0
   m_SimulatorState:
     controlPanelVisible: 0
-    controlPanelWidth: 0
+    controlPanelWidth: NaN
     controlPanelFoldoutKeys:
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
     controlPanelFoldoutValues: 00
@@ -461,7 +461,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -34686
+  m_LastSelectedObjectID: 50182
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -627,10 +627,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 73}
-    m_SelectedIDs: 08330100
-    m_LastClickedID: 78600
-    m_ExpandedIDs: 00000000b8320100ba320100bc320100be320100c03201000a33010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 253}
+    m_SelectedIDs: e22e0100
+    m_LastClickedID: 77538
+    m_ExpandedIDs: 00000000a02e0100a22e0100a42e0100a62e0100a82e010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -658,7 +658,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b8320100ba320100bc320100be320100c0320100
+    m_ExpandedIDs: 00000000a02e0100a22e0100a42e0100a62e0100a82e0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -755,7 +755,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 35
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -800,7 +800,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3419ffff8619ffff2623ffff3229fffff02cffffc02fffff1233ffff2833ffff9634ffff3e36ffff9636ffffe239ffff103affff2e3affff523cffffde3dffff0c3effff1c3effff5442ffff8242ffffc642ffff2647ffff5647ffffa849ffffb049ffffb849ffff024afffff055ffff1e56ffffa858ffff7861ffffca65ffff5667ffff8467fffff867ffff0c6bffff5e6bffff7874ffff847cffff4a95ffff189cffff26a5ffff78aeffffd2bdffffdcdfffffb8e0ffffc0e0ffffc8e0ffffd2e0ffff0af2ffffe4faffff684301005e4401005c980100169b01004e9b0100669e010096a00100
+      m_ExpandedIDs: e275ffff3476ffffca7fffffd085ffff8689ffff4e8cffff988fffffa48fffff0891ffff789dffff809dffff889dffff8c9dffff62bdffff22c4ffff50c4ffff08c7ffff40cbffff70cbffff3aceffffc4d1fffff2d1ffff38d5ffff86e7ffffd8eaffff08ebffff9eeefffffef2ffff2ef3ffffaef5ffffe4faffffe4c300003ec4000080c400009cc40000d8c40000e0c400000ec50000a6c60000da2f01002c390100da4301005a460100ce490100f6660100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1147,7 +1147,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 0
+      displayed: 1
       snapOffset: {x: 48, y: 48}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -1206,9 +1206,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1895.8242, y: 817.69666, z: -8.297146}
+    m_Target: {x: 1960.1553, y: 791.96423, z: -3.481512}
     speed: 2
-    m_Value: {x: 1895.8242, y: 817.69666, z: -8.297146}
+    m_Value: {x: 1960.1553, y: 791.96423, z: -3.481512}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1258,9 +1258,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 1069.1829
+    m_Target: 587.61896
     speed: 2
-    m_Value: 1069.1829
+    m_Value: 587.61896
   m_Ortho:
     m_Target: 1
     speed: 2
